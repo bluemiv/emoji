@@ -1,0 +1,13 @@
+{
+  "category": {
+    "face-smiling": "웃는 표정"
+  },
+  "emoji": [
+    {
+      "id": 1,
+      "unicode": "U+1F600",
+      "emoji": "😀",
+      "category": "face-smiling"
+    }
+  ]
+}
