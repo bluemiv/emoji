@@ -1,16 +1,18 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Header from "../components/header/Header";
-import MainContents from "../components/main/MainContents";
-import Footer from "../components/footer/Footer";
+import HeaderContainer from "../components/header/HeaderContainer";
+import MainContentsContainer from "../components/main/MainContentsContainer";
+import FooterContainer from "../components/footer/FooterContainer";
+
+import { Layout } from "antd";
 
 const HomePage = (props) => {
   return (
-    <>
-      <Header />
-      <MainContents />
-      <Footer />
-    </>
+    <Layout className="container">
+      <HeaderContainer />
+      <MainContentsContainer />
+      <FooterContainer />
+    </Layout>
   );
 };
 
