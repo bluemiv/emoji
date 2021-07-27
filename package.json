@@ -1,5 +1,5 @@
 {
-  "homepage": "https://taehong.github.io/react-github-pages",
+  "homepage": "https://taehong9301.github.io/emoji",
   "name": "emoji",
   "version": "0.0.1",
   "private": true,
@@ -16,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "react-scripts build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build && rm -rf ./build",
+    "deploy:win": "react-scripts build && gh-pages -d build && RD /S /Q build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
