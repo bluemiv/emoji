@@ -5,19 +5,22 @@ import { Layout, Menu } from "antd";
 
 const { Header } = Layout;
 
-const HeaderContainer = (props) => {
+const genMenuItem = (menuItemList) =>
+  menuItemList.map((item) => <Menu.Item key={item.key}>{item.text}</Menu.Item>);
+
+const HeaderContainer = ({ menuItemList }) => {
   return (
     <Header className="header">
       <div className="logo" />
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
-        <Menu.Item key="1">nav 1</Menu.Item>
-        <Menu.Item key="2">nav 2</Menu.Item>
-        <Menu.Item key="3">nav 3</Menu.Item>
+        {genMenuItem(menuItemList)}
       </Menu>
     </Header>
   );
 };
 
-HeaderContainer.propTypes = {};
+HeaderContainer.propTypes = {
+  menuItemList: PropTypes.array.isRequired,
+};
 
 export default HeaderContainer;

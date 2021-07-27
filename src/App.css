@@ -1,20 +1,34 @@
 .container {
   min-height: 100vh;
 }
+/* ------ */
+/* HEADER */
+/* ------ */
 .header {
   position: fixed;
   z-index: 1;
   width: 100%;
 }
+/* ------------- */
+/* MAIN CONTENTS */
+/* ------------- */
 .main {
   margin-top: 64px;
   padding: 0 50px;
 }
-.main__bg {
+/* breadcrumb */
+.main__breadcrumb {
+  margin: 16px 0;
+}
+/* contents */
+.main__contents-item {
   background-color: #ffffff;
   padding: 24px;
-  height: 100%;
+  height: auto;
 }
+/* ------------- */
+/* FOOTER */
+/* ------------- */
 .footer {
   text-align: center;
 }

@@ -1,22 +1,25 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Layout, Breadcrumb } from "antd";
+import EmojiBoxContainer from "./EmojiBoxContainer";
 
 const { Content } = Layout;
 
-const MainContentsContainer = (props) => {
+const MainContentsContainer = ({ menuItemList }) => {
   return (
     <Content className="main">
-      <Breadcrumb style={{ margin: "16px 0" }}>
+      <Breadcrumb className="main__breadcrumb" style={{}}>
         <Breadcrumb.Item>Home</Breadcrumb.Item>
         <Breadcrumb.Item>List</Breadcrumb.Item>
         <Breadcrumb.Item>App</Breadcrumb.Item>
       </Breadcrumb>
-      <div className="main__bg">Content</div>
+      <EmojiBoxContainer />
     </Content>
   );
 };
 
-MainContentsContainer.propTypes = {};
+MainContentsContainer.propTypes = {
+  menuItemList: PropTypes.array.isRequired,
+};
 
 export default MainContentsContainer;
