@@ -1,7 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const EmojiBox = (props) => {
+const EmojiBox = ({ emojiInfo }) => {
+  console.log(emojiInfo);
   return <div></div>;
 };
 

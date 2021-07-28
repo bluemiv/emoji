@@ -1,19 +1,20 @@
-import React from "react";
+import React, { useEffect } from "react";
 import PropTypes from "prop-types";
 import { Layout, Breadcrumb } from "antd";
-import EmojiBoxContainer from "./EmojiBoxContainer";
+import HomePage from "../pages/HomePage";
 
 const { Content } = Layout;
 
-const MainContentsContainer = ({ menuItemList }) => {
+const MainContentsContainer = () => {
   return (
     <Content className="main">
-      <Breadcrumb className="main__breadcrumb" style={{}}>
+      <Breadcrumb className="main__breadcrumb">
         <Breadcrumb.Item>Home</Breadcrumb.Item>
         <Breadcrumb.Item>List</Breadcrumb.Item>
         <Breadcrumb.Item>App</Breadcrumb.Item>
       </Breadcrumb>
-      <EmojiBoxContainer />
+      {/* 라우팅 추가 */}
+      <HomePage />
     </Content>
   );
 };

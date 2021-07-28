@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.unicode.org/emoji/charts/full-emoji-list.html"
 DATA_DIR_NAME = os.path.join(os.path.dirname(os.path.abspath(__file__)), "result")
-DATA_FILE_NAME = "data.json"
+DATA_FILE_NAME = "emoji.js"
 FULL_PATH = os.path.join(DATA_DIR_NAME, DATA_FILE_NAME)
 
 
@@ -55,4 +55,4 @@ if __name__ == "__main__":
 
     # 파일 저장
     with open(FULL_PATH, "w", encoding="utf-8") as f:
-        f.write(json.dumps(data, indent=2, ensure_ascii=False))
+        f.write("export const emoji = {}".format(json.dumps(data, indent=2, ensure_ascii=False)))

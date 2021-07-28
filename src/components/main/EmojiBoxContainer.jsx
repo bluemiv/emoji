@@ -1,21 +1,28 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 import EmojiBox from "./EmojiBox";
-import SkeletonText from "../common/SkeletonText";
 
-const EmojiBoxContainer = (props) => {
-  const [loading, setLoading] = useState(true);
-  // TODO 이모지 데이터를 가지고 온다.
-  useEffect(() => {}, []);
+const EmojiBoxContainer = ({ title, data }) => {
+  const genEmojiBox = () =>
+    Object.keys(data).map((mediumHead) => {
+      const subData = data[mediumHead];
 
-  const genEmojiBox = () => {
-    return <EmojiBox />;
-  };
+      return (
+        <div key={mediumHead}>
+          <h3>{mediumHead}</h3>
+          <div>
+            {subData.map((emojiInfo) => (
+              <EmojiBox key={emojiInfo.id} emojiInfo={emojiInfo} />
+            ))}
+          </div>
+        </div>
+      );
+    });
 
   return (
     <div className="main__contents-item">
-      <h1>title</h1>
-      {loading ? <SkeletonText line={3} /> : <div>{genEmojiBox()}</div>}
+      <h2>{title}</h2>
+      {genEmojiBox()}
     </div>
   );
 };
