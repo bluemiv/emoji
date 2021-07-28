@@ -8,9 +8,9 @@ const EmojiBoxContainer = ({ title, data }) => {
       const subData = data[mediumHead];
 
       return (
-        <div key={mediumHead}>
-          <h3>{mediumHead}</h3>
-          <div>
+        <div key={mediumHead} className="emojibox__medium">
+          <h3 className="emojibox__medium-tit">{mediumHead}</h3>
+          <div className="emojibox__item-container">
             {subData.map((emojiInfo) => (
               <EmojiBox key={emojiInfo.id} emojiInfo={emojiInfo} />
             ))}
@@ -20,8 +20,8 @@ const EmojiBoxContainer = ({ title, data }) => {
     });
 
   return (
-    <div className="main__contents-item">
-      <h2>{title}</h2>
+    <div className="main__contents-item emojibox__big">
+      <h2 className="emojibox__tit">{title}</h2>
       {genEmojiBox()}
     </div>
   );
