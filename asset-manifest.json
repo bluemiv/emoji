@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/emoji/static/css/main.bff73ead.chunk.css",
-    "main.js": "/emoji/static/js/main.d477b984.chunk.js",
-    "main.js.map": "/emoji/static/js/main.d477b984.chunk.js.map",
+    "main.css": "/emoji/static/css/main.4fcde433.chunk.css",
+    "main.js": "/emoji/static/js/main.7197711c.chunk.js",
+    "main.js.map": "/emoji/static/js/main.7197711c.chunk.js.map",
     "runtime-main.js": "/emoji/static/js/runtime-main.02a992f5.js",
     "runtime-main.js.map": "/emoji/static/js/runtime-main.02a992f5.js.map",
     "static/css/2.c09b5ca6.chunk.css": "/emoji/static/css/2.c09b5ca6.chunk.css",
-    "static/js/2.83afc660.chunk.js": "/emoji/static/js/2.83afc660.chunk.js",
-    "static/js/2.83afc660.chunk.js.map": "/emoji/static/js/2.83afc660.chunk.js.map",
+    "static/js/2.347bc6fb.chunk.js": "/emoji/static/js/2.347bc6fb.chunk.js",
+    "static/js/2.347bc6fb.chunk.js.map": "/emoji/static/js/2.347bc6fb.chunk.js.map",
     "static/js/3.9c466b75.chunk.js": "/emoji/static/js/3.9c466b75.chunk.js",
     "static/js/3.9c466b75.chunk.js.map": "/emoji/static/js/3.9c466b75.chunk.js.map",
     "index.html": "/emoji/index.html",
     "static/css/2.c09b5ca6.chunk.css.map": "/emoji/static/css/2.c09b5ca6.chunk.css.map",
-    "static/css/main.bff73ead.chunk.css.map": "/emoji/static/css/main.bff73ead.chunk.css.map",
-    "static/js/2.83afc660.chunk.js.LICENSE.txt": "/emoji/static/js/2.83afc660.chunk.js.LICENSE.txt"
+    "static/css/main.4fcde433.chunk.css.map": "/emoji/static/css/main.4fcde433.chunk.css.map",
+    "static/js/2.347bc6fb.chunk.js.LICENSE.txt": "/emoji/static/js/2.347bc6fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02a992f5.js",
     "static/css/2.c09b5ca6.chunk.css",
-    "static/js/2.83afc660.chunk.js",
-    "static/css/main.bff73ead.chunk.css",
-    "static/js/main.d477b984.chunk.js"
+    "static/js/2.347bc6fb.chunk.js",
+    "static/css/main.4fcde433.chunk.css",
+    "static/js/main.7197711c.chunk.js"
   ]
 }
