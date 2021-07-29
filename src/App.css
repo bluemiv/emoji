@@ -56,6 +56,9 @@
   width: 100px;
   height: 100px;
 }
+.emojibox__item:hover {
+  cursor: pointer;
+}
 .emojibox__item-emoji {
   font-size: 1.7em;
 }

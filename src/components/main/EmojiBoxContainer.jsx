@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import EmojiBox from "./EmojiBox";
+import { Divider } from "antd";
 
 const EmojiBoxContainer = ({ title, data }) => {
   const genEmojiBox = () =>
@@ -9,7 +10,7 @@ const EmojiBoxContainer = ({ title, data }) => {
 
       return (
         <div key={mediumHead} className="emojibox__medium">
-          <h3 className="emojibox__medium-tit">{mediumHead}</h3>
+          <Divider>{mediumHead}</Divider>
           <div className="emojibox__item-container">
             {subData.map((emojiInfo) => (
               <EmojiBox key={emojiInfo.id} emojiInfo={emojiInfo} />
