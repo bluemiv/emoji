@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Tooltip } from "antd";
+import { Button, Tooltip } from "antd";
 import { onClickOkNotification } from "../common/Notification";
 
 const EmojiBox = ({ emojiInfo }) => {
@@ -10,19 +10,16 @@ const EmojiBox = ({ emojiInfo }) => {
     navigator.clipboard.writeText(emoji);
     onClickOkNotification(
       "복사 완료",
-      `${emoji}를 원하시는곳에 붙여 사용하세요!`
+      `이모지 ${emoji}를 원하시는곳에 붙여 사용하세요!\n${name} (${unicode})`
     );
   };
 
   return (
-    <div className="emojibox__item" onClick={onClickHandler}>
-      <Tooltip title={name}>
+    <Tooltip type="primary" title={`${name} (${unicode})`}>
+      <Button className="emojibox__item" onClick={onClickHandler}>
         <div className="emojibox__item-emoji">{emoji}</div>
-      </Tooltip>
-      <Tooltip placement="bottom" title={unicode}>
-        <div className="emojibox__item-unicode">unicode</div>
-      </Tooltip>
-    </div>
+      </Button>
+    </Tooltip>
   );
 };
 

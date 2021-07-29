@@ -235,7 +235,7 @@ export const emoji = {
         id: "38",
         unicode: ["U+1F636", "U+200D", "U+1F32B", "U+FE0F"],
         emoji: "😶‍🌫️",
-        name: "⊛ face in clouds",
+        name: "face in clouds",
       },
       {
         id: "39",
@@ -265,7 +265,7 @@ export const emoji = {
         id: "43",
         unicode: ["U+1F62E", "U+200D", "U+1F4A8"],
         emoji: "😮‍💨",
-        name: "⊛ face exhaling",
+        name: "face exhaling",
       },
       {
         id: "44",
@@ -371,7 +371,7 @@ export const emoji = {
         id: "60",
         unicode: ["U+1F635", "U+200D", "U+1F4AB"],
         emoji: "😵‍💫",
-        name: "⊛ face with spiral eyes",
+        name: "face with spiral eyes",
       },
       {
         id: "61",
@@ -819,13 +819,13 @@ export const emoji = {
         id: "132",
         unicode: ["U+2764", "U+FE0F", "U+200D", "U+1F525"],
         emoji: "❤️‍🔥",
-        name: "⊛ heart on fire",
+        name: "heart on fire",
       },
       {
         id: "133",
         unicode: ["U+2764", "U+FE0F", "U+200D", "U+1FA79"],
         emoji: "❤️‍🩹",
-        name: "⊛ mending heart",
+        name: "mending heart",
       },
       {
         id: "134",
@@ -1341,13 +1341,13 @@ export const emoji = {
         id: "216",
         unicode: ["U+1F9D4", "U+200D", "U+2642", "U+FE0F"],
         emoji: "🧔‍♂️",
-        name: "⊛ man: beard",
+        name: "man: beard",
       },
       {
         id: "217",
         unicode: ["U+1F9D4", "U+200D", "U+2640", "U+FE0F"],
         emoji: "🧔‍♀️",
-        name: "⊛ woman: beard",
+        name: "woman: beard",
       },
       {
         id: "218",
