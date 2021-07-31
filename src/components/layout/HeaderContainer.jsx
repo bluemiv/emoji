@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import LogoImage from "../components/header/LogoImage";
 import { Layout, Menu } from "antd";
 
 const { Header } = Layout;

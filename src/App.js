@@ -1,16 +1,14 @@
 import "./App.css";
+import BasicLayout from "./layout/BasicLayout";
 import HomePage from "./pages/HomePage";
-import HeaderContainer from "./layout/HeaderContainer";
-import MainContentsContainer from "./layout/MainContentsContainer";
-import FooterContainer from "./layout/FooterContainer";
 import { Layout } from "antd";
 
 const App = () => {
   return (
     <Layout className="container">
-      <HeaderContainer />
-      <MainContentsContainer />
-      <FooterContainer />
+      {/* Router */}
+      {/* Home 화면 */}
+      <BasicLayout Page={HomePage} />
     </Layout>
   );
 };

@@ -7,7 +7,7 @@ const { Footer } = Layout;
 const FooterContainer = (props) => {
   return (
     <Footer className="footer">
-      © {new Date().getFullYear()} EmojiSet, All rights reserved. Created by
+      {new Date().getFullYear()} © EmojiSet, All rights reserved. Created by
       Taehong Kim
     </Footer>
   );
