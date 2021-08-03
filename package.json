@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "gatsby-plugin-sitemap": "^4.6.0",
+    "gh-pages": "^3.2.3",
     "prettier": "2.3.2"
   },
   "keywords": [
