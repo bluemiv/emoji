@@ -1,0 +1,31 @@
+{
+  "title": "Component",
+  "data": {
+    "hair-style": [
+      {
+        "id": "506",
+        "unicode": "U+1F9B0",
+        "emoji": "🦰",
+        "name": "red hair"
+      },
+      {
+        "id": "507",
+        "unicode": "U+1F9B1",
+        "emoji": "🦱",
+        "name": "curly hair"
+      },
+      {
+        "id": "508",
+        "unicode": "U+1F9B3",
+        "emoji": "🦳",
+        "name": "white hair"
+      },
+      {
+        "id": "509",
+        "unicode": "U+1F9B2",
+        "emoji": "🦲",
+        "name": "bald"
+      }
+    ]
+  }
+}
