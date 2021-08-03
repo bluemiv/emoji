@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emoji/static/css/main.388ccecd.chunk.css",
-    "main.js": "/emoji/static/js/main.50518a76.chunk.js",
-    "main.js.map": "/emoji/static/js/main.50518a76.chunk.js.map",
+    "main.js": "/emoji/static/js/main.fe6d2168.chunk.js",
+    "main.js.map": "/emoji/static/js/main.fe6d2168.chunk.js.map",
     "runtime-main.js": "/emoji/static/js/runtime-main.22246dd8.js",
     "runtime-main.js.map": "/emoji/static/js/runtime-main.22246dd8.js.map",
     "static/css/2.c09b5ca6.chunk.css": "/emoji/static/css/2.c09b5ca6.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c09b5ca6.chunk.css",
     "static/js/2.b6ad0c81.chunk.js",
     "static/css/main.388ccecd.chunk.css",
-    "static/js/main.50518a76.chunk.js"
+    "static/js/main.fe6d2168.chunk.js"
   ]
 }
