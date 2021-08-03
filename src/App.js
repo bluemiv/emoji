@@ -16,29 +16,41 @@ const App = () => {
       <Layout className="container">
         <Switch>
           {/* Home 화면 */}
-          <Route path="/">
-            <BasicLayout Page={HomePage} />
-          </Route>
+          <Route
+            exact
+            path="/"
+            component={() => <BasicLayout Page={HomePage} />}
+          />
           {/* 스마일 & 감정 화면 */}
-          <Route path="/smileys-emotion">
-            <BasicLayout Page={SmileysAndEmotionPage} />
-          </Route>
+          <Route
+            exact
+            path="/smileys-emotion"
+            component={() => <BasicLayout Page={SmileysAndEmotionPage} />}
+          />
           {/* 사람 & 몸 화면 */}
-          <Route path="/people-body">
-            <BasicLayout Page={PeopleAndBodyPage} />
-          </Route>
+          <Route
+            exact
+            path="/people-body"
+            component={() => <BasicLayout Page={PeopleAndBodyPage} />}
+          />
           {/* 음식 & 음료 화면 */}
-          <Route path="/food-drink">
-            <BasicLayout Page={FoodAndDrinkPage} />
-          </Route>
+          <Route
+            exact
+            path="/food-drink"
+            component={() => <BasicLayout Page={FoodAndDrinkPage} />}
+          />
           {/* 구성요소 화면 */}
-          <Route path="/component">
-            <BasicLayout Page={ComponentPage} />
-          </Route>
+          <Route
+            exact
+            path="/component"
+            component={() => <BasicLayout Page={ComponentPage} />}
+          />
           {/* 동물 & 자연 화면 */}
-          <Route path="/animals-nature">
-            <BasicLayout Page={AnimalsAndNaturePage} />
-          </Route>
+          <Route
+            exact
+            path="/animals-nature"
+            component={() => <BasicLayout Page={AnimalsAndNaturePage} />}
+          />
         </Switch>
       </Layout>
     </Router>

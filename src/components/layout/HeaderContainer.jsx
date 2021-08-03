@@ -1,20 +1,51 @@
 import React from "react";
 import { Layout, Menu } from "antd";
-import { Link, useRouteMatch } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const { Header } = Layout;
 
 const HeaderContainer = () => {
-  const match = useRouteMatch();
+  const menuItems = [
+    {
+      key: 1,
+      url: "/",
+      title: "전체",
+    },
+    {
+      key: 2,
+      url: "/smileys-emotion",
+      title: "😀 & 💖",
+    },
+    {
+      key: 3,
+      url: "/people-body",
+      title: "👍 & 🙆",
+    },
+    {
+      key: 4,
+      url: "/food-drink",
+      title: "🍓 & ☕",
+    },
+    {
+      key: 5,
+      url: "/component",
+      title: "🦰",
+    },
+    {
+      key: 6,
+      url: "/animals-nature",
+      title: "🐵 & 🌴",
+    },
+  ];
+
   return (
     <Header className="header">
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
-        <Menu.Item key="1">
-          <Link to={match.url}>전체</Link>
-        </Menu.Item>
-        <Menu.Item key="2">
-          <Link to={`${match.url}smileys-emotion`}>스마일 & 감정</Link>
-        </Menu.Item>
+        {menuItems.map((menuItem) => (
+          <Menu.Item key={menuItem.key}>
+            <Link to={menuItem.url}>{menuItem.title}</Link>
+          </Menu.Item>
+        ))}
       </Menu>
     </Header>
   );
