@@ -1,0 +1,8000 @@
+{
+  
+  
+  
+  
+  "Food & Drink": {
+    "food-fruit": [
+      {
+        "id": "650",
+        "unicode": "U+1F347",
+        "emoji": "🍇",
+        "name": "grapes"
+      },
+      {
+        "id": "651",
+        "unicode": "U+1F348",
+        "emoji": "🍈",
+        "name": "melon"
+      },
+      {
+        "id": "652",
+        "unicode": "U+1F349",
+        "emoji": "🍉",
+        "name": "watermelon"
+      },
+      {
+        "id": "653",
+        "unicode": "U+1F34A",
+        "emoji": "🍊",
+        "name": "tangerine"
+      },
+      {
+        "id": "654",
+        "unicode": "U+1F34B",
+        "emoji": "🍋",
+        "name": "lemon"
+      },
+      {
+        "id": "655",
+        "unicode": "U+1F34C",
+        "emoji": "🍌",
+        "name": "banana"
+      },
+      {
+        "id": "656",
+        "unicode": "U+1F34D",
+        "emoji": "🍍",
+        "name": "pineapple"
+      },
+      {
+        "id": "657",
+        "unicode": "U+1F96D",
+        "emoji": "🥭",
+        "name": "mango"
+      },
+      {
+        "id": "658",
+        "unicode": "U+1F34E",
+        "emoji": "🍎",
+        "name": "red apple"
+      },
+      {
+        "id": "659",
+        "unicode": "U+1F34F",
+        "emoji": "🍏",
+        "name": "green apple"
+      },
+      {
+        "id": "660",
+        "unicode": "U+1F350",
+        "emoji": "🍐",
+        "name": "pear"
+      },
+      {
+        "id": "661",
+        "unicode": "U+1F351",
+        "emoji": "🍑",
+        "name": "peach"
+      },
+      {
+        "id": "662",
+        "unicode": "U+1F352",
+        "emoji": "🍒",
+        "name": "cherries"
+      },
+      {
+        "id": "663",
+        "unicode": "U+1F353",
+        "emoji": "🍓",
+        "name": "strawberry"
+      },
+      {
+        "id": "664",
+        "unicode": "U+1FAD0",
+        "emoji": "🫐",
+        "name": "blueberries"
+      },
+      {
+        "id": "665",
+        "unicode": "U+1F95D",
+        "emoji": "🥝",
+        "name": "kiwi fruit"
+      },
+      {
+        "id": "666",
+        "unicode": "U+1F345",
+        "emoji": "🍅",
+        "name": "tomato"
+      },
+      {
+        "id": "667",
+        "unicode": "U+1FAD2",
+        "emoji": "🫒",
+        "name": "olive"
+      },
+      {
+        "id": "668",
+        "unicode": "U+1F965",
+        "emoji": "🥥",
+        "name": "coconut"
+      }
+    ],
+    "food-vegetable": [
+      {
+        "id": "669",
+        "unicode": "U+1F951",
+        "emoji": "🥑",
+        "name": "avocado"
+      },
+      {
+        "id": "670",
+        "unicode": "U+1F346",
+        "emoji": "🍆",
+        "name": "eggplant"
+      },
+      {
+        "id": "671",
+        "unicode": "U+1F954",
+        "emoji": "🥔",
+        "name": "potato"
+      },
+      {
+        "id": "672",
+        "unicode": "U+1F955",
+        "emoji": "🥕",
+        "name": "carrot"
+      },
+      {
+        "id": "673",
+        "unicode": "U+1F33D",
+        "emoji": "🌽",
+        "name": "ear of corn"
+      },
+      {
+        "id": "674",
+        "unicode": "U+1F336",
+        "emoji": "🌶",
+        "name": "hot pepper"
+      },
+      {
+        "id": "675",
+        "unicode": "U+1FAD1",
+        "emoji": "🫑",
+        "name": "bell pepper"
+      },
+      {
+        "id": "676",
+        "unicode": "U+1F952",
+        "emoji": "🥒",
+        "name": "cucumber"
+      },
+      {
+        "id": "677",
+        "unicode": "U+1F96C",
+        "emoji": "🥬",
+        "name": "leafy green"
+      },
+      {
+        "id": "678",
+        "unicode": "U+1F966",
+        "emoji": "🥦",
+        "name": "broccoli"
+      },
+      {
+        "id": "679",
+        "unicode": "U+1F9C4",
+        "emoji": "🧄",
+        "name": "garlic"
+      },
+      {
+        "id": "680",
+        "unicode": "U+1F9C5",
+        "emoji": "🧅",
+        "name": "onion"
+      },
+      {
+        "id": "681",
+        "unicode": "U+1F344",
+        "emoji": "🍄",
+        "name": "mushroom"
+      },
+      {
+        "id": "682",
+        "unicode": "U+1F95C",
+        "emoji": "🥜",
+        "name": "peanuts"
+      },
+      {
+        "id": "683",
+        "unicode": "U+1F330",
+        "emoji": "🌰",
+        "name": "chestnut"
+      }
+    ],
+    "food-prepared": [
+      {
+        "id": "684",
+        "unicode": "U+1F35E",
+        "emoji": "🍞",
+        "name": "bread"
+      },
+      {
+        "id": "685",
+        "unicode": "U+1F950",
+        "emoji": "🥐",
+        "name": "croissant"
+      },
+      {
+        "id": "686",
+        "unicode": "U+1F956",
+        "emoji": "🥖",
+        "name": "baguette bread"
+      },
+      {
+        "id": "687",
+        "unicode": "U+1FAD3",
+        "emoji": "🫓",
+        "name": "flatbread"
+      },
+      {
+        "id": "688",
+        "unicode": "U+1F968",
+        "emoji": "🥨",
+        "name": "pretzel"
+      },
+      {
+        "id": "689",
+        "unicode": "U+1F96F",
+        "emoji": "🥯",
+        "name": "bagel"
+      },
+      {
+        "id": "690",
+        "unicode": "U+1F95E",
+        "emoji": "🥞",
+        "name": "pancakes"
+      },
+      {
+        "id": "691",
+        "unicode": "U+1F9C7",
+        "emoji": "🧇",
+        "name": "waffle"
+      },
+      {
+        "id": "692",
+        "unicode": "U+1F9C0",
+        "emoji": "🧀",
+        "name": "cheese wedge"
+      },
+      {
+        "id": "693",
+        "unicode": "U+1F356",
+        "emoji": "🍖",
+        "name": "meat on bone"
+      },
+      {
+        "id": "694",
+        "unicode": "U+1F357",
+        "emoji": "🍗",
+        "name": "poultry leg"
+      },
+      {
+        "id": "695",
+        "unicode": "U+1F969",
+        "emoji": "🥩",
+        "name": "cut of meat"
+      },
+      {
+        "id": "696",
+        "unicode": "U+1F953",
+        "emoji": "🥓",
+        "name": "bacon"
+      },
+      {
+        "id": "697",
+        "unicode": "U+1F354",
+        "emoji": "🍔",
+        "name": "hamburger"
+      },
+      {
+        "id": "698",
+        "unicode": "U+1F35F",
+        "emoji": "🍟",
+        "name": "french fries"
+      },
+      {
+        "id": "699",
+        "unicode": "U+1F355",
+        "emoji": "🍕",
+        "name": "pizza"
+      },
+      {
+        "id": "700",
+        "unicode": "U+1F32D",
+        "emoji": "🌭",
+        "name": "hot dog"
+      },
+      {
+        "id": "701",
+        "unicode": "U+1F96A",
+        "emoji": "🥪",
+        "name": "sandwich"
+      },
+      {
+        "id": "702",
+        "unicode": "U+1F32E",
+        "emoji": "🌮",
+        "name": "taco"
+      },
+      {
+        "id": "703",
+        "unicode": "U+1F32F",
+        "emoji": "🌯",
+        "name": "burrito"
+      },
+      {
+        "id": "704",
+        "unicode": "U+1FAD4",
+        "emoji": "🫔",
+        "name": "tamale"
+      },
+      {
+        "id": "705",
+        "unicode": "U+1F959",
+        "emoji": "🥙",
+        "name": "stuffed flatbread"
+      },
+      {
+        "id": "706",
+        "unicode": "U+1F9C6",
+        "emoji": "🧆",
+        "name": "falafel"
+      },
+      {
+        "id": "707",
+        "unicode": "U+1F95A",
+        "emoji": "🥚",
+        "name": "egg"
+      },
+      {
+        "id": "708",
+        "unicode": "U+1F373",
+        "emoji": "🍳",
+        "name": "cooking"
+      },
+      {
+        "id": "709",
+        "unicode": "U+1F958",
+        "emoji": "🥘",
+        "name": "shallow pan of food"
+      },
+      {
+        "id": "710",
+        "unicode": "U+1F372",
+        "emoji": "🍲",
+        "name": "pot of food"
+      },
+      {
+        "id": "711",
+        "unicode": "U+1FAD5",
+        "emoji": "🫕",
+        "name": "fondue"
+      },
+      {
+        "id": "712",
+        "unicode": "U+1F963",
+        "emoji": "🥣",
+        "name": "bowl with spoon"
+      },
+      {
+        "id": "713",
+        "unicode": "U+1F957",
+        "emoji": "🥗",
+        "name": "green salad"
+      },
+      {
+        "id": "714",
+        "unicode": "U+1F37F",
+        "emoji": "🍿",
+        "name": "popcorn"
+      },
+      {
+        "id": "715",
+        "unicode": "U+1F9C8",
+        "emoji": "🧈",
+        "name": "butter"
+      },
+      {
+        "id": "716",
+        "unicode": "U+1F9C2",
+        "emoji": "🧂",
+        "name": "salt"
+      },
+      {
+        "id": "717",
+        "unicode": "U+1F96B",
+        "emoji": "🥫",
+        "name": "canned food"
+      }
+    ],
+    "food-asian": [
+      {
+        "id": "718",
+        "unicode": "U+1F371",
+        "emoji": "🍱",
+        "name": "bento box"
+      },
+      {
+        "id": "719",
+        "unicode": "U+1F358",
+        "emoji": "🍘",
+        "name": "rice cracker"
+      },
+      {
+        "id": "720",
+        "unicode": "U+1F359",
+        "emoji": "🍙",
+        "name": "rice ball"
+      },
+      {
+        "id": "721",
+        "unicode": "U+1F35A",
+        "emoji": "🍚",
+        "name": "cooked rice"
+      },
+      {
+        "id": "722",
+        "unicode": "U+1F35B",
+        "emoji": "🍛",
+        "name": "curry rice"
+      },
+      {
+        "id": "723",
+        "unicode": "U+1F35C",
+        "emoji": "🍜",
+        "name": "steaming bowl"
+      },
+      {
+        "id": "724",
+        "unicode": "U+1F35D",
+        "emoji": "🍝",
+        "name": "spaghetti"
+      },
+      {
+        "id": "725",
+        "unicode": "U+1F360",
+        "emoji": "🍠",
+        "name": "roasted sweet potato"
+      },
+      {
+        "id": "726",
+        "unicode": "U+1F362",
+        "emoji": "🍢",
+        "name": "oden"
+      },
+      {
+        "id": "727",
+        "unicode": "U+1F363",
+        "emoji": "🍣",
+        "name": "sushi"
+      },
+      {
+        "id": "728",
+        "unicode": "U+1F364",
+        "emoji": "🍤",
+        "name": "fried shrimp"
+      },
+      {
+        "id": "729",
+        "unicode": "U+1F365",
+        "emoji": "🍥",
+        "name": "fish cake with swirl"
+      },
+      {
+        "id": "730",
+        "unicode": "U+1F96E",
+        "emoji": "🥮",
+        "name": "moon cake"
+      },
+      {
+        "id": "731",
+        "unicode": "U+1F361",
+        "emoji": "🍡",
+        "name": "dango"
+      },
+      {
+        "id": "732",
+        "unicode": "U+1F95F",
+        "emoji": "🥟",
+        "name": "dumpling"
+      },
+      {
+        "id": "733",
+        "unicode": "U+1F960",
+        "emoji": "🥠",
+        "name": "fortune cookie"
+      },
+      {
+        "id": "734",
+        "unicode": "U+1F961",
+        "emoji": "🥡",
+        "name": "takeout box"
+      }
+    ],
+    "food-marine": [
+      {
+        "id": "735",
+        "unicode": "U+1F980",
+        "emoji": "🦀",
+        "name": "crab"
+      },
+      {
+        "id": "736",
+        "unicode": "U+1F99E",
+        "emoji": "🦞",
+        "name": "lobster"
+      },
+      {
+        "id": "737",
+        "unicode": "U+1F990",
+        "emoji": "🦐",
+        "name": "shrimp"
+      },
+      {
+        "id": "738",
+        "unicode": "U+1F991",
+        "emoji": "🦑",
+        "name": "squid"
+      },
+      {
+        "id": "739",
+        "unicode": "U+1F9AA",
+        "emoji": "🦪",
+        "name": "oyster"
+      }
+    ],
+    "food-sweet": [
+      {
+        "id": "740",
+        "unicode": "U+1F366",
+        "emoji": "🍦",
+        "name": "soft ice cream"
+      },
+      {
+        "id": "741",
+        "unicode": "U+1F367",
+        "emoji": "🍧",
+        "name": "shaved ice"
+      },
+      {
+        "id": "742",
+        "unicode": "U+1F368",
+        "emoji": "🍨",
+        "name": "ice cream"
+      },
+      {
+        "id": "743",
+        "unicode": "U+1F369",
+        "emoji": "🍩",
+        "name": "doughnut"
+      },
+      {
+        "id": "744",
+        "unicode": "U+1F36A",
+        "emoji": "🍪",
+        "name": "cookie"
+      },
+      {
+        "id": "745",
+        "unicode": "U+1F382",
+        "emoji": "🎂",
+        "name": "birthday cake"
+      },
+      {
+        "id": "746",
+        "unicode": "U+1F370",
+        "emoji": "🍰",
+        "name": "shortcake"
+      },
+      {
+        "id": "747",
+        "unicode": "U+1F9C1",
+        "emoji": "🧁",
+        "name": "cupcake"
+      },
+      {
+        "id": "748",
+        "unicode": "U+1F967",
+        "emoji": "🥧",
+        "name": "pie"
+      },
+      {
+        "id": "749",
+        "unicode": "U+1F36B",
+        "emoji": "🍫",
+        "name": "chocolate bar"
+      },
+      {
+        "id": "750",
+        "unicode": "U+1F36C",
+        "emoji": "🍬",
+        "name": "candy"
+      },
+      {
+        "id": "751",
+        "unicode": "U+1F36D",
+        "emoji": "🍭",
+        "name": "lollipop"
+      },
+      {
+        "id": "752",
+        "unicode": "U+1F36E",
+        "emoji": "🍮",
+        "name": "custard"
+      },
+      {
+        "id": "753",
+        "unicode": "U+1F36F",
+        "emoji": "🍯",
+        "name": "honey pot"
+      }
+    ],
+    "drink": [
+      {
+        "id": "754",
+        "unicode": "U+1F37C",
+        "emoji": "🍼",
+        "name": "baby bottle"
+      },
+      {
+        "id": "755",
+        "unicode": "U+1F95B",
+        "emoji": "🥛",
+        "name": "glass of milk"
+      },
+      {
+        "id": "756",
+        "unicode": "U+2615",
+        "emoji": "☕",
+        "name": "hot beverage"
+      },
+      {
+        "id": "757",
+        "unicode": "U+1FAD6",
+        "emoji": "🫖",
+        "name": "teapot"
+      },
+      {
+        "id": "758",
+        "unicode": "U+1F375",
+        "emoji": "🍵",
+        "name": "teacup without handle"
+      },
+      {
+        "id": "759",
+        "unicode": "U+1F376",
+        "emoji": "🍶",
+        "name": "sake"
+      },
+      {
+        "id": "760",
+        "unicode": "U+1F37E",
+        "emoji": "🍾",
+        "name": "bottle with popping cork"
+      },
+      {
+        "id": "761",
+        "unicode": "U+1F377",
+        "emoji": "🍷",
+        "name": "wine glass"
+      },
+      {
+        "id": "762",
+        "unicode": "U+1F378",
+        "emoji": "🍸",
+        "name": "cocktail glass"
+      },
+      {
+        "id": "763",
+        "unicode": "U+1F379",
+        "emoji": "🍹",
+        "name": "tropical drink"
+      },
+      {
+        "id": "764",
+        "unicode": "U+1F37A",
+        "emoji": "🍺",
+        "name": "beer mug"
+      },
+      {
+        "id": "765",
+        "unicode": "U+1F37B",
+        "emoji": "🍻",
+        "name": "clinking beer mugs"
+      },
+      {
+        "id": "766",
+        "unicode": "U+1F942",
+        "emoji": "🥂",
+        "name": "clinking glasses"
+      },
+      {
+        "id": "767",
+        "unicode": "U+1F943",
+        "emoji": "🥃",
+        "name": "tumbler glass"
+      },
+      {
+        "id": "768",
+        "unicode": "U+1F964",
+        "emoji": "🥤",
+        "name": "cup with straw"
+      },
+      {
+        "id": "769",
+        "unicode": "U+1F9CB",
+        "emoji": "🧋",
+        "name": "bubble tea"
+      },
+      {
+        "id": "770",
+        "unicode": "U+1F9C3",
+        "emoji": "🧃",
+        "name": "beverage box"
+      },
+      {
+        "id": "771",
+        "unicode": "U+1F9C9",
+        "emoji": "🧉",
+        "name": "mate"
+      },
+      {
+        "id": "772",
+        "unicode": "U+1F9CA",
+        "emoji": "🧊",
+        "name": "ice"
+      }
+    ],
+    "dishware": [
+      {
+        "id": "773",
+        "unicode": "U+1F962",
+        "emoji": "🥢",
+        "name": "chopsticks"
+      },
+      {
+        "id": "774",
+        "unicode": "U+1F37D",
+        "emoji": "🍽",
+        "name": "fork and knife with plate"
+      },
+      {
+        "id": "775",
+        "unicode": "U+1F374",
+        "emoji": "🍴",
+        "name": "fork and knife"
+      },
+      {
+        "id": "776",
+        "unicode": "U+1F944",
+        "emoji": "🥄",
+        "name": "spoon"
+      },
+      {
+        "id": "777",
+        "unicode": "U+1F52A",
+        "emoji": "🔪",
+        "name": "kitchen knife"
+      },
+      {
+        "id": "778",
+        "unicode": "U+1F3FA",
+        "emoji": "🏺",
+        "name": "amphora"
+      }
+    ]
+  },
+  "Travel & Places": {
+    "place-map": [
+      {
+        "id": "779",
+        "unicode": "U+1F30D",
+        "emoji": "🌍",
+        "name": "globe showing Europe-Africa"
+      },
+      {
+        "id": "780",
+        "unicode": "U+1F30E",
+        "emoji": "🌎",
+        "name": "globe showing Americas"
+      },
+      {
+        "id": "781",
+        "unicode": "U+1F30F",
+        "emoji": "🌏",
+        "name": "globe showing Asia-Australia"
+      },
+      {
+        "id": "782",
+        "unicode": "U+1F310",
+        "emoji": "🌐",
+        "name": "globe with meridians"
+      },
+      {
+        "id": "783",
+        "unicode": "U+1F5FA",
+        "emoji": "🗺",
+        "name": "world map"
+      },
+      {
+        "id": "784",
+        "unicode": "U+1F5FE",
+        "emoji": "🗾",
+        "name": "map of Japan"
+      },
+      {
+        "id": "785",
+        "unicode": "U+1F9ED",
+        "emoji": "🧭",
+        "name": "compass"
+      }
+    ],
+    "place-geographic": [
+      {
+        "id": "786",
+        "unicode": "U+1F3D4",
+        "emoji": "🏔",
+        "name": "snow-capped mountain"
+      },
+      {
+        "id": "787",
+        "unicode": "U+26F0",
+        "emoji": "⛰",
+        "name": "mountain"
+      },
+      {
+        "id": "788",
+        "unicode": "U+1F30B",
+        "emoji": "🌋",
+        "name": "volcano"
+      },
+      {
+        "id": "789",
+        "unicode": "U+1F5FB",
+        "emoji": "🗻",
+        "name": "mount fuji"
+      },
+      {
+        "id": "790",
+        "unicode": "U+1F3D5",
+        "emoji": "🏕",
+        "name": "camping"
+      },
+      {
+        "id": "791",
+        "unicode": "U+1F3D6",
+        "emoji": "🏖",
+        "name": "beach with umbrella"
+      },
+      {
+        "id": "792",
+        "unicode": "U+1F3DC",
+        "emoji": "🏜",
+        "name": "desert"
+      },
+      {
+        "id": "793",
+        "unicode": "U+1F3DD",
+        "emoji": "🏝",
+        "name": "desert island"
+      },
+      {
+        "id": "794",
+        "unicode": "U+1F3DE",
+        "emoji": "🏞",
+        "name": "national park"
+      }
+    ],
+    "place-building": [
+      {
+        "id": "795",
+        "unicode": "U+1F3DF",
+        "emoji": "🏟",
+        "name": "stadium"
+      },
+      {
+        "id": "796",
+        "unicode": "U+1F3DB",
+        "emoji": "🏛",
+        "name": "classical building"
+      },
+      {
+        "id": "797",
+        "unicode": "U+1F3D7",
+        "emoji": "🏗",
+        "name": "building construction"
+      },
+      {
+        "id": "798",
+        "unicode": "U+1F9F1",
+        "emoji": "🧱",
+        "name": "brick"
+      },
+      {
+        "id": "799",
+        "unicode": "U+1FAA8",
+        "emoji": "🪨",
+        "name": "rock"
+      },
+      {
+        "id": "800",
+        "unicode": "U+1FAB5",
+        "emoji": "🪵",
+        "name": "wood"
+      },
+      {
+        "id": "801",
+        "unicode": "U+1F6D6",
+        "emoji": "🛖",
+        "name": "hut"
+      },
+      {
+        "id": "802",
+        "unicode": "U+1F3D8",
+        "emoji": "🏘",
+        "name": "houses"
+      },
+      {
+        "id": "803",
+        "unicode": "U+1F3DA",
+        "emoji": "🏚",
+        "name": "derelict house"
+      },
+      {
+        "id": "804",
+        "unicode": "U+1F3E0",
+        "emoji": "🏠",
+        "name": "house"
+      },
+      {
+        "id": "805",
+        "unicode": "U+1F3E1",
+        "emoji": "🏡",
+        "name": "house with garden"
+      },
+      {
+        "id": "806",
+        "unicode": "U+1F3E2",
+        "emoji": "🏢",
+        "name": "office building"
+      },
+      {
+        "id": "807",
+        "unicode": "U+1F3E3",
+        "emoji": "🏣",
+        "name": "Japanese post office"
+      },
+      {
+        "id": "808",
+        "unicode": "U+1F3E4",
+        "emoji": "🏤",
+        "name": "post office"
+      },
+      {
+        "id": "809",
+        "unicode": "U+1F3E5",
+        "emoji": "🏥",
+        "name": "hospital"
+      },
+      {
+        "id": "810",
+        "unicode": "U+1F3E6",
+        "emoji": "🏦",
+        "name": "bank"
+      },
+      {
+        "id": "811",
+        "unicode": "U+1F3E8",
+        "emoji": "🏨",
+        "name": "hotel"
+      },
+      {
+        "id": "812",
+        "unicode": "U+1F3E9",
+        "emoji": "🏩",
+        "name": "love hotel"
+      },
+      {
+        "id": "813",
+        "unicode": "U+1F3EA",
+        "emoji": "🏪",
+        "name": "convenience store"
+      },
+      {
+        "id": "814",
+        "unicode": "U+1F3EB",
+        "emoji": "🏫",
+        "name": "school"
+      },
+      {
+        "id": "815",
+        "unicode": "U+1F3EC",
+        "emoji": "🏬",
+        "name": "department store"
+      },
+      {
+        "id": "816",
+        "unicode": "U+1F3ED",
+        "emoji": "🏭",
+        "name": "factory"
+      },
+      {
+        "id": "817",
+        "unicode": "U+1F3EF",
+        "emoji": "🏯",
+        "name": "Japanese castle"
+      },
+      {
+        "id": "818",
+        "unicode": "U+1F3F0",
+        "emoji": "🏰",
+        "name": "castle"
+      },
+      {
+        "id": "819",
+        "unicode": "U+1F492",
+        "emoji": "💒",
+        "name": "wedding"
+      },
+      {
+        "id": "820",
+        "unicode": "U+1F5FC",
+        "emoji": "🗼",
+        "name": "Tokyo tower"
+      },
+      {
+        "id": "821",
+        "unicode": "U+1F5FD",
+        "emoji": "🗽",
+        "name": "Statue of Liberty"
+      }
+    ],
+    "place-religious": [
+      {
+        "id": "822",
+        "unicode": "U+26EA",
+        "emoji": "⛪",
+        "name": "church"
+      },
+      {
+        "id": "823",
+        "unicode": "U+1F54C",
+        "emoji": "🕌",
+        "name": "mosque"
+      },
+      {
+        "id": "824",
+        "unicode": "U+1F6D5",
+        "emoji": "🛕",
+        "name": "hindu temple"
+      },
+      {
+        "id": "825",
+        "unicode": "U+1F54D",
+        "emoji": "🕍",
+        "name": "synagogue"
+      },
+      {
+        "id": "826",
+        "unicode": "U+26E9",
+        "emoji": "⛩",
+        "name": "shinto shrine"
+      },
+      {
+        "id": "827",
+        "unicode": "U+1F54B",
+        "emoji": "🕋",
+        "name": "kaaba"
+      }
+    ],
+    "place-other": [
+      {
+        "id": "828",
+        "unicode": "U+26F2",
+        "emoji": "⛲",
+        "name": "fountain"
+      },
+      {
+        "id": "829",
+        "unicode": "U+26FA",
+        "emoji": "⛺",
+        "name": "tent"
+      },
+      {
+        "id": "830",
+        "unicode": "U+1F301",
+        "emoji": "🌁",
+        "name": "foggy"
+      },
+      {
+        "id": "831",
+        "unicode": "U+1F303",
+        "emoji": "🌃",
+        "name": "night with stars"
+      },
+      {
+        "id": "832",
+        "unicode": "U+1F3D9",
+        "emoji": "🏙",
+        "name": "cityscape"
+      },
+      {
+        "id": "833",
+        "unicode": "U+1F304",
+        "emoji": "🌄",
+        "name": "sunrise over mountains"
+      },
+      {
+        "id": "834",
+        "unicode": "U+1F305",
+        "emoji": "🌅",
+        "name": "sunrise"
+      },
+      {
+        "id": "835",
+        "unicode": "U+1F306",
+        "emoji": "🌆",
+        "name": "cityscape at dusk"
+      },
+      {
+        "id": "836",
+        "unicode": "U+1F307",
+        "emoji": "🌇",
+        "name": "sunset"
+      },
+      {
+        "id": "837",
+        "unicode": "U+1F309",
+        "emoji": "🌉",
+        "name": "bridge at night"
+      },
+      {
+        "id": "838",
+        "unicode": "U+2668",
+        "emoji": "♨",
+        "name": "hot springs"
+      },
+      {
+        "id": "839",
+        "unicode": "U+1F3A0",
+        "emoji": "🎠",
+        "name": "carousel horse"
+      },
+      {
+        "id": "840",
+        "unicode": "U+1F3A1",
+        "emoji": "🎡",
+        "name": "ferris wheel"
+      },
+      {
+        "id": "841",
+        "unicode": "U+1F3A2",
+        "emoji": "🎢",
+        "name": "roller coaster"
+      },
+      {
+        "id": "842",
+        "unicode": "U+1F488",
+        "emoji": "💈",
+        "name": "barber pole"
+      },
+      {
+        "id": "843",
+        "unicode": "U+1F3AA",
+        "emoji": "🎪",
+        "name": "circus tent"
+      }
+    ],
+    "transport-ground": [
+      {
+        "id": "844",
+        "unicode": "U+1F682",
+        "emoji": "🚂",
+        "name": "locomotive"
+      },
+      {
+        "id": "845",
+        "unicode": "U+1F683",
+        "emoji": "🚃",
+        "name": "railway car"
+      },
+      {
+        "id": "846",
+        "unicode": "U+1F684",
+        "emoji": "🚄",
+        "name": "high-speed train"
+      },
+      {
+        "id": "847",
+        "unicode": "U+1F685",
+        "emoji": "🚅",
+        "name": "bullet train"
+      },
+      {
+        "id": "848",
+        "unicode": "U+1F686",
+        "emoji": "🚆",
+        "name": "train"
+      },
+      {
+        "id": "849",
+        "unicode": "U+1F687",
+        "emoji": "🚇",
+        "name": "metro"
+      },
+      {
+        "id": "850",
+        "unicode": "U+1F688",
+        "emoji": "🚈",
+        "name": "light rail"
+      },
+      {
+        "id": "851",
+        "unicode": "U+1F689",
+        "emoji": "🚉",
+        "name": "station"
+      },
+      {
+        "id": "852",
+        "unicode": "U+1F68A",
+        "emoji": "🚊",
+        "name": "tram"
+      },
+      {
+        "id": "853",
+        "unicode": "U+1F69D",
+        "emoji": "🚝",
+        "name": "monorail"
+      },
+      {
+        "id": "854",
+        "unicode": "U+1F69E",
+        "emoji": "🚞",
+        "name": "mountain railway"
+      },
+      {
+        "id": "855",
+        "unicode": "U+1F68B",
+        "emoji": "🚋",
+        "name": "tram car"
+      },
+      {
+        "id": "856",
+        "unicode": "U+1F68C",
+        "emoji": "🚌",
+        "name": "bus"
+      },
+      {
+        "id": "857",
+        "unicode": "U+1F68D",
+        "emoji": "🚍",
+        "name": "oncoming bus"
+      },
+      {
+        "id": "858",
+        "unicode": "U+1F68E",
+        "emoji": "🚎",
+        "name": "trolleybus"
+      },
+      {
+        "id": "859",
+        "unicode": "U+1F690",
+        "emoji": "🚐",
+        "name": "minibus"
+      },
+      {
+        "id": "860",
+        "unicode": "U+1F691",
+        "emoji": "🚑",
+        "name": "ambulance"
+      },
+      {
+        "id": "861",
+        "unicode": "U+1F692",
+        "emoji": "🚒",
+        "name": "fire engine"
+      },
+      {
+        "id": "862",
+        "unicode": "U+1F693",
+        "emoji": "🚓",
+        "name": "police car"
+      },
+      {
+        "id": "863",
+        "unicode": "U+1F694",
+        "emoji": "🚔",
+        "name": "oncoming police car"
+      },
+      {
+        "id": "864",
+        "unicode": "U+1F695",
+        "emoji": "🚕",
+        "name": "taxi"
+      },
+      {
+        "id": "865",
+        "unicode": "U+1F696",
+        "emoji": "🚖",
+        "name": "oncoming taxi"
+      },
+      {
+        "id": "866",
+        "unicode": "U+1F697",
+        "emoji": "🚗",
+        "name": "automobile"
+      },
+      {
+        "id": "867",
+        "unicode": "U+1F698",
+        "emoji": "🚘",
+        "name": "oncoming automobile"
+      },
+      {
+        "id": "868",
+        "unicode": "U+1F699",
+        "emoji": "🚙",
+        "name": "sport utility vehicle"
+      },
+      {
+        "id": "869",
+        "unicode": "U+1F6FB",
+        "emoji": "🛻",
+        "name": "pickup truck"
+      },
+      {
+        "id": "870",
+        "unicode": "U+1F69A",
+        "emoji": "🚚",
+        "name": "delivery truck"
+      },
+      {
+        "id": "871",
+        "unicode": "U+1F69B",
+        "emoji": "🚛",
+        "name": "articulated lorry"
+      },
+      {
+        "id": "872",
+        "unicode": "U+1F69C",
+        "emoji": "🚜",
+        "name": "tractor"
+      },
+      {
+        "id": "873",
+        "unicode": "U+1F3CE",
+        "emoji": "🏎",
+        "name": "racing car"
+      },
+      {
+        "id": "874",
+        "unicode": "U+1F3CD",
+        "emoji": "🏍",
+        "name": "motorcycle"
+      },
+      {
+        "id": "875",
+        "unicode": "U+1F6F5",
+        "emoji": "🛵",
+        "name": "motor scooter"
+      },
+      {
+        "id": "876",
+        "unicode": "U+1F9BD",
+        "emoji": "🦽",
+        "name": "manual wheelchair"
+      },
+      {
+        "id": "877",
+        "unicode": "U+1F9BC",
+        "emoji": "🦼",
+        "name": "motorized wheelchair"
+      },
+      {
+        "id": "878",
+        "unicode": "U+1F6FA",
+        "emoji": "🛺",
+        "name": "auto rickshaw"
+      },
+      {
+        "id": "879",
+        "unicode": "U+1F6B2",
+        "emoji": "🚲",
+        "name": "bicycle"
+      },
+      {
+        "id": "880",
+        "unicode": "U+1F6F4",
+        "emoji": "🛴",
+        "name": "kick scooter"
+      },
+      {
+        "id": "881",
+        "unicode": "U+1F6F9",
+        "emoji": "🛹",
+        "name": "skateboard"
+      },
+      {
+        "id": "882",
+        "unicode": "U+1F6FC",
+        "emoji": "🛼",
+        "name": "roller skate"
+      },
+      {
+        "id": "883",
+        "unicode": "U+1F68F",
+        "emoji": "🚏",
+        "name": "bus stop"
+      },
+      {
+        "id": "884",
+        "unicode": "U+1F6E3",
+        "emoji": "🛣",
+        "name": "motorway"
+      },
+      {
+        "id": "885",
+        "unicode": "U+1F6E4",
+        "emoji": "🛤",
+        "name": "railway track"
+      },
+      {
+        "id": "886",
+        "unicode": "U+1F6E2",
+        "emoji": "🛢",
+        "name": "oil drum"
+      },
+      {
+        "id": "887",
+        "unicode": "U+26FD",
+        "emoji": "⛽",
+        "name": "fuel pump"
+      },
+      {
+        "id": "888",
+        "unicode": "U+1F6A8",
+        "emoji": "🚨",
+        "name": "police car light"
+      },
+      {
+        "id": "889",
+        "unicode": "U+1F6A5",
+        "emoji": "🚥",
+        "name": "horizontal traffic light"
+      },
+      {
+        "id": "890",
+        "unicode": "U+1F6A6",
+        "emoji": "🚦",
+        "name": "vertical traffic light"
+      },
+      {
+        "id": "891",
+        "unicode": "U+1F6D1",
+        "emoji": "🛑",
+        "name": "stop sign"
+      },
+      {
+        "id": "892",
+        "unicode": "U+1F6A7",
+        "emoji": "🚧",
+        "name": "construction"
+      }
+    ],
+    "transport-water": [
+      {
+        "id": "893",
+        "unicode": "U+2693",
+        "emoji": "⚓",
+        "name": "anchor"
+      },
+      {
+        "id": "894",
+        "unicode": "U+26F5",
+        "emoji": "⛵",
+        "name": "sailboat"
+      },
+      {
+        "id": "895",
+        "unicode": "U+1F6F6",
+        "emoji": "🛶",
+        "name": "canoe"
+      },
+      {
+        "id": "896",
+        "unicode": "U+1F6A4",
+        "emoji": "🚤",
+        "name": "speedboat"
+      },
+      {
+        "id": "897",
+        "unicode": "U+1F6F3",
+        "emoji": "🛳",
+        "name": "passenger ship"
+      },
+      {
+        "id": "898",
+        "unicode": "U+26F4",
+        "emoji": "⛴",
+        "name": "ferry"
+      },
+      {
+        "id": "899",
+        "unicode": "U+1F6E5",
+        "emoji": "🛥",
+        "name": "motor boat"
+      },
+      {
+        "id": "900",
+        "unicode": "U+1F6A2",
+        "emoji": "🚢",
+        "name": "ship"
+      }
+    ],
+    "transport-air": [
+      {
+        "id": "901",
+        "unicode": "U+2708",
+        "emoji": "✈",
+        "name": "airplane"
+      },
+      {
+        "id": "902",
+        "unicode": "U+1F6E9",
+        "emoji": "🛩",
+        "name": "small airplane"
+      },
+      {
+        "id": "903",
+        "unicode": "U+1F6EB",
+        "emoji": "🛫",
+        "name": "airplane departure"
+      },
+      {
+        "id": "904",
+        "unicode": "U+1F6EC",
+        "emoji": "🛬",
+        "name": "airplane arrival"
+      },
+      {
+        "id": "905",
+        "unicode": "U+1FA82",
+        "emoji": "🪂",
+        "name": "parachute"
+      },
+      {
+        "id": "906",
+        "unicode": "U+1F4BA",
+        "emoji": "💺",
+        "name": "seat"
+      },
+      {
+        "id": "907",
+        "unicode": "U+1F681",
+        "emoji": "🚁",
+        "name": "helicopter"
+      },
+      {
+        "id": "908",
+        "unicode": "U+1F69F",
+        "emoji": "🚟",
+        "name": "suspension railway"
+      },
+      {
+        "id": "909",
+        "unicode": "U+1F6A0",
+        "emoji": "🚠",
+        "name": "mountain cableway"
+      },
+      {
+        "id": "910",
+        "unicode": "U+1F6A1",
+        "emoji": "🚡",
+        "name": "aerial tramway"
+      },
+      {
+        "id": "911",
+        "unicode": "U+1F6F0",
+        "emoji": "🛰",
+        "name": "satellite"
+      },
+      {
+        "id": "912",
+        "unicode": "U+1F680",
+        "emoji": "🚀",
+        "name": "rocket"
+      },
+      {
+        "id": "913",
+        "unicode": "U+1F6F8",
+        "emoji": "🛸",
+        "name": "flying saucer"
+      }
+    ],
+    "hotel": [
+      {
+        "id": "914",
+        "unicode": "U+1F6CE",
+        "emoji": "🛎",
+        "name": "bellhop bell"
+      },
+      {
+        "id": "915",
+        "unicode": "U+1F9F3",
+        "emoji": "🧳",
+        "name": "luggage"
+      }
+    ],
+    "time": [
+      {
+        "id": "916",
+        "unicode": "U+231B",
+        "emoji": "⌛",
+        "name": "hourglass done"
+      },
+      {
+        "id": "917",
+        "unicode": "U+23F3",
+        "emoji": "⏳",
+        "name": "hourglass not done"
+      },
+      {
+        "id": "918",
+        "unicode": "U+231A",
+        "emoji": "⌚",
+        "name": "watch"
+      },
+      {
+        "id": "919",
+        "unicode": "U+23F0",
+        "emoji": "⏰",
+        "name": "alarm clock"
+      },
+      {
+        "id": "920",
+        "unicode": "U+23F1",
+        "emoji": "⏱",
+        "name": "stopwatch"
+      },
+      {
+        "id": "921",
+        "unicode": "U+23F2",
+        "emoji": "⏲",
+        "name": "timer clock"
+      },
+      {
+        "id": "922",
+        "unicode": "U+1F570",
+        "emoji": "🕰",
+        "name": "mantelpiece clock"
+      },
+      {
+        "id": "923",
+        "unicode": "U+1F55B",
+        "emoji": "🕛",
+        "name": "twelve o’clock"
+      },
+      {
+        "id": "924",
+        "unicode": "U+1F567",
+        "emoji": "🕧",
+        "name": "twelve-thirty"
+      },
+      {
+        "id": "925",
+        "unicode": "U+1F550",
+        "emoji": "🕐",
+        "name": "one o’clock"
+      },
+      {
+        "id": "926",
+        "unicode": "U+1F55C",
+        "emoji": "🕜",
+        "name": "one-thirty"
+      },
+      {
+        "id": "927",
+        "unicode": "U+1F551",
+        "emoji": "🕑",
+        "name": "two o’clock"
+      },
+      {
+        "id": "928",
+        "unicode": "U+1F55D",
+        "emoji": "🕝",
+        "name": "two-thirty"
+      },
+      {
+        "id": "929",
+        "unicode": "U+1F552",
+        "emoji": "🕒",
+        "name": "three o’clock"
+      },
+      {
+        "id": "930",
+        "unicode": "U+1F55E",
+        "emoji": "🕞",
+        "name": "three-thirty"
+      },
+      {
+        "id": "931",
+        "unicode": "U+1F553",
+        "emoji": "🕓",
+        "name": "four o’clock"
+      },
+      {
+        "id": "932",
+        "unicode": "U+1F55F",
+        "emoji": "🕟",
+        "name": "four-thirty"
+      },
+      {
+        "id": "933",
+        "unicode": "U+1F554",
+        "emoji": "🕔",
+        "name": "five o’clock"
+      },
+      {
+        "id": "934",
+        "unicode": "U+1F560",
+        "emoji": "🕠",
+        "name": "five-thirty"
+      },
+      {
+        "id": "935",
+        "unicode": "U+1F555",
+        "emoji": "🕕",
+        "name": "six o’clock"
+      },
+      {
+        "id": "936",
+        "unicode": "U+1F561",
+        "emoji": "🕡",
+        "name": "six-thirty"
+      },
+      {
+        "id": "937",
+        "unicode": "U+1F556",
+        "emoji": "🕖",
+        "name": "seven o’clock"
+      },
+      {
+        "id": "938",
+        "unicode": "U+1F562",
+        "emoji": "🕢",
+        "name": "seven-thirty"
+      },
+      {
+        "id": "939",
+        "unicode": "U+1F557",
+        "emoji": "🕗",
+        "name": "eight o’clock"
+      },
+      {
+        "id": "940",
+        "unicode": "U+1F563",
+        "emoji": "🕣",
+        "name": "eight-thirty"
+      },
+      {
+        "id": "941",
+        "unicode": "U+1F558",
+        "emoji": "🕘",
+        "name": "nine o’clock"
+      },
+      {
+        "id": "942",
+        "unicode": "U+1F564",
+        "emoji": "🕤",
+        "name": "nine-thirty"
+      },
+      {
+        "id": "943",
+        "unicode": "U+1F559",
+        "emoji": "🕙",
+        "name": "ten o’clock"
+      },
+      {
+        "id": "944",
+        "unicode": "U+1F565",
+        "emoji": "🕥",
+        "name": "ten-thirty"
+      },
+      {
+        "id": "945",
+        "unicode": "U+1F55A",
+        "emoji": "🕚",
+        "name": "eleven o’clock"
+      },
+      {
+        "id": "946",
+        "unicode": "U+1F566",
+        "emoji": "🕦",
+        "name": "eleven-thirty"
+      }
+    ],
+    "sky & weather": [
+      {
+        "id": "947",
+        "unicode": "U+1F311",
+        "emoji": "🌑",
+        "name": "new moon"
+      },
+      {
+        "id": "948",
+        "unicode": "U+1F312",
+        "emoji": "🌒",
+        "name": "waxing crescent moon"
+      },
+      {
+        "id": "949",
+        "unicode": "U+1F313",
+        "emoji": "🌓",
+        "name": "first quarter moon"
+      },
+      {
+        "id": "950",
+        "unicode": "U+1F314",
+        "emoji": "🌔",
+        "name": "waxing gibbous moon"
+      },
+      {
+        "id": "951",
+        "unicode": "U+1F315",
+        "emoji": "🌕",
+        "name": "full moon"
+      },
+      {
+        "id": "952",
+        "unicode": "U+1F316",
+        "emoji": "🌖",
+        "name": "waning gibbous moon"
+      },
+      {
+        "id": "953",
+        "unicode": "U+1F317",
+        "emoji": "🌗",
+        "name": "last quarter moon"
+      },
+      {
+        "id": "954",
+        "unicode": "U+1F318",
+        "emoji": "🌘",
+        "name": "waning crescent moon"
+      },
+      {
+        "id": "955",
+        "unicode": "U+1F319",
+        "emoji": "🌙",
+        "name": "crescent moon"
+      },
+      {
+        "id": "956",
+        "unicode": "U+1F31A",
+        "emoji": "🌚",
+        "name": "new moon face"
+      },
+      {
+        "id": "957",
+        "unicode": "U+1F31B",
+        "emoji": "🌛",
+        "name": "first quarter moon face"
+      },
+      {
+        "id": "958",
+        "unicode": "U+1F31C",
+        "emoji": "🌜",
+        "name": "last quarter moon face"
+      },
+      {
+        "id": "959",
+        "unicode": "U+1F321",
+        "emoji": "🌡",
+        "name": "thermometer"
+      },
+      {
+        "id": "960",
+        "unicode": "U+2600",
+        "emoji": "☀",
+        "name": "sun"
+      },
+      {
+        "id": "961",
+        "unicode": "U+1F31D",
+        "emoji": "🌝",
+        "name": "full moon face"
+      },
+      {
+        "id": "962",
+        "unicode": "U+1F31E",
+        "emoji": "🌞",
+        "name": "sun with face"
+      },
+      {
+        "id": "963",
+        "unicode": "U+1FA90",
+        "emoji": "🪐",
+        "name": "ringed planet"
+      },
+      {
+        "id": "964",
+        "unicode": "U+2B50",
+        "emoji": "⭐",
+        "name": "star"
+      },
+      {
+        "id": "965",
+        "unicode": "U+1F31F",
+        "emoji": "🌟",
+        "name": "glowing star"
+      },
+      {
+        "id": "966",
+        "unicode": "U+1F320",
+        "emoji": "🌠",
+        "name": "shooting star"
+      },
+      {
+        "id": "967",
+        "unicode": "U+1F30C",
+        "emoji": "🌌",
+        "name": "milky way"
+      },
+      {
+        "id": "968",
+        "unicode": "U+2601",
+        "emoji": "☁",
+        "name": "cloud"
+      },
+      {
+        "id": "969",
+        "unicode": "U+26C5",
+        "emoji": "⛅",
+        "name": "sun behind cloud"
+      },
+      {
+        "id": "970",
+        "unicode": "U+26C8",
+        "emoji": "⛈",
+        "name": "cloud with lightning and rain"
+      },
+      {
+        "id": "971",
+        "unicode": "U+1F324",
+        "emoji": "🌤",
+        "name": "sun behind small cloud"
+      },
+      {
+        "id": "972",
+        "unicode": "U+1F325",
+        "emoji": "🌥",
+        "name": "sun behind large cloud"
+      },
+      {
+        "id": "973",
+        "unicode": "U+1F326",
+        "emoji": "🌦",
+        "name": "sun behind rain cloud"
+      },
+      {
+        "id": "974",
+        "unicode": "U+1F327",
+        "emoji": "🌧",
+        "name": "cloud with rain"
+      },
+      {
+        "id": "975",
+        "unicode": "U+1F328",
+        "emoji": "🌨",
+        "name": "cloud with snow"
+      },
+      {
+        "id": "976",
+        "unicode": "U+1F329",
+        "emoji": "🌩",
+        "name": "cloud with lightning"
+      },
+      {
+        "id": "977",
+        "unicode": "U+1F32A",
+        "emoji": "🌪",
+        "name": "tornado"
+      },
+      {
+        "id": "978",
+        "unicode": "U+1F32B",
+        "emoji": "🌫",
+        "name": "fog"
+      },
+      {
+        "id": "979",
+        "unicode": "U+1F32C",
+        "emoji": "🌬",
+        "name": "wind face"
+      },
+      {
+        "id": "980",
+        "unicode": "U+1F300",
+        "emoji": "🌀",
+        "name": "cyclone"
+      },
+      {
+        "id": "981",
+        "unicode": "U+1F308",
+        "emoji": "🌈",
+        "name": "rainbow"
+      },
+      {
+        "id": "982",
+        "unicode": "U+1F302",
+        "emoji": "🌂",
+        "name": "closed umbrella"
+      },
+      {
+        "id": "983",
+        "unicode": "U+2602",
+        "emoji": "☂",
+        "name": "umbrella"
+      },
+      {
+        "id": "984",
+        "unicode": "U+2614",
+        "emoji": "☔",
+        "name": "umbrella with rain drops"
+      },
+      {
+        "id": "985",
+        "unicode": "U+26F1",
+        "emoji": "⛱",
+        "name": "umbrella on ground"
+      },
+      {
+        "id": "986",
+        "unicode": "U+26A1",
+        "emoji": "⚡",
+        "name": "high voltage"
+      },
+      {
+        "id": "987",
+        "unicode": "U+2744",
+        "emoji": "❄",
+        "name": "snowflake"
+      },
+      {
+        "id": "988",
+        "unicode": "U+2603",
+        "emoji": "☃",
+        "name": "snowman"
+      },
+      {
+        "id": "989",
+        "unicode": "U+26C4",
+        "emoji": "⛄",
+        "name": "snowman without snow"
+      },
+      {
+        "id": "990",
+        "unicode": "U+2604",
+        "emoji": "☄",
+        "name": "comet"
+      },
+      {
+        "id": "991",
+        "unicode": "U+1F525",
+        "emoji": "🔥",
+        "name": "fire"
+      },
+      {
+        "id": "992",
+        "unicode": "U+1F4A7",
+        "emoji": "💧",
+        "name": "droplet"
+      },
+      {
+        "id": "993",
+        "unicode": "U+1F30A",
+        "emoji": "🌊",
+        "name": "water wave"
+      }
+    ]
+  },
+  "Activities": {
+    "event": [
+      {
+        "id": "994",
+        "unicode": "U+1F383",
+        "emoji": "🎃",
+        "name": "jack-o-lantern"
+      },
+      {
+        "id": "995",
+        "unicode": "U+1F384",
+        "emoji": "🎄",
+        "name": "Christmas tree"
+      },
+      {
+        "id": "996",
+        "unicode": "U+1F386",
+        "emoji": "🎆",
+        "name": "fireworks"
+      },
+      {
+        "id": "997",
+        "unicode": "U+1F387",
+        "emoji": "🎇",
+        "name": "sparkler"
+      },
+      {
+        "id": "998",
+        "unicode": "U+1F9E8",
+        "emoji": "🧨",
+        "name": "firecracker"
+      },
+      {
+        "id": "999",
+        "unicode": "U+2728",
+        "emoji": "✨",
+        "name": "sparkles"
+      },
+      {
+        "id": "1000",
+        "unicode": "U+1F388",
+        "emoji": "🎈",
+        "name": "balloon"
+      },
+      {
+        "id": "1001",
+        "unicode": "U+1F389",
+        "emoji": "🎉",
+        "name": "party popper"
+      },
+      {
+        "id": "1002",
+        "unicode": "U+1F38A",
+        "emoji": "🎊",
+        "name": "confetti ball"
+      },
+      {
+        "id": "1003",
+        "unicode": "U+1F38B",
+        "emoji": "🎋",
+        "name": "tanabata tree"
+      },
+      {
+        "id": "1004",
+        "unicode": "U+1F38D",
+        "emoji": "🎍",
+        "name": "pine decoration"
+      },
+      {
+        "id": "1005",
+        "unicode": "U+1F38E",
+        "emoji": "🎎",
+        "name": "Japanese dolls"
+      },
+      {
+        "id": "1006",
+        "unicode": "U+1F38F",
+        "emoji": "🎏",
+        "name": "carp streamer"
+      },
+      {
+        "id": "1007",
+        "unicode": "U+1F390",
+        "emoji": "🎐",
+        "name": "wind chime"
+      },
+      {
+        "id": "1008",
+        "unicode": "U+1F391",
+        "emoji": "🎑",
+        "name": "moon viewing ceremony"
+      },
+      {
+        "id": "1009",
+        "unicode": "U+1F9E7",
+        "emoji": "🧧",
+        "name": "red envelope"
+      },
+      {
+        "id": "1010",
+        "unicode": "U+1F380",
+        "emoji": "🎀",
+        "name": "ribbon"
+      },
+      {
+        "id": "1011",
+        "unicode": "U+1F381",
+        "emoji": "🎁",
+        "name": "wrapped gift"
+      },
+      {
+        "id": "1012",
+        "unicode": "U+1F397",
+        "emoji": "🎗",
+        "name": "reminder ribbon"
+      },
+      {
+        "id": "1013",
+        "unicode": "U+1F39F",
+        "emoji": "🎟",
+        "name": "admission tickets"
+      },
+      {
+        "id": "1014",
+        "unicode": "U+1F3AB",
+        "emoji": "🎫",
+        "name": "ticket"
+      }
+    ],
+    "award-medal": [
+      {
+        "id": "1015",
+        "unicode": "U+1F396",
+        "emoji": "🎖",
+        "name": "military medal"
+      },
+      {
+        "id": "1016",
+        "unicode": "U+1F3C6",
+        "emoji": "🏆",
+        "name": "trophy"
+      },
+      {
+        "id": "1017",
+        "unicode": "U+1F3C5",
+        "emoji": "🏅",
+        "name": "sports medal"
+      },
+      {
+        "id": "1018",
+        "unicode": "U+1F947",
+        "emoji": "🥇",
+        "name": "1st place medal"
+      },
+      {
+        "id": "1019",
+        "unicode": "U+1F948",
+        "emoji": "🥈",
+        "name": "2nd place medal"
+      },
+      {
+        "id": "1020",
+        "unicode": "U+1F949",
+        "emoji": "🥉",
+        "name": "3rd place medal"
+      }
+    ],
+    "sport": [
+      {
+        "id": "1021",
+        "unicode": "U+26BD",
+        "emoji": "⚽",
+        "name": "soccer ball"
+      },
+      {
+        "id": "1022",
+        "unicode": "U+26BE",
+        "emoji": "⚾",
+        "name": "baseball"
+      },
+      {
+        "id": "1023",
+        "unicode": "U+1F94E",
+        "emoji": "🥎",
+        "name": "softball"
+      },
+      {
+        "id": "1024",
+        "unicode": "U+1F3C0",
+        "emoji": "🏀",
+        "name": "basketball"
+      },
+      {
+        "id": "1025",
+        "unicode": "U+1F3D0",
+        "emoji": "🏐",
+        "name": "volleyball"
+      },
+      {
+        "id": "1026",
+        "unicode": "U+1F3C8",
+        "emoji": "🏈",
+        "name": "american football"
+      },
+      {
+        "id": "1027",
+        "unicode": "U+1F3C9",
+        "emoji": "🏉",
+        "name": "rugby football"
+      },
+      {
+        "id": "1028",
+        "unicode": "U+1F3BE",
+        "emoji": "🎾",
+        "name": "tennis"
+      },
+      {
+        "id": "1029",
+        "unicode": "U+1F94F",
+        "emoji": "🥏",
+        "name": "flying disc"
+      },
+      {
+        "id": "1030",
+        "unicode": "U+1F3B3",
+        "emoji": "🎳",
+        "name": "bowling"
+      },
+      {
+        "id": "1031",
+        "unicode": "U+1F3CF",
+        "emoji": "🏏",
+        "name": "cricket game"
+      },
+      {
+        "id": "1032",
+        "unicode": "U+1F3D1",
+        "emoji": "🏑",
+        "name": "field hockey"
+      },
+      {
+        "id": "1033",
+        "unicode": "U+1F3D2",
+        "emoji": "🏒",
+        "name": "ice hockey"
+      },
+      {
+        "id": "1034",
+        "unicode": "U+1F94D",
+        "emoji": "🥍",
+        "name": "lacrosse"
+      },
+      {
+        "id": "1035",
+        "unicode": "U+1F3D3",
+        "emoji": "🏓",
+        "name": "ping pong"
+      },
+      {
+        "id": "1036",
+        "unicode": "U+1F3F8",
+        "emoji": "🏸",
+        "name": "badminton"
+      },
+      {
+        "id": "1037",
+        "unicode": "U+1F94A",
+        "emoji": "🥊",
+        "name": "boxing glove"
+      },
+      {
+        "id": "1038",
+        "unicode": "U+1F94B",
+        "emoji": "🥋",
+        "name": "martial arts uniform"
+      },
+      {
+        "id": "1039",
+        "unicode": "U+1F945",
+        "emoji": "🥅",
+        "name": "goal net"
+      },
+      {
+        "id": "1040",
+        "unicode": "U+26F3",
+        "emoji": "⛳",
+        "name": "flag in hole"
+      },
+      {
+        "id": "1041",
+        "unicode": "U+26F8",
+        "emoji": "⛸",
+        "name": "ice skate"
+      },
+      {
+        "id": "1042",
+        "unicode": "U+1F3A3",
+        "emoji": "🎣",
+        "name": "fishing pole"
+      },
+      {
+        "id": "1043",
+        "unicode": "U+1F93F",
+        "emoji": "🤿",
+        "name": "diving mask"
+      },
+      {
+        "id": "1044",
+        "unicode": "U+1F3BD",
+        "emoji": "🎽",
+        "name": "running shirt"
+      },
+      {
+        "id": "1045",
+        "unicode": "U+1F3BF",
+        "emoji": "🎿",
+        "name": "skis"
+      },
+      {
+        "id": "1046",
+        "unicode": "U+1F6F7",
+        "emoji": "🛷",
+        "name": "sled"
+      },
+      {
+        "id": "1047",
+        "unicode": "U+1F94C",
+        "emoji": "🥌",
+        "name": "curling stone"
+      }
+    ],
+    "game": [
+      {
+        "id": "1048",
+        "unicode": "U+1F3AF",
+        "emoji": "🎯",
+        "name": "bullseye"
+      },
+      {
+        "id": "1049",
+        "unicode": "U+1FA80",
+        "emoji": "🪀",
+        "name": "yo-yo"
+      },
+      {
+        "id": "1050",
+        "unicode": "U+1FA81",
+        "emoji": "🪁",
+        "name": "kite"
+      },
+      {
+        "id": "1051",
+        "unicode": "U+1F3B1",
+        "emoji": "🎱",
+        "name": "pool 8 ball"
+      },
+      {
+        "id": "1052",
+        "unicode": "U+1F52E",
+        "emoji": "🔮",
+        "name": "crystal ball"
+      },
+      {
+        "id": "1053",
+        "unicode": "U+1FA84",
+        "emoji": "🪄",
+        "name": "magic wand"
+      },
+      {
+        "id": "1054",
+        "unicode": "U+1F9FF",
+        "emoji": "🧿",
+        "name": "nazar amulet"
+      },
+      {
+        "id": "1055",
+        "unicode": "U+1F3AE",
+        "emoji": "🎮",
+        "name": "video game"
+      },
+      {
+        "id": "1056",
+        "unicode": "U+1F579",
+        "emoji": "🕹",
+        "name": "joystick"
+      },
+      {
+        "id": "1057",
+        "unicode": "U+1F3B0",
+        "emoji": "🎰",
+        "name": "slot machine"
+      },
+      {
+        "id": "1058",
+        "unicode": "U+1F3B2",
+        "emoji": "🎲",
+        "name": "game die"
+      },
+      {
+        "id": "1059",
+        "unicode": "U+1F9E9",
+        "emoji": "🧩",
+        "name": "puzzle piece"
+      },
+      {
+        "id": "1060",
+        "unicode": "U+1F9F8",
+        "emoji": "🧸",
+        "name": "teddy bear"
+      },
+      {
+        "id": "1061",
+        "unicode": "U+1FA85",
+        "emoji": "🪅",
+        "name": "piñata"
+      },
+      {
+        "id": "1062",
+        "unicode": "U+1FA86",
+        "emoji": "🪆",
+        "name": "nesting dolls"
+      },
+      {
+        "id": "1063",
+        "unicode": "U+2660",
+        "emoji": "♠",
+        "name": "spade suit"
+      },
+      {
+        "id": "1064",
+        "unicode": "U+2665",
+        "emoji": "♥",
+        "name": "heart suit"
+      },
+      {
+        "id": "1065",
+        "unicode": "U+2666",
+        "emoji": "♦",
+        "name": "diamond suit"
+      },
+      {
+        "id": "1066",
+        "unicode": "U+2663",
+        "emoji": "♣",
+        "name": "club suit"
+      },
+      {
+        "id": "1067",
+        "unicode": "U+265F",
+        "emoji": "♟",
+        "name": "chess pawn"
+      },
+      {
+        "id": "1068",
+        "unicode": "U+1F0CF",
+        "emoji": "🃏",
+        "name": "joker"
+      },
+      {
+        "id": "1069",
+        "unicode": "U+1F004",
+        "emoji": "🀄",
+        "name": "mahjong red dragon"
+      },
+      {
+        "id": "1070",
+        "unicode": "U+1F3B4",
+        "emoji": "🎴",
+        "name": "flower playing cards"
+      }
+    ],
+    "arts & crafts": [
+      {
+        "id": "1071",
+        "unicode": "U+1F3AD",
+        "emoji": "🎭",
+        "name": "performing arts"
+      },
+      {
+        "id": "1072",
+        "unicode": "U+1F5BC",
+        "emoji": "🖼",
+        "name": "framed picture"
+      },
+      {
+        "id": "1073",
+        "unicode": "U+1F3A8",
+        "emoji": "🎨",
+        "name": "artist palette"
+      },
+      {
+        "id": "1074",
+        "unicode": "U+1F9F5",
+        "emoji": "🧵",
+        "name": "thread"
+      },
+      {
+        "id": "1075",
+        "unicode": "U+1FAA1",
+        "emoji": "🪡",
+        "name": "sewing needle"
+      },
+      {
+        "id": "1076",
+        "unicode": "U+1F9F6",
+        "emoji": "🧶",
+        "name": "yarn"
+      },
+      {
+        "id": "1077",
+        "unicode": "U+1FAA2",
+        "emoji": "🪢",
+        "name": "knot"
+      }
+    ]
+  },
+  "Objects": {
+    "clothing": [
+      {
+        "id": "1078",
+        "unicode": "U+1F453",
+        "emoji": "👓",
+        "name": "glasses"
+      },
+      {
+        "id": "1079",
+        "unicode": "U+1F576",
+        "emoji": "🕶",
+        "name": "sunglasses"
+      },
+      {
+        "id": "1080",
+        "unicode": "U+1F97D",
+        "emoji": "🥽",
+        "name": "goggles"
+      },
+      {
+        "id": "1081",
+        "unicode": "U+1F97C",
+        "emoji": "🥼",
+        "name": "lab coat"
+      },
+      {
+        "id": "1082",
+        "unicode": "U+1F9BA",
+        "emoji": "🦺",
+        "name": "safety vest"
+      },
+      {
+        "id": "1083",
+        "unicode": "U+1F454",
+        "emoji": "👔",
+        "name": "necktie"
+      },
+      {
+        "id": "1084",
+        "unicode": "U+1F455",
+        "emoji": "👕",
+        "name": "t-shirt"
+      },
+      {
+        "id": "1085",
+        "unicode": "U+1F456",
+        "emoji": "👖",
+        "name": "jeans"
+      },
+      {
+        "id": "1086",
+        "unicode": "U+1F9E3",
+        "emoji": "🧣",
+        "name": "scarf"
+      },
+      {
+        "id": "1087",
+        "unicode": "U+1F9E4",
+        "emoji": "🧤",
+        "name": "gloves"
+      },
+      {
+        "id": "1088",
+        "unicode": "U+1F9E5",
+        "emoji": "🧥",
+        "name": "coat"
+      },
+      {
+        "id": "1089",
+        "unicode": "U+1F9E6",
+        "emoji": "🧦",
+        "name": "socks"
+      },
+      {
+        "id": "1090",
+        "unicode": "U+1F457",
+        "emoji": "👗",
+        "name": "dress"
+      },
+      {
+        "id": "1091",
+        "unicode": "U+1F458",
+        "emoji": "👘",
+        "name": "kimono"
+      },
+      {
+        "id": "1092",
+        "unicode": "U+1F97B",
+        "emoji": "🥻",
+        "name": "sari"
+      },
+      {
+        "id": "1093",
+        "unicode": "U+1FA71",
+        "emoji": "🩱",
+        "name": "one-piece swimsuit"
+      },
+      {
+        "id": "1094",
+        "unicode": "U+1FA72",
+        "emoji": "🩲",
+        "name": "briefs"
+      },
+      {
+        "id": "1095",
+        "unicode": "U+1FA73",
+        "emoji": "🩳",
+        "name": "shorts"
+      },
+      {
+        "id": "1096",
+        "unicode": "U+1F459",
+        "emoji": "👙",
+        "name": "bikini"
+      },
+      {
+        "id": "1097",
+        "unicode": "U+1F45A",
+        "emoji": "👚",
+        "name": "woman’s clothes"
+      },
+      {
+        "id": "1098",
+        "unicode": "U+1F45B",
+        "emoji": "👛",
+        "name": "purse"
+      },
+      {
+        "id": "1099",
+        "unicode": "U+1F45C",
+        "emoji": "👜",
+        "name": "handbag"
+      },
+      {
+        "id": "1100",
+        "unicode": "U+1F45D",
+        "emoji": "👝",
+        "name": "clutch bag"
+      },
+      {
+        "id": "1101",
+        "unicode": "U+1F6CD",
+        "emoji": "🛍",
+        "name": "shopping bags"
+      },
+      {
+        "id": "1102",
+        "unicode": "U+1F392",
+        "emoji": "🎒",
+        "name": "backpack"
+      },
+      {
+        "id": "1103",
+        "unicode": "U+1FA74",
+        "emoji": "🩴",
+        "name": "thong sandal"
+      },
+      {
+        "id": "1104",
+        "unicode": "U+1F45E",
+        "emoji": "👞",
+        "name": "man’s shoe"
+      },
+      {
+        "id": "1105",
+        "unicode": "U+1F45F",
+        "emoji": "👟",
+        "name": "running shoe"
+      },
+      {
+        "id": "1106",
+        "unicode": "U+1F97E",
+        "emoji": "🥾",
+        "name": "hiking boot"
+      },
+      {
+        "id": "1107",
+        "unicode": "U+1F97F",
+        "emoji": "🥿",
+        "name": "flat shoe"
+      },
+      {
+        "id": "1108",
+        "unicode": "U+1F460",
+        "emoji": "👠",
+        "name": "high-heeled shoe"
+      },
+      {
+        "id": "1109",
+        "unicode": "U+1F461",
+        "emoji": "👡",
+        "name": "woman’s sandal"
+      },
+      {
+        "id": "1110",
+        "unicode": "U+1FA70",
+        "emoji": "🩰",
+        "name": "ballet shoes"
+      },
+      {
+        "id": "1111",
+        "unicode": "U+1F462",
+        "emoji": "👢",
+        "name": "woman’s boot"
+      },
+      {
+        "id": "1112",
+        "unicode": "U+1F451",
+        "emoji": "👑",
+        "name": "crown"
+      },
+      {
+        "id": "1113",
+        "unicode": "U+1F452",
+        "emoji": "👒",
+        "name": "woman’s hat"
+      },
+      {
+        "id": "1114",
+        "unicode": "U+1F3A9",
+        "emoji": "🎩",
+        "name": "top hat"
+      },
+      {
+        "id": "1115",
+        "unicode": "U+1F393",
+        "emoji": "🎓",
+        "name": "graduation cap"
+      },
+      {
+        "id": "1116",
+        "unicode": "U+1F9E2",
+        "emoji": "🧢",
+        "name": "billed cap"
+      },
+      {
+        "id": "1117",
+        "unicode": "U+1FA96",
+        "emoji": "🪖",
+        "name": "military helmet"
+      },
+      {
+        "id": "1118",
+        "unicode": "U+26D1",
+        "emoji": "⛑",
+        "name": "rescue worker’s helmet"
+      },
+      {
+        "id": "1119",
+        "unicode": "U+1F4FF",
+        "emoji": "📿",
+        "name": "prayer beads"
+      },
+      {
+        "id": "1120",
+        "unicode": "U+1F484",
+        "emoji": "💄",
+        "name": "lipstick"
+      },
+      {
+        "id": "1121",
+        "unicode": "U+1F48D",
+        "emoji": "💍",
+        "name": "ring"
+      },
+      {
+        "id": "1122",
+        "unicode": "U+1F48E",
+        "emoji": "💎",
+        "name": "gem stone"
+      }
+    ],
+    "sound": [
+      {
+        "id": "1123",
+        "unicode": "U+1F507",
+        "emoji": "🔇",
+        "name": "muted speaker"
+      },
+      {
+        "id": "1124",
+        "unicode": "U+1F508",
+        "emoji": "🔈",
+        "name": "speaker low volume"
+      },
+      {
+        "id": "1125",
+        "unicode": "U+1F509",
+        "emoji": "🔉",
+        "name": "speaker medium volume"
+      },
+      {
+        "id": "1126",
+        "unicode": "U+1F50A",
+        "emoji": "🔊",
+        "name": "speaker high volume"
+      },
+      {
+        "id": "1127",
+        "unicode": "U+1F4E2",
+        "emoji": "📢",
+        "name": "loudspeaker"
+      },
+      {
+        "id": "1128",
+        "unicode": "U+1F4E3",
+        "emoji": "📣",
+        "name": "megaphone"
+      },
+      {
+        "id": "1129",
+        "unicode": "U+1F4EF",
+        "emoji": "📯",
+        "name": "postal horn"
+      },
+      {
+        "id": "1130",
+        "unicode": "U+1F514",
+        "emoji": "🔔",
+        "name": "bell"
+      },
+      {
+        "id": "1131",
+        "unicode": "U+1F515",
+        "emoji": "🔕",
+        "name": "bell with slash"
+      }
+    ],
+    "music": [
+      {
+        "id": "1132",
+        "unicode": "U+1F3BC",
+        "emoji": "🎼",
+        "name": "musical score"
+      },
+      {
+        "id": "1133",
+        "unicode": "U+1F3B5",
+        "emoji": "🎵",
+        "name": "musical note"
+      },
+      {
+        "id": "1134",
+        "unicode": "U+1F3B6",
+        "emoji": "🎶",
+        "name": "musical notes"
+      },
+      {
+        "id": "1135",
+        "unicode": "U+1F399",
+        "emoji": "🎙",
+        "name": "studio microphone"
+      },
+      {
+        "id": "1136",
+        "unicode": "U+1F39A",
+        "emoji": "🎚",
+        "name": "level slider"
+      },
+      {
+        "id": "1137",
+        "unicode": "U+1F39B",
+        "emoji": "🎛",
+        "name": "control knobs"
+      },
+      {
+        "id": "1138",
+        "unicode": "U+1F3A4",
+        "emoji": "🎤",
+        "name": "microphone"
+      },
+      {
+        "id": "1139",
+        "unicode": "U+1F3A7",
+        "emoji": "🎧",
+        "name": "headphone"
+      },
+      {
+        "id": "1140",
+        "unicode": "U+1F4FB",
+        "emoji": "📻",
+        "name": "radio"
+      }
+    ],
+    "musical-instrument": [
+      {
+        "id": "1141",
+        "unicode": "U+1F3B7",
+        "emoji": "🎷",
+        "name": "saxophone"
+      },
+      {
+        "id": "1142",
+        "unicode": "U+1FA97",
+        "emoji": "🪗",
+        "name": "accordion"
+      },
+      {
+        "id": "1143",
+        "unicode": "U+1F3B8",
+        "emoji": "🎸",
+        "name": "guitar"
+      },
+      {
+        "id": "1144",
+        "unicode": "U+1F3B9",
+        "emoji": "🎹",
+        "name": "musical keyboard"
+      },
+      {
+        "id": "1145",
+        "unicode": "U+1F3BA",
+        "emoji": "🎺",
+        "name": "trumpet"
+      },
+      {
+        "id": "1146",
+        "unicode": "U+1F3BB",
+        "emoji": "🎻",
+        "name": "violin"
+      },
+      {
+        "id": "1147",
+        "unicode": "U+1FA95",
+        "emoji": "🪕",
+        "name": "banjo"
+      },
+      {
+        "id": "1148",
+        "unicode": "U+1F941",
+        "emoji": "🥁",
+        "name": "drum"
+      },
+      {
+        "id": "1149",
+        "unicode": "U+1FA98",
+        "emoji": "🪘",
+        "name": "long drum"
+      }
+    ],
+    "phone": [
+      {
+        "id": "1150",
+        "unicode": "U+1F4F1",
+        "emoji": "📱",
+        "name": "mobile phone"
+      },
+      {
+        "id": "1151",
+        "unicode": "U+1F4F2",
+        "emoji": "📲",
+        "name": "mobile phone with arrow"
+      },
+      {
+        "id": "1152",
+        "unicode": "U+260E",
+        "emoji": "☎",
+        "name": "telephone"
+      },
+      {
+        "id": "1153",
+        "unicode": "U+1F4DE",
+        "emoji": "📞",
+        "name": "telephone receiver"
+      },
+      {
+        "id": "1154",
+        "unicode": "U+1F4DF",
+        "emoji": "📟",
+        "name": "pager"
+      },
+      {
+        "id": "1155",
+        "unicode": "U+1F4E0",
+        "emoji": "📠",
+        "name": "fax machine"
+      }
+    ],
+    "computer": [
+      {
+        "id": "1156",
+        "unicode": "U+1F50B",
+        "emoji": "🔋",
+        "name": "battery"
+      },
+      {
+        "id": "1157",
+        "unicode": "U+1F50C",
+        "emoji": "🔌",
+        "name": "electric plug"
+      },
+      {
+        "id": "1158",
+        "unicode": "U+1F4BB",
+        "emoji": "💻",
+        "name": "laptop"
+      },
+      {
+        "id": "1159",
+        "unicode": "U+1F5A5",
+        "emoji": "🖥",
+        "name": "desktop computer"
+      },
+      {
+        "id": "1160",
+        "unicode": "U+1F5A8",
+        "emoji": "🖨",
+        "name": "printer"
+      },
+      {
+        "id": "1161",
+        "unicode": "U+2328",
+        "emoji": "⌨",
+        "name": "keyboard"
+      },
+      {
+        "id": "1162",
+        "unicode": "U+1F5B1",
+        "emoji": "🖱",
+        "name": "computer mouse"
+      },
+      {
+        "id": "1163",
+        "unicode": "U+1F5B2",
+        "emoji": "🖲",
+        "name": "trackball"
+      },
+      {
+        "id": "1164",
+        "unicode": "U+1F4BD",
+        "emoji": "💽",
+        "name": "computer disk"
+      },
+      {
+        "id": "1165",
+        "unicode": "U+1F4BE",
+        "emoji": "💾",
+        "name": "floppy disk"
+      },
+      {
+        "id": "1166",
+        "unicode": "U+1F4BF",
+        "emoji": "💿",
+        "name": "optical disk"
+      },
+      {
+        "id": "1167",
+        "unicode": "U+1F4C0",
+        "emoji": "📀",
+        "name": "dvd"
+      },
+      {
+        "id": "1168",
+        "unicode": "U+1F9EE",
+        "emoji": "🧮",
+        "name": "abacus"
+      }
+    ],
+    "light & video": [
+      {
+        "id": "1169",
+        "unicode": "U+1F3A5",
+        "emoji": "🎥",
+        "name": "movie camera"
+      },
+      {
+        "id": "1170",
+        "unicode": "U+1F39E",
+        "emoji": "🎞",
+        "name": "film frames"
+      },
+      {
+        "id": "1171",
+        "unicode": "U+1F4FD",
+        "emoji": "📽",
+        "name": "film projector"
+      },
+      {
+        "id": "1172",
+        "unicode": "U+1F3AC",
+        "emoji": "🎬",
+        "name": "clapper board"
+      },
+      {
+        "id": "1173",
+        "unicode": "U+1F4FA",
+        "emoji": "📺",
+        "name": "television"
+      },
+      {
+        "id": "1174",
+        "unicode": "U+1F4F7",
+        "emoji": "📷",
+        "name": "camera"
+      },
+      {
+        "id": "1175",
+        "unicode": "U+1F4F8",
+        "emoji": "📸",
+        "name": "camera with flash"
+      },
+      {
+        "id": "1176",
+        "unicode": "U+1F4F9",
+        "emoji": "📹",
+        "name": "video camera"
+      },
+      {
+        "id": "1177",
+        "unicode": "U+1F4FC",
+        "emoji": "📼",
+        "name": "videocassette"
+      },
+      {
+        "id": "1178",
+        "unicode": "U+1F50D",
+        "emoji": "🔍",
+        "name": "magnifying glass tilted left"
+      },
+      {
+        "id": "1179",
+        "unicode": "U+1F50E",
+        "emoji": "🔎",
+        "name": "magnifying glass tilted right"
+      },
+      {
+        "id": "1180",
+        "unicode": "U+1F56F",
+        "emoji": "🕯",
+        "name": "candle"
+      },
+      {
+        "id": "1181",
+        "unicode": "U+1F4A1",
+        "emoji": "💡",
+        "name": "light bulb"
+      },
+      {
+        "id": "1182",
+        "unicode": "U+1F526",
+        "emoji": "🔦",
+        "name": "flashlight"
+      },
+      {
+        "id": "1183",
+        "unicode": "U+1F3EE",
+        "emoji": "🏮",
+        "name": "red paper lantern"
+      },
+      {
+        "id": "1184",
+        "unicode": "U+1FA94",
+        "emoji": "🪔",
+        "name": "diya lamp"
+      }
+    ],
+    "book-paper": [
+      {
+        "id": "1185",
+        "unicode": "U+1F4D4",
+        "emoji": "📔",
+        "name": "notebook with decorative cover"
+      },
+      {
+        "id": "1186",
+        "unicode": "U+1F4D5",
+        "emoji": "📕",
+        "name": "closed book"
+      },
+      {
+        "id": "1187",
+        "unicode": "U+1F4D6",
+        "emoji": "📖",
+        "name": "open book"
+      },
+      {
+        "id": "1188",
+        "unicode": "U+1F4D7",
+        "emoji": "📗",
+        "name": "green book"
+      },
+      {
+        "id": "1189",
+        "unicode": "U+1F4D8",
+        "emoji": "📘",
+        "name": "blue book"
+      },
+      {
+        "id": "1190",
+        "unicode": "U+1F4D9",
+        "emoji": "📙",
+        "name": "orange book"
+      },
+      {
+        "id": "1191",
+        "unicode": "U+1F4DA",
+        "emoji": "📚",
+        "name": "books"
+      },
+      {
+        "id": "1192",
+        "unicode": "U+1F4D3",
+        "emoji": "📓",
+        "name": "notebook"
+      },
+      {
+        "id": "1193",
+        "unicode": "U+1F4D2",
+        "emoji": "📒",
+        "name": "ledger"
+      },
+      {
+        "id": "1194",
+        "unicode": "U+1F4C3",
+        "emoji": "📃",
+        "name": "page with curl"
+      },
+      {
+        "id": "1195",
+        "unicode": "U+1F4DC",
+        "emoji": "📜",
+        "name": "scroll"
+      },
+      {
+        "id": "1196",
+        "unicode": "U+1F4C4",
+        "emoji": "📄",
+        "name": "page facing up"
+      },
+      {
+        "id": "1197",
+        "unicode": "U+1F4F0",
+        "emoji": "📰",
+        "name": "newspaper"
+      },
+      {
+        "id": "1198",
+        "unicode": "U+1F5DE",
+        "emoji": "🗞",
+        "name": "rolled-up newspaper"
+      },
+      {
+        "id": "1199",
+        "unicode": "U+1F4D1",
+        "emoji": "📑",
+        "name": "bookmark tabs"
+      },
+      {
+        "id": "1200",
+        "unicode": "U+1F516",
+        "emoji": "🔖",
+        "name": "bookmark"
+      },
+      {
+        "id": "1201",
+        "unicode": "U+1F3F7",
+        "emoji": "🏷",
+        "name": "label"
+      }
+    ],
+    "money": [
+      {
+        "id": "1202",
+        "unicode": "U+1F4B0",
+        "emoji": "💰",
+        "name": "money bag"
+      },
+      {
+        "id": "1203",
+        "unicode": "U+1FA99",
+        "emoji": "🪙",
+        "name": "coin"
+      },
+      {
+        "id": "1204",
+        "unicode": "U+1F4B4",
+        "emoji": "💴",
+        "name": "yen banknote"
+      },
+      {
+        "id": "1205",
+        "unicode": "U+1F4B5",
+        "emoji": "💵",
+        "name": "dollar banknote"
+      },
+      {
+        "id": "1206",
+        "unicode": "U+1F4B6",
+        "emoji": "💶",
+        "name": "euro banknote"
+      },
+      {
+        "id": "1207",
+        "unicode": "U+1F4B7",
+        "emoji": "💷",
+        "name": "pound banknote"
+      },
+      {
+        "id": "1208",
+        "unicode": "U+1F4B8",
+        "emoji": "💸",
+        "name": "money with wings"
+      },
+      {
+        "id": "1209",
+        "unicode": "U+1F4B3",
+        "emoji": "💳",
+        "name": "credit card"
+      },
+      {
+        "id": "1210",
+        "unicode": "U+1F9FE",
+        "emoji": "🧾",
+        "name": "receipt"
+      },
+      {
+        "id": "1211",
+        "unicode": "U+1F4B9",
+        "emoji": "💹",
+        "name": "chart increasing with yen"
+      }
+    ],
+    "mail": [
+      {
+        "id": "1212",
+        "unicode": "U+2709",
+        "emoji": "✉",
+        "name": "envelope"
+      },
+      {
+        "id": "1213",
+        "unicode": "U+1F4E7",
+        "emoji": "📧",
+        "name": "e-mail"
+      },
+      {
+        "id": "1214",
+        "unicode": "U+1F4E8",
+        "emoji": "📨",
+        "name": "incoming envelope"
+      },
+      {
+        "id": "1215",
+        "unicode": "U+1F4E9",
+        "emoji": "📩",
+        "name": "envelope with arrow"
+      },
+      {
+        "id": "1216",
+        "unicode": "U+1F4E4",
+        "emoji": "📤",
+        "name": "outbox tray"
+      },
+      {
+        "id": "1217",
+        "unicode": "U+1F4E5",
+        "emoji": "📥",
+        "name": "inbox tray"
+      },
+      {
+        "id": "1218",
+        "unicode": "U+1F4E6",
+        "emoji": "📦",
+        "name": "package"
+      },
+      {
+        "id": "1219",
+        "unicode": "U+1F4EB",
+        "emoji": "📫",
+        "name": "closed mailbox with raised flag"
+      },
+      {
+        "id": "1220",
+        "unicode": "U+1F4EA",
+        "emoji": "📪",
+        "name": "closed mailbox with lowered flag"
+      },
+      {
+        "id": "1221",
+        "unicode": "U+1F4EC",
+        "emoji": "📬",
+        "name": "open mailbox with raised flag"
+      },
+      {
+        "id": "1222",
+        "unicode": "U+1F4ED",
+        "emoji": "📭",
+        "name": "open mailbox with lowered flag"
+      },
+      {
+        "id": "1223",
+        "unicode": "U+1F4EE",
+        "emoji": "📮",
+        "name": "postbox"
+      },
+      {
+        "id": "1224",
+        "unicode": "U+1F5F3",
+        "emoji": "🗳",
+        "name": "ballot box with ballot"
+      }
+    ],
+    "writing": [
+      {
+        "id": "1225",
+        "unicode": "U+270F",
+        "emoji": "✏",
+        "name": "pencil"
+      },
+      {
+        "id": "1226",
+        "unicode": "U+2712",
+        "emoji": "✒",
+        "name": "black nib"
+      },
+      {
+        "id": "1227",
+        "unicode": "U+1F58B",
+        "emoji": "🖋",
+        "name": "fountain pen"
+      },
+      {
+        "id": "1228",
+        "unicode": "U+1F58A",
+        "emoji": "🖊",
+        "name": "pen"
+      },
+      {
+        "id": "1229",
+        "unicode": "U+1F58C",
+        "emoji": "🖌",
+        "name": "paintbrush"
+      },
+      {
+        "id": "1230",
+        "unicode": "U+1F58D",
+        "emoji": "🖍",
+        "name": "crayon"
+      },
+      {
+        "id": "1231",
+        "unicode": "U+1F4DD",
+        "emoji": "📝",
+        "name": "memo"
+      }
+    ],
+    "office": [
+      {
+        "id": "1232",
+        "unicode": "U+1F4BC",
+        "emoji": "💼",
+        "name": "briefcase"
+      },
+      {
+        "id": "1233",
+        "unicode": "U+1F4C1",
+        "emoji": "📁",
+        "name": "file folder"
+      },
+      {
+        "id": "1234",
+        "unicode": "U+1F4C2",
+        "emoji": "📂",
+        "name": "open file folder"
+      },
+      {
+        "id": "1235",
+        "unicode": "U+1F5C2",
+        "emoji": "🗂",
+        "name": "card index dividers"
+      },
+      {
+        "id": "1236",
+        "unicode": "U+1F4C5",
+        "emoji": "📅",
+        "name": "calendar"
+      },
+      {
+        "id": "1237",
+        "unicode": "U+1F4C6",
+        "emoji": "📆",
+        "name": "tear-off calendar"
+      },
+      {
+        "id": "1238",
+        "unicode": "U+1F5D2",
+        "emoji": "🗒",
+        "name": "spiral notepad"
+      },
+      {
+        "id": "1239",
+        "unicode": "U+1F5D3",
+        "emoji": "🗓",
+        "name": "spiral calendar"
+      },
+      {
+        "id": "1240",
+        "unicode": "U+1F4C7",
+        "emoji": "📇",
+        "name": "card index"
+      },
+      {
+        "id": "1241",
+        "unicode": "U+1F4C8",
+        "emoji": "📈",
+        "name": "chart increasing"
+      },
+      {
+        "id": "1242",
+        "unicode": "U+1F4C9",
+        "emoji": "📉",
+        "name": "chart decreasing"
+      },
+      {
+        "id": "1243",
+        "unicode": "U+1F4CA",
+        "emoji": "📊",
+        "name": "bar chart"
+      },
+      {
+        "id": "1244",
+        "unicode": "U+1F4CB",
+        "emoji": "📋",
+        "name": "clipboard"
+      },
+      {
+        "id": "1245",
+        "unicode": "U+1F4CC",
+        "emoji": "📌",
+        "name": "pushpin"
+      },
+      {
+        "id": "1246",
+        "unicode": "U+1F4CD",
+        "emoji": "📍",
+        "name": "round pushpin"
+      },
+      {
+        "id": "1247",
+        "unicode": "U+1F4CE",
+        "emoji": "📎",
+        "name": "paperclip"
+      },
+      {
+        "id": "1248",
+        "unicode": "U+1F587",
+        "emoji": "🖇",
+        "name": "linked paperclips"
+      },
+      {
+        "id": "1249",
+        "unicode": "U+1F4CF",
+        "emoji": "📏",
+        "name": "straight ruler"
+      },
+      {
+        "id": "1250",
+        "unicode": "U+1F4D0",
+        "emoji": "📐",
+        "name": "triangular ruler"
+      },
+      {
+        "id": "1251",
+        "unicode": "U+2702",
+        "emoji": "✂",
+        "name": "scissors"
+      },
+      {
+        "id": "1252",
+        "unicode": "U+1F5C3",
+        "emoji": "🗃",
+        "name": "card file box"
+      },
+      {
+        "id": "1253",
+        "unicode": "U+1F5C4",
+        "emoji": "🗄",
+        "name": "file cabinet"
+      },
+      {
+        "id": "1254",
+        "unicode": "U+1F5D1",
+        "emoji": "🗑",
+        "name": "wastebasket"
+      }
+    ],
+    "lock": [
+      {
+        "id": "1255",
+        "unicode": "U+1F512",
+        "emoji": "🔒",
+        "name": "locked"
+      },
+      {
+        "id": "1256",
+        "unicode": "U+1F513",
+        "emoji": "🔓",
+        "name": "unlocked"
+      },
+      {
+        "id": "1257",
+        "unicode": "U+1F50F",
+        "emoji": "🔏",
+        "name": "locked with pen"
+      },
+      {
+        "id": "1258",
+        "unicode": "U+1F510",
+        "emoji": "🔐",
+        "name": "locked with key"
+      },
+      {
+        "id": "1259",
+        "unicode": "U+1F511",
+        "emoji": "🔑",
+        "name": "key"
+      },
+      {
+        "id": "1260",
+        "unicode": "U+1F5DD",
+        "emoji": "🗝",
+        "name": "old key"
+      }
+    ],
+    "tool": [
+      {
+        "id": "1261",
+        "unicode": "U+1F528",
+        "emoji": "🔨",
+        "name": "hammer"
+      },
+      {
+        "id": "1262",
+        "unicode": "U+1FA93",
+        "emoji": "🪓",
+        "name": "axe"
+      },
+      {
+        "id": "1263",
+        "unicode": "U+26CF",
+        "emoji": "⛏",
+        "name": "pick"
+      },
+      {
+        "id": "1264",
+        "unicode": "U+2692",
+        "emoji": "⚒",
+        "name": "hammer and pick"
+      },
+      {
+        "id": "1265",
+        "unicode": "U+1F6E0",
+        "emoji": "🛠",
+        "name": "hammer and wrench"
+      },
+      {
+        "id": "1266",
+        "unicode": "U+1F5E1",
+        "emoji": "🗡",
+        "name": "dagger"
+      },
+      {
+        "id": "1267",
+        "unicode": "U+2694",
+        "emoji": "⚔",
+        "name": "crossed swords"
+      },
+      {
+        "id": "1268",
+        "unicode": "U+1F52B",
+        "emoji": "🔫",
+        "name": "water pistol"
+      },
+      {
+        "id": "1269",
+        "unicode": "U+1FA83",
+        "emoji": "🪃",
+        "name": "boomerang"
+      },
+      {
+        "id": "1270",
+        "unicode": "U+1F3F9",
+        "emoji": "🏹",
+        "name": "bow and arrow"
+      },
+      {
+        "id": "1271",
+        "unicode": "U+1F6E1",
+        "emoji": "🛡",
+        "name": "shield"
+      },
+      {
+        "id": "1272",
+        "unicode": "U+1FA9A",
+        "emoji": "🪚",
+        "name": "carpentry saw"
+      },
+      {
+        "id": "1273",
+        "unicode": "U+1F527",
+        "emoji": "🔧",
+        "name": "wrench"
+      },
+      {
+        "id": "1274",
+        "unicode": "U+1FA9B",
+        "emoji": "🪛",
+        "name": "screwdriver"
+      },
+      {
+        "id": "1275",
+        "unicode": "U+1F529",
+        "emoji": "🔩",
+        "name": "nut and bolt"
+      },
+      {
+        "id": "1276",
+        "unicode": "U+2699",
+        "emoji": "⚙",
+        "name": "gear"
+      },
+      {
+        "id": "1277",
+        "unicode": "U+1F5DC",
+        "emoji": "🗜",
+        "name": "clamp"
+      },
+      {
+        "id": "1278",
+        "unicode": "U+2696",
+        "emoji": "⚖",
+        "name": "balance scale"
+      },
+      {
+        "id": "1279",
+        "unicode": "U+1F9AF",
+        "emoji": "🦯",
+        "name": "white cane"
+      },
+      {
+        "id": "1280",
+        "unicode": "U+1F517",
+        "emoji": "🔗",
+        "name": "link"
+      },
+      {
+        "id": "1281",
+        "unicode": "U+26D3",
+        "emoji": "⛓",
+        "name": "chains"
+      },
+      {
+        "id": "1282",
+        "unicode": "U+1FA9D",
+        "emoji": "🪝",
+        "name": "hook"
+      },
+      {
+        "id": "1283",
+        "unicode": "U+1F9F0",
+        "emoji": "🧰",
+        "name": "toolbox"
+      },
+      {
+        "id": "1284",
+        "unicode": "U+1F9F2",
+        "emoji": "🧲",
+        "name": "magnet"
+      },
+      {
+        "id": "1285",
+        "unicode": "U+1FA9C",
+        "emoji": "🪜",
+        "name": "ladder"
+      }
+    ],
+    "science": [
+      {
+        "id": "1286",
+        "unicode": "U+2697",
+        "emoji": "⚗",
+        "name": "alembic"
+      },
+      {
+        "id": "1287",
+        "unicode": "U+1F9EA",
+        "emoji": "🧪",
+        "name": "test tube"
+      },
+      {
+        "id": "1288",
+        "unicode": "U+1F9EB",
+        "emoji": "🧫",
+        "name": "petri dish"
+      },
+      {
+        "id": "1289",
+        "unicode": "U+1F9EC",
+        "emoji": "🧬",
+        "name": "dna"
+      },
+      {
+        "id": "1290",
+        "unicode": "U+1F52C",
+        "emoji": "🔬",
+        "name": "microscope"
+      },
+      {
+        "id": "1291",
+        "unicode": "U+1F52D",
+        "emoji": "🔭",
+        "name": "telescope"
+      },
+      {
+        "id": "1292",
+        "unicode": "U+1F4E1",
+        "emoji": "📡",
+        "name": "satellite antenna"
+      }
+    ],
+    "medical": [
+      {
+        "id": "1293",
+        "unicode": "U+1F489",
+        "emoji": "💉",
+        "name": "syringe"
+      },
+      {
+        "id": "1294",
+        "unicode": "U+1FA78",
+        "emoji": "🩸",
+        "name": "drop of blood"
+      },
+      {
+        "id": "1295",
+        "unicode": "U+1F48A",
+        "emoji": "💊",
+        "name": "pill"
+      },
+      {
+        "id": "1296",
+        "unicode": "U+1FA79",
+        "emoji": "🩹",
+        "name": "adhesive bandage"
+      },
+      {
+        "id": "1297",
+        "unicode": "U+1FA7A",
+        "emoji": "🩺",
+        "name": "stethoscope"
+      }
+    ],
+    "household": [
+      {
+        "id": "1298",
+        "unicode": "U+1F6AA",
+        "emoji": "🚪",
+        "name": "door"
+      },
+      {
+        "id": "1299",
+        "unicode": "U+1F6D7",
+        "emoji": "🛗",
+        "name": "elevator"
+      },
+      {
+        "id": "1300",
+        "unicode": "U+1FA9E",
+        "emoji": "🪞",
+        "name": "mirror"
+      },
+      {
+        "id": "1301",
+        "unicode": "U+1FA9F",
+        "emoji": "🪟",
+        "name": "window"
+      },
+      {
+        "id": "1302",
+        "unicode": "U+1F6CF",
+        "emoji": "🛏",
+        "name": "bed"
+      },
+      {
+        "id": "1303",
+        "unicode": "U+1F6CB",
+        "emoji": "🛋",
+        "name": "couch and lamp"
+      },
+      {
+        "id": "1304",
+        "unicode": "U+1FA91",
+        "emoji": "🪑",
+        "name": "chair"
+      },
+      {
+        "id": "1305",
+        "unicode": "U+1F6BD",
+        "emoji": "🚽",
+        "name": "toilet"
+      },
+      {
+        "id": "1306",
+        "unicode": "U+1FAA0",
+        "emoji": "🪠",
+        "name": "plunger"
+      },
+      {
+        "id": "1307",
+        "unicode": "U+1F6BF",
+        "emoji": "🚿",
+        "name": "shower"
+      },
+      {
+        "id": "1308",
+        "unicode": "U+1F6C1",
+        "emoji": "🛁",
+        "name": "bathtub"
+      },
+      {
+        "id": "1309",
+        "unicode": "U+1FAA4",
+        "emoji": "🪤",
+        "name": "mouse trap"
+      },
+      {
+        "id": "1310",
+        "unicode": "U+1FA92",
+        "emoji": "🪒",
+        "name": "razor"
+      },
+      {
+        "id": "1311",
+        "unicode": "U+1F9F4",
+        "emoji": "🧴",
+        "name": "lotion bottle"
+      },
+      {
+        "id": "1312",
+        "unicode": "U+1F9F7",
+        "emoji": "🧷",
+        "name": "safety pin"
+      },
+      {
+        "id": "1313",
+        "unicode": "U+1F9F9",
+        "emoji": "🧹",
+        "name": "broom"
+      },
+      {
+        "id": "1314",
+        "unicode": "U+1F9FA",
+        "emoji": "🧺",
+        "name": "basket"
+      },
+      {
+        "id": "1315",
+        "unicode": "U+1F9FB",
+        "emoji": "🧻",
+        "name": "roll of paper"
+      },
+      {
+        "id": "1316",
+        "unicode": "U+1FAA3",
+        "emoji": "🪣",
+        "name": "bucket"
+      },
+      {
+        "id": "1317",
+        "unicode": "U+1F9FC",
+        "emoji": "🧼",
+        "name": "soap"
+      },
+      {
+        "id": "1318",
+        "unicode": "U+1FAA5",
+        "emoji": "🪥",
+        "name": "toothbrush"
+      },
+      {
+        "id": "1319",
+        "unicode": "U+1F9FD",
+        "emoji": "🧽",
+        "name": "sponge"
+      },
+      {
+        "id": "1320",
+        "unicode": "U+1F9EF",
+        "emoji": "🧯",
+        "name": "fire extinguisher"
+      },
+      {
+        "id": "1321",
+        "unicode": "U+1F6D2",
+        "emoji": "🛒",
+        "name": "shopping cart"
+      }
+    ],
+    "other-object": [
+      {
+        "id": "1322",
+        "unicode": "U+1F6AC",
+        "emoji": "🚬",
+        "name": "cigarette"
+      },
+      {
+        "id": "1323",
+        "unicode": "U+26B0",
+        "emoji": "⚰",
+        "name": "coffin"
+      },
+      {
+        "id": "1324",
+        "unicode": "U+1FAA6",
+        "emoji": "🪦",
+        "name": "headstone"
+      },
+      {
+        "id": "1325",
+        "unicode": "U+26B1",
+        "emoji": "⚱",
+        "name": "funeral urn"
+      },
+      {
+        "id": "1326",
+        "unicode": "U+1F5FF",
+        "emoji": "🗿",
+        "name": "moai"
+      },
+      {
+        "id": "1327",
+        "unicode": "U+1FAA7",
+        "emoji": "🪧",
+        "name": "placard"
+      }
+    ]
+  },
+  "Symbols": {
+    "transport-sign": [
+      {
+        "id": "1328",
+        "unicode": "U+1F3E7",
+        "emoji": "🏧",
+        "name": "ATM sign"
+      },
+      {
+        "id": "1329",
+        "unicode": "U+1F6AE",
+        "emoji": "🚮",
+        "name": "litter in bin sign"
+      },
+      {
+        "id": "1330",
+        "unicode": "U+1F6B0",
+        "emoji": "🚰",
+        "name": "potable water"
+      },
+      {
+        "id": "1331",
+        "unicode": "U+267F",
+        "emoji": "♿",
+        "name": "wheelchair symbol"
+      },
+      {
+        "id": "1332",
+        "unicode": "U+1F6B9",
+        "emoji": "🚹",
+        "name": "men’s room"
+      },
+      {
+        "id": "1333",
+        "unicode": "U+1F6BA",
+        "emoji": "🚺",
+        "name": "women’s room"
+      },
+      {
+        "id": "1334",
+        "unicode": "U+1F6BB",
+        "emoji": "🚻",
+        "name": "restroom"
+      },
+      {
+        "id": "1335",
+        "unicode": "U+1F6BC",
+        "emoji": "🚼",
+        "name": "baby symbol"
+      },
+      {
+        "id": "1336",
+        "unicode": "U+1F6BE",
+        "emoji": "🚾",
+        "name": "water closet"
+      },
+      {
+        "id": "1337",
+        "unicode": "U+1F6C2",
+        "emoji": "🛂",
+        "name": "passport control"
+      },
+      {
+        "id": "1338",
+        "unicode": "U+1F6C3",
+        "emoji": "🛃",
+        "name": "customs"
+      },
+      {
+        "id": "1339",
+        "unicode": "U+1F6C4",
+        "emoji": "🛄",
+        "name": "baggage claim"
+      },
+      {
+        "id": "1340",
+        "unicode": "U+1F6C5",
+        "emoji": "🛅",
+        "name": "left luggage"
+      }
+    ],
+    "warning": [
+      {
+        "id": "1341",
+        "unicode": "U+26A0",
+        "emoji": "⚠",
+        "name": "warning"
+      },
+      {
+        "id": "1342",
+        "unicode": "U+1F6B8",
+        "emoji": "🚸",
+        "name": "children crossing"
+      },
+      {
+        "id": "1343",
+        "unicode": "U+26D4",
+        "emoji": "⛔",
+        "name": "no entry"
+      },
+      {
+        "id": "1344",
+        "unicode": "U+1F6AB",
+        "emoji": "🚫",
+        "name": "prohibited"
+      },
+      {
+        "id": "1345",
+        "unicode": "U+1F6B3",
+        "emoji": "🚳",
+        "name": "no bicycles"
+      },
+      {
+        "id": "1346",
+        "unicode": "U+1F6AD",
+        "emoji": "🚭",
+        "name": "no smoking"
+      },
+      {
+        "id": "1347",
+        "unicode": "U+1F6AF",
+        "emoji": "🚯",
+        "name": "no littering"
+      },
+      {
+        "id": "1348",
+        "unicode": "U+1F6B1",
+        "emoji": "🚱",
+        "name": "non-potable water"
+      },
+      {
+        "id": "1349",
+        "unicode": "U+1F6B7",
+        "emoji": "🚷",
+        "name": "no pedestrians"
+      },
+      {
+        "id": "1350",
+        "unicode": "U+1F4F5",
+        "emoji": "📵",
+        "name": "no mobile phones"
+      },
+      {
+        "id": "1351",
+        "unicode": "U+1F51E",
+        "emoji": "🔞",
+        "name": "no one under eighteen"
+      },
+      {
+        "id": "1352",
+        "unicode": "U+2622",
+        "emoji": "☢",
+        "name": "radioactive"
+      },
+      {
+        "id": "1353",
+        "unicode": "U+2623",
+        "emoji": "☣",
+        "name": "biohazard"
+      }
+    ],
+    "arrow": [
+      {
+        "id": "1354",
+        "unicode": "U+2B06",
+        "emoji": "⬆",
+        "name": "up arrow"
+      },
+      {
+        "id": "1355",
+        "unicode": "U+2197",
+        "emoji": "↗",
+        "name": "up-right arrow"
+      },
+      {
+        "id": "1356",
+        "unicode": "U+27A1",
+        "emoji": "➡",
+        "name": "right arrow"
+      },
+      {
+        "id": "1357",
+        "unicode": "U+2198",
+        "emoji": "↘",
+        "name": "down-right arrow"
+      },
+      {
+        "id": "1358",
+        "unicode": "U+2B07",
+        "emoji": "⬇",
+        "name": "down arrow"
+      },
+      {
+        "id": "1359",
+        "unicode": "U+2199",
+        "emoji": "↙",
+        "name": "down-left arrow"
+      },
+      {
+        "id": "1360",
+        "unicode": "U+2B05",
+        "emoji": "⬅",
+        "name": "left arrow"
+      },
+      {
+        "id": "1361",
+        "unicode": "U+2196",
+        "emoji": "↖",
+        "name": "up-left arrow"
+      },
+      {
+        "id": "1362",
+        "unicode": "U+2195",
+        "emoji": "↕",
+        "name": "up-down arrow"
+      },
+      {
+        "id": "1363",
+        "unicode": "U+2194",
+        "emoji": "↔",
+        "name": "left-right arrow"
+      },
+      {
+        "id": "1364",
+        "unicode": "U+21A9",
+        "emoji": "↩",
+        "name": "right arrow curving left"
+      },
+      {
+        "id": "1365",
+        "unicode": "U+21AA",
+        "emoji": "↪",
+        "name": "left arrow curving right"
+      },
+      {
+        "id": "1366",
+        "unicode": "U+2934",
+        "emoji": "⤴",
+        "name": "right arrow curving up"
+      },
+      {
+        "id": "1367",
+        "unicode": "U+2935",
+        "emoji": "⤵",
+        "name": "right arrow curving down"
+      },
+      {
+        "id": "1368",
+        "unicode": "U+1F503",
+        "emoji": "🔃",
+        "name": "clockwise vertical arrows"
+      },
+      {
+        "id": "1369",
+        "unicode": "U+1F504",
+        "emoji": "🔄",
+        "name": "counterclockwise arrows button"
+      },
+      {
+        "id": "1370",
+        "unicode": "U+1F519",
+        "emoji": "🔙",
+        "name": "BACK arrow"
+      },
+      {
+        "id": "1371",
+        "unicode": "U+1F51A",
+        "emoji": "🔚",
+        "name": "END arrow"
+      },
+      {
+        "id": "1372",
+        "unicode": "U+1F51B",
+        "emoji": "🔛",
+        "name": "ON! arrow"
+      },
+      {
+        "id": "1373",
+        "unicode": "U+1F51C",
+        "emoji": "🔜",
+        "name": "SOON arrow"
+      },
+      {
+        "id": "1374",
+        "unicode": "U+1F51D",
+        "emoji": "🔝",
+        "name": "TOP arrow"
+      }
+    ],
+    "religion": [
+      {
+        "id": "1375",
+        "unicode": "U+1F6D0",
+        "emoji": "🛐",
+        "name": "place of worship"
+      },
+      {
+        "id": "1376",
+        "unicode": "U+269B",
+        "emoji": "⚛",
+        "name": "atom symbol"
+      },
+      {
+        "id": "1377",
+        "unicode": "U+1F549",
+        "emoji": "🕉",
+        "name": "om"
+      },
+      {
+        "id": "1378",
+        "unicode": "U+2721",
+        "emoji": "✡",
+        "name": "star of David"
+      },
+      {
+        "id": "1379",
+        "unicode": "U+2638",
+        "emoji": "☸",
+        "name": "wheel of dharma"
+      },
+      {
+        "id": "1380",
+        "unicode": "U+262F",
+        "emoji": "☯",
+        "name": "yin yang"
+      },
+      {
+        "id": "1381",
+        "unicode": "U+271D",
+        "emoji": "✝",
+        "name": "latin cross"
+      },
+      {
+        "id": "1382",
+        "unicode": "U+2626",
+        "emoji": "☦",
+        "name": "orthodox cross"
+      },
+      {
+        "id": "1383",
+        "unicode": "U+262A",
+        "emoji": "☪",
+        "name": "star and crescent"
+      },
+      {
+        "id": "1384",
+        "unicode": "U+262E",
+        "emoji": "☮",
+        "name": "peace symbol"
+      },
+      {
+        "id": "1385",
+        "unicode": "U+1F54E",
+        "emoji": "🕎",
+        "name": "menorah"
+      },
+      {
+        "id": "1386",
+        "unicode": "U+1F52F",
+        "emoji": "🔯",
+        "name": "dotted six-pointed star"
+      }
+    ],
+    "zodiac": [
+      {
+        "id": "1387",
+        "unicode": "U+2648",
+        "emoji": "♈",
+        "name": "Aries"
+      },
+      {
+        "id": "1388",
+        "unicode": "U+2649",
+        "emoji": "♉",
+        "name": "Taurus"
+      },
+      {
+        "id": "1389",
+        "unicode": "U+264A",
+        "emoji": "♊",
+        "name": "Gemini"
+      },
+      {
+        "id": "1390",
+        "unicode": "U+264B",
+        "emoji": "♋",
+        "name": "Cancer"
+      },
+      {
+        "id": "1391",
+        "unicode": "U+264C",
+        "emoji": "♌",
+        "name": "Leo"
+      },
+      {
+        "id": "1392",
+        "unicode": "U+264D",
+        "emoji": "♍",
+        "name": "Virgo"
+      },
+      {
+        "id": "1393",
+        "unicode": "U+264E",
+        "emoji": "♎",
+        "name": "Libra"
+      },
+      {
+        "id": "1394",
+        "unicode": "U+264F",
+        "emoji": "♏",
+        "name": "Scorpio"
+      },
+      {
+        "id": "1395",
+        "unicode": "U+2650",
+        "emoji": "♐",
+        "name": "Sagittarius"
+      },
+      {
+        "id": "1396",
+        "unicode": "U+2651",
+        "emoji": "♑",
+        "name": "Capricorn"
+      },
+      {
+        "id": "1397",
+        "unicode": "U+2652",
+        "emoji": "♒",
+        "name": "Aquarius"
+      },
+      {
+        "id": "1398",
+        "unicode": "U+2653",
+        "emoji": "♓",
+        "name": "Pisces"
+      },
+      {
+        "id": "1399",
+        "unicode": "U+26CE",
+        "emoji": "⛎",
+        "name": "Ophiuchus"
+      }
+    ],
+    "av-symbol": [
+      {
+        "id": "1400",
+        "unicode": "U+1F500",
+        "emoji": "🔀",
+        "name": "shuffle tracks button"
+      },
+      {
+        "id": "1401",
+        "unicode": "U+1F501",
+        "emoji": "🔁",
+        "name": "repeat button"
+      },
+      {
+        "id": "1402",
+        "unicode": "U+1F502",
+        "emoji": "🔂",
+        "name": "repeat single button"
+      },
+      {
+        "id": "1403",
+        "unicode": "U+25B6",
+        "emoji": "▶",
+        "name": "play button"
+      },
+      {
+        "id": "1404",
+        "unicode": "U+23E9",
+        "emoji": "⏩",
+        "name": "fast-forward button"
+      },
+      {
+        "id": "1405",
+        "unicode": "U+23ED",
+        "emoji": "⏭",
+        "name": "next track button"
+      },
+      {
+        "id": "1406",
+        "unicode": "U+23EF",
+        "emoji": "⏯",
+        "name": "play or pause button"
+      },
+      {
+        "id": "1407",
+        "unicode": "U+25C0",
+        "emoji": "◀",
+        "name": "reverse button"
+      },
+      {
+        "id": "1408",
+        "unicode": "U+23EA",
+        "emoji": "⏪",
+        "name": "fast reverse button"
+      },
+      {
+        "id": "1409",
+        "unicode": "U+23EE",
+        "emoji": "⏮",
+        "name": "last track button"
+      },
+      {
+        "id": "1410",
+        "unicode": "U+1F53C",
+        "emoji": "🔼",
+        "name": "upwards button"
+      },
+      {
+        "id": "1411",
+        "unicode": "U+23EB",
+        "emoji": "⏫",
+        "name": "fast up button"
+      },
+      {
+        "id": "1412",
+        "unicode": "U+1F53D",
+        "emoji": "🔽",
+        "name": "downwards button"
+      },
+      {
+        "id": "1413",
+        "unicode": "U+23EC",
+        "emoji": "⏬",
+        "name": "fast down button"
+      },
+      {
+        "id": "1414",
+        "unicode": "U+23F8",
+        "emoji": "⏸",
+        "name": "pause button"
+      },
+      {
+        "id": "1415",
+        "unicode": "U+23F9",
+        "emoji": "⏹",
+        "name": "stop button"
+      },
+      {
+        "id": "1416",
+        "unicode": "U+23FA",
+        "emoji": "⏺",
+        "name": "record button"
+      },
+      {
+        "id": "1417",
+        "unicode": "U+23CF",
+        "emoji": "⏏",
+        "name": "eject button"
+      },
+      {
+        "id": "1418",
+        "unicode": "U+1F3A6",
+        "emoji": "🎦",
+        "name": "cinema"
+      },
+      {
+        "id": "1419",
+        "unicode": "U+1F505",
+        "emoji": "🔅",
+        "name": "dim button"
+      },
+      {
+        "id": "1420",
+        "unicode": "U+1F506",
+        "emoji": "🔆",
+        "name": "bright button"
+      },
+      {
+        "id": "1421",
+        "unicode": "U+1F4F6",
+        "emoji": "📶",
+        "name": "antenna bars"
+      },
+      {
+        "id": "1422",
+        "unicode": "U+1F4F3",
+        "emoji": "📳",
+        "name": "vibration mode"
+      },
+      {
+        "id": "1423",
+        "unicode": "U+1F4F4",
+        "emoji": "📴",
+        "name": "mobile phone off"
+      }
+    ],
+    "gender": [
+      {
+        "id": "1424",
+        "unicode": "U+2640",
+        "emoji": "♀",
+        "name": "female sign"
+      },
+      {
+        "id": "1425",
+        "unicode": "U+2642",
+        "emoji": "♂",
+        "name": "male sign"
+      },
+      {
+        "id": "1426",
+        "unicode": "U+26A7",
+        "emoji": "⚧",
+        "name": "transgender symbol"
+      }
+    ],
+    "math": [
+      {
+        "id": "1427",
+        "unicode": "U+2716",
+        "emoji": "✖",
+        "name": "multiply"
+      },
+      {
+        "id": "1428",
+        "unicode": "U+2795",
+        "emoji": "➕",
+        "name": "plus"
+      },
+      {
+        "id": "1429",
+        "unicode": "U+2796",
+        "emoji": "➖",
+        "name": "minus"
+      },
+      {
+        "id": "1430",
+        "unicode": "U+2797",
+        "emoji": "➗",
+        "name": "divide"
+      },
+      {
+        "id": "1431",
+        "unicode": "U+267E",
+        "emoji": "♾",
+        "name": "infinity"
+      }
+    ],
+    "punctuation": [
+      {
+        "id": "1432",
+        "unicode": "U+203C",
+        "emoji": "‼",
+        "name": "double exclamation mark"
+      },
+      {
+        "id": "1433",
+        "unicode": "U+2049",
+        "emoji": "⁉",
+        "name": "exclamation question mark"
+      },
+      {
+        "id": "1434",
+        "unicode": "U+2753",
+        "emoji": "❓",
+        "name": "red question mark"
+      },
+      {
+        "id": "1435",
+        "unicode": "U+2754",
+        "emoji": "❔",
+        "name": "white question mark"
+      },
+      {
+        "id": "1436",
+        "unicode": "U+2755",
+        "emoji": "❕",
+        "name": "white exclamation mark"
+      },
+      {
+        "id": "1437",
+        "unicode": "U+2757",
+        "emoji": "❗",
+        "name": "red exclamation mark"
+      },
+      {
+        "id": "1438",
+        "unicode": "U+3030",
+        "emoji": "〰",
+        "name": "wavy dash"
+      }
+    ],
+    "currency": [
+      {
+        "id": "1439",
+        "unicode": "U+1F4B1",
+        "emoji": "💱",
+        "name": "currency exchange"
+      },
+      {
+        "id": "1440",
+        "unicode": "U+1F4B2",
+        "emoji": "💲",
+        "name": "heavy dollar sign"
+      }
+    ],
+    "other-symbol": [
+      {
+        "id": "1441",
+        "unicode": "U+2695",
+        "emoji": "⚕",
+        "name": "medical symbol"
+      },
+      {
+        "id": "1442",
+        "unicode": "U+267B",
+        "emoji": "♻",
+        "name": "recycling symbol"
+      },
+      {
+        "id": "1443",
+        "unicode": "U+269C",
+        "emoji": "⚜",
+        "name": "fleur-de-lis"
+      },
+      {
+        "id": "1444",
+        "unicode": "U+1F531",
+        "emoji": "🔱",
+        "name": "trident emblem"
+      },
+      {
+        "id": "1445",
+        "unicode": "U+1F4DB",
+        "emoji": "📛",
+        "name": "name badge"
+      },
+      {
+        "id": "1446",
+        "unicode": "U+1F530",
+        "emoji": "🔰",
+        "name": "Japanese symbol for beginner"
+      },
+      {
+        "id": "1447",
+        "unicode": "U+2B55",
+        "emoji": "⭕",
+        "name": "hollow red circle"
+      },
+      {
+        "id": "1448",
+        "unicode": "U+2705",
+        "emoji": "✅",
+        "name": "check mark button"
+      },
+      {
+        "id": "1449",
+        "unicode": "U+2611",
+        "emoji": "☑",
+        "name": "check box with check"
+      },
+      {
+        "id": "1450",
+        "unicode": "U+2714",
+        "emoji": "✔",
+        "name": "check mark"
+      },
+      {
+        "id": "1451",
+        "unicode": "U+274C",
+        "emoji": "❌",
+        "name": "cross mark"
+      },
+      {
+        "id": "1452",
+        "unicode": "U+274E",
+        "emoji": "❎",
+        "name": "cross mark button"
+      },
+      {
+        "id": "1453",
+        "unicode": "U+27B0",
+        "emoji": "➰",
+        "name": "curly loop"
+      },
+      {
+        "id": "1454",
+        "unicode": "U+27BF",
+        "emoji": "➿",
+        "name": "double curly loop"
+      },
+      {
+        "id": "1455",
+        "unicode": "U+303D",
+        "emoji": "〽",
+        "name": "part alternation mark"
+      },
+      {
+        "id": "1456",
+        "unicode": "U+2733",
+        "emoji": "✳",
+        "name": "eight-spoked asterisk"
+      },
+      {
+        "id": "1457",
+        "unicode": "U+2734",
+        "emoji": "✴",
+        "name": "eight-pointed star"
+      },
+      {
+        "id": "1458",
+        "unicode": "U+2747",
+        "emoji": "❇",
+        "name": "sparkle"
+      },
+      {
+        "id": "1459",
+        "unicode": "U+00A9",
+        "emoji": "©",
+        "name": "copyright"
+      },
+      {
+        "id": "1460",
+        "unicode": "U+00AE",
+        "emoji": "®",
+        "name": "registered"
+      },
+      {
+        "id": "1461",
+        "unicode": "U+2122",
+        "emoji": "™",
+        "name": "trade mark"
+      }
+    ],
+    "keycap": [
+      {
+        "id": "1462",
+        "unicode": [
+          "U+0023",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "#️⃣",
+        "name": "keycap: #"
+      },
+      {
+        "id": "1463",
+        "unicode": [
+          "U+002A",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "*️⃣",
+        "name": "keycap: *"
+      },
+      {
+        "id": "1464",
+        "unicode": [
+          "U+0030",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "0️⃣",
+        "name": "keycap: 0"
+      },
+      {
+        "id": "1465",
+        "unicode": [
+          "U+0031",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "1️⃣",
+        "name": "keycap: 1"
+      },
+      {
+        "id": "1466",
+        "unicode": [
+          "U+0032",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "2️⃣",
+        "name": "keycap: 2"
+      },
+      {
+        "id": "1467",
+        "unicode": [
+          "U+0033",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "3️⃣",
+        "name": "keycap: 3"
+      },
+      {
+        "id": "1468",
+        "unicode": [
+          "U+0034",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "4️⃣",
+        "name": "keycap: 4"
+      },
+      {
+        "id": "1469",
+        "unicode": [
+          "U+0035",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "5️⃣",
+        "name": "keycap: 5"
+      },
+      {
+        "id": "1470",
+        "unicode": [
+          "U+0036",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "6️⃣",
+        "name": "keycap: 6"
+      },
+      {
+        "id": "1471",
+        "unicode": [
+          "U+0037",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "7️⃣",
+        "name": "keycap: 7"
+      },
+      {
+        "id": "1472",
+        "unicode": [
+          "U+0038",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "8️⃣",
+        "name": "keycap: 8"
+      },
+      {
+        "id": "1473",
+        "unicode": [
+          "U+0039",
+          "U+FE0F",
+          "U+20E3"
+        ],
+        "emoji": "9️⃣",
+        "name": "keycap: 9"
+      },
+      {
+        "id": "1474",
+        "unicode": "U+1F51F",
+        "emoji": "🔟",
+        "name": "keycap: 10"
+      }
+    ],
+    "alphanum": [
+      {
+        "id": "1475",
+        "unicode": "U+1F520",
+        "emoji": "🔠",
+        "name": "input latin uppercase"
+      },
+      {
+        "id": "1476",
+        "unicode": "U+1F521",
+        "emoji": "🔡",
+        "name": "input latin lowercase"
+      },
+      {
+        "id": "1477",
+        "unicode": "U+1F522",
+        "emoji": "🔢",
+        "name": "input numbers"
+      },
+      {
+        "id": "1478",
+        "unicode": "U+1F523",
+        "emoji": "🔣",
+        "name": "input symbols"
+      },
+      {
+        "id": "1479",
+        "unicode": "U+1F524",
+        "emoji": "🔤",
+        "name": "input latin letters"
+      },
+      {
+        "id": "1480",
+        "unicode": "U+1F170",
+        "emoji": "🅰",
+        "name": "A button (blood type)"
+      },
+      {
+        "id": "1481",
+        "unicode": "U+1F18E",
+        "emoji": "🆎",
+        "name": "AB button (blood type)"
+      },
+      {
+        "id": "1482",
+        "unicode": "U+1F171",
+        "emoji": "🅱",
+        "name": "B button (blood type)"
+      },
+      {
+        "id": "1483",
+        "unicode": "U+1F191",
+        "emoji": "🆑",
+        "name": "CL button"
+      },
+      {
+        "id": "1484",
+        "unicode": "U+1F192",
+        "emoji": "🆒",
+        "name": "COOL button"
+      },
+      {
+        "id": "1485",
+        "unicode": "U+1F193",
+        "emoji": "🆓",
+        "name": "FREE button"
+      },
+      {
+        "id": "1486",
+        "unicode": "U+2139",
+        "emoji": "ℹ",
+        "name": "information"
+      },
+      {
+        "id": "1487",
+        "unicode": "U+1F194",
+        "emoji": "🆔",
+        "name": "ID button"
+      },
+      {
+        "id": "1488",
+        "unicode": "U+24C2",
+        "emoji": "Ⓜ",
+        "name": "circled M"
+      },
+      {
+        "id": "1489",
+        "unicode": "U+1F195",
+        "emoji": "🆕",
+        "name": "NEW button"
+      },
+      {
+        "id": "1490",
+        "unicode": "U+1F196",
+        "emoji": "🆖",
+        "name": "NG button"
+      },
+      {
+        "id": "1491",
+        "unicode": "U+1F17E",
+        "emoji": "🅾",
+        "name": "O button (blood type)"
+      },
+      {
+        "id": "1492",
+        "unicode": "U+1F197",
+        "emoji": "🆗",
+        "name": "OK button"
+      },
+      {
+        "id": "1493",
+        "unicode": "U+1F17F",
+        "emoji": "🅿",
+        "name": "P button"
+      },
+      {
+        "id": "1494",
+        "unicode": "U+1F198",
+        "emoji": "🆘",
+        "name": "SOS button"
+      },
+      {
+        "id": "1495",
+        "unicode": "U+1F199",
+        "emoji": "🆙",
+        "name": "UP! button"
+      },
+      {
+        "id": "1496",
+        "unicode": "U+1F19A",
+        "emoji": "🆚",
+        "name": "VS button"
+      },
+      {
+        "id": "1497",
+        "unicode": "U+1F201",
+        "emoji": "🈁",
+        "name": "Japanese “here” button"
+      },
+      {
+        "id": "1498",
+        "unicode": "U+1F202",
+        "emoji": "🈂",
+        "name": "Japanese “service charge” button"
+      },
+      {
+        "id": "1499",
+        "unicode": "U+1F237",
+        "emoji": "🈷",
+        "name": "Japanese “monthly amount” button"
+      },
+      {
+        "id": "1500",
+        "unicode": "U+1F236",
+        "emoji": "🈶",
+        "name": "Japanese “not free of charge” button"
+      },
+      {
+        "id": "1501",
+        "unicode": "U+1F22F",
+        "emoji": "🈯",
+        "name": "Japanese “reserved” button"
+      },
+      {
+        "id": "1502",
+        "unicode": "U+1F250",
+        "emoji": "🉐",
+        "name": "Japanese “bargain” button"
+      },
+      {
+        "id": "1503",
+        "unicode": "U+1F239",
+        "emoji": "🈹",
+        "name": "Japanese “discount” button"
+      },
+      {
+        "id": "1504",
+        "unicode": "U+1F21A",
+        "emoji": "🈚",
+        "name": "Japanese “free of charge” button"
+      },
+      {
+        "id": "1505",
+        "unicode": "U+1F232",
+        "emoji": "🈲",
+        "name": "Japanese “prohibited” button"
+      },
+      {
+        "id": "1506",
+        "unicode": "U+1F251",
+        "emoji": "🉑",
+        "name": "Japanese “acceptable” button"
+      },
+      {
+        "id": "1507",
+        "unicode": "U+1F238",
+        "emoji": "🈸",
+        "name": "Japanese “application” button"
+      },
+      {
+        "id": "1508",
+        "unicode": "U+1F234",
+        "emoji": "🈴",
+        "name": "Japanese “passing grade” button"
+      },
+      {
+        "id": "1509",
+        "unicode": "U+1F233",
+        "emoji": "🈳",
+        "name": "Japanese “vacancy” button"
+      },
+      {
+        "id": "1510",
+        "unicode": "U+3297",
+        "emoji": "㊗",
+        "name": "Japanese “congratulations” button"
+      },
+      {
+        "id": "1511",
+        "unicode": "U+3299",
+        "emoji": "㊙",
+        "name": "Japanese “secret” button"
+      },
+      {
+        "id": "1512",
+        "unicode": "U+1F23A",
+        "emoji": "🈺",
+        "name": "Japanese “open for business” button"
+      },
+      {
+        "id": "1513",
+        "unicode": "U+1F235",
+        "emoji": "🈵",
+        "name": "Japanese “no vacancy” button"
+      }
+    ],
+    "geometric": [
+      {
+        "id": "1514",
+        "unicode": "U+1F534",
+        "emoji": "🔴",
+        "name": "red circle"
+      },
+      {
+        "id": "1515",
+        "unicode": "U+1F7E0",
+        "emoji": "🟠",
+        "name": "orange circle"
+      },
+      {
+        "id": "1516",
+        "unicode": "U+1F7E1",
+        "emoji": "🟡",
+        "name": "yellow circle"
+      },
+      {
+        "id": "1517",
+        "unicode": "U+1F7E2",
+        "emoji": "🟢",
+        "name": "green circle"
+      },
+      {
+        "id": "1518",
+        "unicode": "U+1F535",
+        "emoji": "🔵",
+        "name": "blue circle"
+      },
+      {
+        "id": "1519",
+        "unicode": "U+1F7E3",
+        "emoji": "🟣",
+        "name": "purple circle"
+      },
+      {
+        "id": "1520",
+        "unicode": "U+1F7E4",
+        "emoji": "🟤",
+        "name": "brown circle"
+      },
+      {
+        "id": "1521",
+        "unicode": "U+26AB",
+        "emoji": "⚫",
+        "name": "black circle"
+      },
+      {
+        "id": "1522",
+        "unicode": "U+26AA",
+        "emoji": "⚪",
+        "name": "white circle"
+      },
+      {
+        "id": "1523",
+        "unicode": "U+1F7E5",
+        "emoji": "🟥",
+        "name": "red square"
+      },
+      {
+        "id": "1524",
+        "unicode": "U+1F7E7",
+        "emoji": "🟧",
+        "name": "orange square"
+      },
+      {
+        "id": "1525",
+        "unicode": "U+1F7E8",
+        "emoji": "🟨",
+        "name": "yellow square"
+      },
+      {
+        "id": "1526",
+        "unicode": "U+1F7E9",
+        "emoji": "🟩",
+        "name": "green square"
+      },
+      {
+        "id": "1527",
+        "unicode": "U+1F7E6",
+        "emoji": "🟦",
+        "name": "blue square"
+      },
+      {
+        "id": "1528",
+        "unicode": "U+1F7EA",
+        "emoji": "🟪",
+        "name": "purple square"
+      },
+      {
+        "id": "1529",
+        "unicode": "U+1F7EB",
+        "emoji": "🟫",
+        "name": "brown square"
+      },
+      {
+        "id": "1530",
+        "unicode": "U+2B1B",
+        "emoji": "⬛",
+        "name": "black large square"
+      },
+      {
+        "id": "1531",
+        "unicode": "U+2B1C",
+        "emoji": "⬜",
+        "name": "white large square"
+      },
+      {
+        "id": "1532",
+        "unicode": "U+25FC",
+        "emoji": "◼",
+        "name": "black medium square"
+      },
+      {
+        "id": "1533",
+        "unicode": "U+25FB",
+        "emoji": "◻",
+        "name": "white medium square"
+      },
+      {
+        "id": "1534",
+        "unicode": "U+25FE",
+        "emoji": "◾",
+        "name": "black medium-small square"
+      },
+      {
+        "id": "1535",
+        "unicode": "U+25FD",
+        "emoji": "◽",
+        "name": "white medium-small square"
+      },
+      {
+        "id": "1536",
+        "unicode": "U+25AA",
+        "emoji": "▪",
+        "name": "black small square"
+      },
+      {
+        "id": "1537",
+        "unicode": "U+25AB",
+        "emoji": "▫",
+        "name": "white small square"
+      },
+      {
+        "id": "1538",
+        "unicode": "U+1F536",
+        "emoji": "🔶",
+        "name": "large orange diamond"
+      },
+      {
+        "id": "1539",
+        "unicode": "U+1F537",
+        "emoji": "🔷",
+        "name": "large blue diamond"
+      },
+      {
+        "id": "1540",
+        "unicode": "U+1F538",
+        "emoji": "🔸",
+        "name": "small orange diamond"
+      },
+      {
+        "id": "1541",
+        "unicode": "U+1F539",
+        "emoji": "🔹",
+        "name": "small blue diamond"
+      },
+      {
+        "id": "1542",
+        "unicode": "U+1F53A",
+        "emoji": "🔺",
+        "name": "red triangle pointed up"
+      },
+      {
+        "id": "1543",
+        "unicode": "U+1F53B",
+        "emoji": "🔻",
+        "name": "red triangle pointed down"
+      },
+      {
+        "id": "1544",
+        "unicode": "U+1F4A0",
+        "emoji": "💠",
+        "name": "diamond with a dot"
+      },
+      {
+        "id": "1545",
+        "unicode": "U+1F518",
+        "emoji": "🔘",
+        "name": "radio button"
+      },
+      {
+        "id": "1546",
+        "unicode": "U+1F533",
+        "emoji": "🔳",
+        "name": "white square button"
+      },
+      {
+        "id": "1547",
+        "unicode": "U+1F532",
+        "emoji": "🔲",
+        "name": "black square button"
+      }
+    ]
+  },
+  "Flags": {
+    "flag": [
+      {
+        "id": "1548",
+        "unicode": "U+1F3C1",
+        "emoji": "🏁",
+        "name": "chequered flag"
+      },
+      {
+        "id": "1549",
+        "unicode": "U+1F6A9",
+        "emoji": "🚩",
+        "name": "triangular flag"
+      },
+      {
+        "id": "1550",
+        "unicode": "U+1F38C",
+        "emoji": "🎌",
+        "name": "crossed flags"
+      },
+      {
+        "id": "1551",
+        "unicode": "U+1F3F4",
+        "emoji": "🏴",
+        "name": "black flag"
+      },
+      {
+        "id": "1552",
+        "unicode": "U+1F3F3",
+        "emoji": "🏳",
+        "name": "white flag"
+      },
+      {
+        "id": "1553",
+        "unicode": [
+          "U+1F3F3",
+          "U+FE0F",
+          "U+200D",
+          "U+1F308"
+        ],
+        "emoji": "🏳️‍🌈",
+        "name": "rainbow flag"
+      },
+      {
+        "id": "1554",
+        "unicode": [
+          "U+1F3F3",
+          "U+FE0F",
+          "U+200D",
+          "U+26A7",
+          "U+FE0F"
+        ],
+        "emoji": "🏳️‍⚧️",
+        "name": "transgender flag"
+      },
+      {
+        "id": "1555",
+        "unicode": [
+          "U+1F3F4",
+          "U+200D",
+          "U+2620",
+          "U+FE0F"
+        ],
+        "emoji": "🏴‍☠️",
+        "name": "pirate flag"
+      }
+    ],
+    "country-flag": [
+      {
+        "id": "1556",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1E8"
+        ],
+        "emoji": "🇦🇨",
+        "name": "flag: Ascension Island"
+      },
+      {
+        "id": "1557",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1E9"
+        ],
+        "emoji": "🇦🇩",
+        "name": "flag: Andorra"
+      },
+      {
+        "id": "1558",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1EA"
+        ],
+        "emoji": "🇦🇪",
+        "name": "flag: United Arab Emirates"
+      },
+      {
+        "id": "1559",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1EB"
+        ],
+        "emoji": "🇦🇫",
+        "name": "flag: Afghanistan"
+      },
+      {
+        "id": "1560",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1EC"
+        ],
+        "emoji": "🇦🇬",
+        "name": "flag: Antigua & Barbuda"
+      },
+      {
+        "id": "1561",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1EE"
+        ],
+        "emoji": "🇦🇮",
+        "name": "flag: Anguilla"
+      },
+      {
+        "id": "1562",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F1"
+        ],
+        "emoji": "🇦🇱",
+        "name": "flag: Albania"
+      },
+      {
+        "id": "1563",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F2"
+        ],
+        "emoji": "🇦🇲",
+        "name": "flag: Armenia"
+      },
+      {
+        "id": "1564",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F4"
+        ],
+        "emoji": "🇦🇴",
+        "name": "flag: Angola"
+      },
+      {
+        "id": "1565",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F6"
+        ],
+        "emoji": "🇦🇶",
+        "name": "flag: Antarctica"
+      },
+      {
+        "id": "1566",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F7"
+        ],
+        "emoji": "🇦🇷",
+        "name": "flag: Argentina"
+      },
+      {
+        "id": "1567",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F8"
+        ],
+        "emoji": "🇦🇸",
+        "name": "flag: American Samoa"
+      },
+      {
+        "id": "1568",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1F9"
+        ],
+        "emoji": "🇦🇹",
+        "name": "flag: Austria"
+      },
+      {
+        "id": "1569",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1FA"
+        ],
+        "emoji": "🇦🇺",
+        "name": "flag: Australia"
+      },
+      {
+        "id": "1570",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1FC"
+        ],
+        "emoji": "🇦🇼",
+        "name": "flag: Aruba"
+      },
+      {
+        "id": "1571",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1FD"
+        ],
+        "emoji": "🇦🇽",
+        "name": "flag: Åland Islands"
+      },
+      {
+        "id": "1572",
+        "unicode": [
+          "U+1F1E6",
+          "U+1F1FF"
+        ],
+        "emoji": "🇦🇿",
+        "name": "flag: Azerbaijan"
+      },
+      {
+        "id": "1573",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1E6"
+        ],
+        "emoji": "🇧🇦",
+        "name": "flag: Bosnia & Herzegovina"
+      },
+      {
+        "id": "1574",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1E7"
+        ],
+        "emoji": "🇧🇧",
+        "name": "flag: Barbados"
+      },
+      {
+        "id": "1575",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1E9"
+        ],
+        "emoji": "🇧🇩",
+        "name": "flag: Bangladesh"
+      },
+      {
+        "id": "1576",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1EA"
+        ],
+        "emoji": "🇧🇪",
+        "name": "flag: Belgium"
+      },
+      {
+        "id": "1577",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1EB"
+        ],
+        "emoji": "🇧🇫",
+        "name": "flag: Burkina Faso"
+      },
+      {
+        "id": "1578",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1EC"
+        ],
+        "emoji": "🇧🇬",
+        "name": "flag: Bulgaria"
+      },
+      {
+        "id": "1579",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1ED"
+        ],
+        "emoji": "🇧🇭",
+        "name": "flag: Bahrain"
+      },
+      {
+        "id": "1580",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1EE"
+        ],
+        "emoji": "🇧🇮",
+        "name": "flag: Burundi"
+      },
+      {
+        "id": "1581",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1EF"
+        ],
+        "emoji": "🇧🇯",
+        "name": "flag: Benin"
+      },
+      {
+        "id": "1582",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F1"
+        ],
+        "emoji": "🇧🇱",
+        "name": "flag: St. Barthélemy"
+      },
+      {
+        "id": "1583",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F2"
+        ],
+        "emoji": "🇧🇲",
+        "name": "flag: Bermuda"
+      },
+      {
+        "id": "1584",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F3"
+        ],
+        "emoji": "🇧🇳",
+        "name": "flag: Brunei"
+      },
+      {
+        "id": "1585",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F4"
+        ],
+        "emoji": "🇧🇴",
+        "name": "flag: Bolivia"
+      },
+      {
+        "id": "1586",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F6"
+        ],
+        "emoji": "🇧🇶",
+        "name": "flag: Caribbean Netherlands"
+      },
+      {
+        "id": "1587",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F7"
+        ],
+        "emoji": "🇧🇷",
+        "name": "flag: Brazil"
+      },
+      {
+        "id": "1588",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F8"
+        ],
+        "emoji": "🇧🇸",
+        "name": "flag: Bahamas"
+      },
+      {
+        "id": "1589",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1F9"
+        ],
+        "emoji": "🇧🇹",
+        "name": "flag: Bhutan"
+      },
+      {
+        "id": "1590",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1FB"
+        ],
+        "emoji": "🇧🇻",
+        "name": "flag: Bouvet Island"
+      },
+      {
+        "id": "1591",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1FC"
+        ],
+        "emoji": "🇧🇼",
+        "name": "flag: Botswana"
+      },
+      {
+        "id": "1592",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1FE"
+        ],
+        "emoji": "🇧🇾",
+        "name": "flag: Belarus"
+      },
+      {
+        "id": "1593",
+        "unicode": [
+          "U+1F1E7",
+          "U+1F1FF"
+        ],
+        "emoji": "🇧🇿",
+        "name": "flag: Belize"
+      },
+      {
+        "id": "1594",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1E6"
+        ],
+        "emoji": "🇨🇦",
+        "name": "flag: Canada"
+      },
+      {
+        "id": "1595",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1E8"
+        ],
+        "emoji": "🇨🇨",
+        "name": "flag: Cocos (Keeling) Islands"
+      },
+      {
+        "id": "1596",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1E9"
+        ],
+        "emoji": "🇨🇩",
+        "name": "flag: Congo - Kinshasa"
+      },
+      {
+        "id": "1597",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1EB"
+        ],
+        "emoji": "🇨🇫",
+        "name": "flag: Central African Republic"
+      },
+      {
+        "id": "1598",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1EC"
+        ],
+        "emoji": "🇨🇬",
+        "name": "flag: Congo - Brazzaville"
+      },
+      {
+        "id": "1599",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1ED"
+        ],
+        "emoji": "🇨🇭",
+        "name": "flag: Switzerland"
+      },
+      {
+        "id": "1600",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1EE"
+        ],
+        "emoji": "🇨🇮",
+        "name": "flag: Côte d’Ivoire"
+      },
+      {
+        "id": "1601",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F0"
+        ],
+        "emoji": "🇨🇰",
+        "name": "flag: Cook Islands"
+      },
+      {
+        "id": "1602",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F1"
+        ],
+        "emoji": "🇨🇱",
+        "name": "flag: Chile"
+      },
+      {
+        "id": "1603",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F2"
+        ],
+        "emoji": "🇨🇲",
+        "name": "flag: Cameroon"
+      },
+      {
+        "id": "1604",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F3"
+        ],
+        "emoji": "🇨🇳",
+        "name": "flag: China"
+      },
+      {
+        "id": "1605",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F4"
+        ],
+        "emoji": "🇨🇴",
+        "name": "flag: Colombia"
+      },
+      {
+        "id": "1606",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F5"
+        ],
+        "emoji": "🇨🇵",
+        "name": "flag: Clipperton Island"
+      },
+      {
+        "id": "1607",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1F7"
+        ],
+        "emoji": "🇨🇷",
+        "name": "flag: Costa Rica"
+      },
+      {
+        "id": "1608",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FA"
+        ],
+        "emoji": "🇨🇺",
+        "name": "flag: Cuba"
+      },
+      {
+        "id": "1609",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FB"
+        ],
+        "emoji": "🇨🇻",
+        "name": "flag: Cape Verde"
+      },
+      {
+        "id": "1610",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FC"
+        ],
+        "emoji": "🇨🇼",
+        "name": "flag: Curaçao"
+      },
+      {
+        "id": "1611",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FD"
+        ],
+        "emoji": "🇨🇽",
+        "name": "flag: Christmas Island"
+      },
+      {
+        "id": "1612",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FE"
+        ],
+        "emoji": "🇨🇾",
+        "name": "flag: Cyprus"
+      },
+      {
+        "id": "1613",
+        "unicode": [
+          "U+1F1E8",
+          "U+1F1FF"
+        ],
+        "emoji": "🇨🇿",
+        "name": "flag: Czechia"
+      },
+      {
+        "id": "1614",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1EA"
+        ],
+        "emoji": "🇩🇪",
+        "name": "flag: Germany"
+      },
+      {
+        "id": "1615",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1EC"
+        ],
+        "emoji": "🇩🇬",
+        "name": "flag: Diego Garcia"
+      },
+      {
+        "id": "1616",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1EF"
+        ],
+        "emoji": "🇩🇯",
+        "name": "flag: Djibouti"
+      },
+      {
+        "id": "1617",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1F0"
+        ],
+        "emoji": "🇩🇰",
+        "name": "flag: Denmark"
+      },
+      {
+        "id": "1618",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1F2"
+        ],
+        "emoji": "🇩🇲",
+        "name": "flag: Dominica"
+      },
+      {
+        "id": "1619",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1F4"
+        ],
+        "emoji": "🇩🇴",
+        "name": "flag: Dominican Republic"
+      },
+      {
+        "id": "1620",
+        "unicode": [
+          "U+1F1E9",
+          "U+1F1FF"
+        ],
+        "emoji": "🇩🇿",
+        "name": "flag: Algeria"
+      },
+      {
+        "id": "1621",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1E6"
+        ],
+        "emoji": "🇪🇦",
+        "name": "flag: Ceuta & Melilla"
+      },
+      {
+        "id": "1622",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1E8"
+        ],
+        "emoji": "🇪🇨",
+        "name": "flag: Ecuador"
+      },
+      {
+        "id": "1623",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1EA"
+        ],
+        "emoji": "🇪🇪",
+        "name": "flag: Estonia"
+      },
+      {
+        "id": "1624",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1EC"
+        ],
+        "emoji": "🇪🇬",
+        "name": "flag: Egypt"
+      },
+      {
+        "id": "1625",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1ED"
+        ],
+        "emoji": "🇪🇭",
+        "name": "flag: Western Sahara"
+      },
+      {
+        "id": "1626",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1F7"
+        ],
+        "emoji": "🇪🇷",
+        "name": "flag: Eritrea"
+      },
+      {
+        "id": "1627",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1F8"
+        ],
+        "emoji": "🇪🇸",
+        "name": "flag: Spain"
+      },
+      {
+        "id": "1628",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1F9"
+        ],
+        "emoji": "🇪🇹",
+        "name": "flag: Ethiopia"
+      },
+      {
+        "id": "1629",
+        "unicode": [
+          "U+1F1EA",
+          "U+1F1FA"
+        ],
+        "emoji": "🇪🇺",
+        "name": "flag: European Union"
+      },
+      {
+        "id": "1630",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1EE"
+        ],
+        "emoji": "🇫🇮",
+        "name": "flag: Finland"
+      },
+      {
+        "id": "1631",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1EF"
+        ],
+        "emoji": "🇫🇯",
+        "name": "flag: Fiji"
+      },
+      {
+        "id": "1632",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1F0"
+        ],
+        "emoji": "🇫🇰",
+        "name": "flag: Falkland Islands"
+      },
+      {
+        "id": "1633",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1F2"
+        ],
+        "emoji": "🇫🇲",
+        "name": "flag: Micronesia"
+      },
+      {
+        "id": "1634",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1F4"
+        ],
+        "emoji": "🇫🇴",
+        "name": "flag: Faroe Islands"
+      },
+      {
+        "id": "1635",
+        "unicode": [
+          "U+1F1EB",
+          "U+1F1F7"
+        ],
+        "emoji": "🇫🇷",
+        "name": "flag: France"
+      },
+      {
+        "id": "1636",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1E6"
+        ],
+        "emoji": "🇬🇦",
+        "name": "flag: Gabon"
+      },
+      {
+        "id": "1637",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1E7"
+        ],
+        "emoji": "🇬🇧",
+        "name": "flag: United Kingdom"
+      },
+      {
+        "id": "1638",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1E9"
+        ],
+        "emoji": "🇬🇩",
+        "name": "flag: Grenada"
+      },
+      {
+        "id": "1639",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1EA"
+        ],
+        "emoji": "🇬🇪",
+        "name": "flag: Georgia"
+      },
+      {
+        "id": "1640",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1EB"
+        ],
+        "emoji": "🇬🇫",
+        "name": "flag: French Guiana"
+      },
+      {
+        "id": "1641",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1EC"
+        ],
+        "emoji": "🇬🇬",
+        "name": "flag: Guernsey"
+      },
+      {
+        "id": "1642",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1ED"
+        ],
+        "emoji": "🇬🇭",
+        "name": "flag: Ghana"
+      },
+      {
+        "id": "1643",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1EE"
+        ],
+        "emoji": "🇬🇮",
+        "name": "flag: Gibraltar"
+      },
+      {
+        "id": "1644",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F1"
+        ],
+        "emoji": "🇬🇱",
+        "name": "flag: Greenland"
+      },
+      {
+        "id": "1645",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F2"
+        ],
+        "emoji": "🇬🇲",
+        "name": "flag: Gambia"
+      },
+      {
+        "id": "1646",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F3"
+        ],
+        "emoji": "🇬🇳",
+        "name": "flag: Guinea"
+      },
+      {
+        "id": "1647",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F5"
+        ],
+        "emoji": "🇬🇵",
+        "name": "flag: Guadeloupe"
+      },
+      {
+        "id": "1648",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F6"
+        ],
+        "emoji": "🇬🇶",
+        "name": "flag: Equatorial Guinea"
+      },
+      {
+        "id": "1649",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F7"
+        ],
+        "emoji": "🇬🇷",
+        "name": "flag: Greece"
+      },
+      {
+        "id": "1650",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F8"
+        ],
+        "emoji": "🇬🇸",
+        "name": "flag: South Georgia & South Sandwich Islands"
+      },
+      {
+        "id": "1651",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1F9"
+        ],
+        "emoji": "🇬🇹",
+        "name": "flag: Guatemala"
+      },
+      {
+        "id": "1652",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1FA"
+        ],
+        "emoji": "🇬🇺",
+        "name": "flag: Guam"
+      },
+      {
+        "id": "1653",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1FC"
+        ],
+        "emoji": "🇬🇼",
+        "name": "flag: Guinea-Bissau"
+      },
+      {
+        "id": "1654",
+        "unicode": [
+          "U+1F1EC",
+          "U+1F1FE"
+        ],
+        "emoji": "🇬🇾",
+        "name": "flag: Guyana"
+      },
+      {
+        "id": "1655",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1F0"
+        ],
+        "emoji": "🇭🇰",
+        "name": "flag: Hong Kong SAR China"
+      },
+      {
+        "id": "1656",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1F2"
+        ],
+        "emoji": "🇭🇲",
+        "name": "flag: Heard & McDonald Islands"
+      },
+      {
+        "id": "1657",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1F3"
+        ],
+        "emoji": "🇭🇳",
+        "name": "flag: Honduras"
+      },
+      {
+        "id": "1658",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1F7"
+        ],
+        "emoji": "🇭🇷",
+        "name": "flag: Croatia"
+      },
+      {
+        "id": "1659",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1F9"
+        ],
+        "emoji": "🇭🇹",
+        "name": "flag: Haiti"
+      },
+      {
+        "id": "1660",
+        "unicode": [
+          "U+1F1ED",
+          "U+1F1FA"
+        ],
+        "emoji": "🇭🇺",
+        "name": "flag: Hungary"
+      },
+      {
+        "id": "1661",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1E8"
+        ],
+        "emoji": "🇮🇨",
+        "name": "flag: Canary Islands"
+      },
+      {
+        "id": "1662",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1E9"
+        ],
+        "emoji": "🇮🇩",
+        "name": "flag: Indonesia"
+      },
+      {
+        "id": "1663",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1EA"
+        ],
+        "emoji": "🇮🇪",
+        "name": "flag: Ireland"
+      },
+      {
+        "id": "1664",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F1"
+        ],
+        "emoji": "🇮🇱",
+        "name": "flag: Israel"
+      },
+      {
+        "id": "1665",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F2"
+        ],
+        "emoji": "🇮🇲",
+        "name": "flag: Isle of Man"
+      },
+      {
+        "id": "1666",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F3"
+        ],
+        "emoji": "🇮🇳",
+        "name": "flag: India"
+      },
+      {
+        "id": "1667",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F4"
+        ],
+        "emoji": "🇮🇴",
+        "name": "flag: British Indian Ocean Territory"
+      },
+      {
+        "id": "1668",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F6"
+        ],
+        "emoji": "🇮🇶",
+        "name": "flag: Iraq"
+      },
+      {
+        "id": "1669",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F7"
+        ],
+        "emoji": "🇮🇷",
+        "name": "flag: Iran"
+      },
+      {
+        "id": "1670",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F8"
+        ],
+        "emoji": "🇮🇸",
+        "name": "flag: Iceland"
+      },
+      {
+        "id": "1671",
+        "unicode": [
+          "U+1F1EE",
+          "U+1F1F9"
+        ],
+        "emoji": "🇮🇹",
+        "name": "flag: Italy"
+      },
+      {
+        "id": "1672",
+        "unicode": [
+          "U+1F1EF",
+          "U+1F1EA"
+        ],
+        "emoji": "🇯🇪",
+        "name": "flag: Jersey"
+      },
+      {
+        "id": "1673",
+        "unicode": [
+          "U+1F1EF",
+          "U+1F1F2"
+        ],
+        "emoji": "🇯🇲",
+        "name": "flag: Jamaica"
+      },
+      {
+        "id": "1674",
+        "unicode": [
+          "U+1F1EF",
+          "U+1F1F4"
+        ],
+        "emoji": "🇯🇴",
+        "name": "flag: Jordan"
+      },
+      {
+        "id": "1675",
+        "unicode": [
+          "U+1F1EF",
+          "U+1F1F5"
+        ],
+        "emoji": "🇯🇵",
+        "name": "flag: Japan"
+      },
+      {
+        "id": "1676",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1EA"
+        ],
+        "emoji": "🇰🇪",
+        "name": "flag: Kenya"
+      },
+      {
+        "id": "1677",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1EC"
+        ],
+        "emoji": "🇰🇬",
+        "name": "flag: Kyrgyzstan"
+      },
+      {
+        "id": "1678",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1ED"
+        ],
+        "emoji": "🇰🇭",
+        "name": "flag: Cambodia"
+      },
+      {
+        "id": "1679",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1EE"
+        ],
+        "emoji": "🇰🇮",
+        "name": "flag: Kiribati"
+      },
+      {
+        "id": "1680",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1F2"
+        ],
+        "emoji": "🇰🇲",
+        "name": "flag: Comoros"
+      },
+      {
+        "id": "1681",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1F3"
+        ],
+        "emoji": "🇰🇳",
+        "name": "flag: St. Kitts & Nevis"
+      },
+      {
+        "id": "1682",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1F5"
+        ],
+        "emoji": "🇰🇵",
+        "name": "flag: North Korea"
+      },
+      {
+        "id": "1683",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1F7"
+        ],
+        "emoji": "🇰🇷",
+        "name": "flag: South Korea"
+      },
+      {
+        "id": "1684",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1FC"
+        ],
+        "emoji": "🇰🇼",
+        "name": "flag: Kuwait"
+      },
+      {
+        "id": "1685",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1FE"
+        ],
+        "emoji": "🇰🇾",
+        "name": "flag: Cayman Islands"
+      },
+      {
+        "id": "1686",
+        "unicode": [
+          "U+1F1F0",
+          "U+1F1FF"
+        ],
+        "emoji": "🇰🇿",
+        "name": "flag: Kazakhstan"
+      },
+      {
+        "id": "1687",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1E6"
+        ],
+        "emoji": "🇱🇦",
+        "name": "flag: Laos"
+      },
+      {
+        "id": "1688",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1E7"
+        ],
+        "emoji": "🇱🇧",
+        "name": "flag: Lebanon"
+      },
+      {
+        "id": "1689",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1E8"
+        ],
+        "emoji": "🇱🇨",
+        "name": "flag: St. Lucia"
+      },
+      {
+        "id": "1690",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1EE"
+        ],
+        "emoji": "🇱🇮",
+        "name": "flag: Liechtenstein"
+      },
+      {
+        "id": "1691",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1F0"
+        ],
+        "emoji": "🇱🇰",
+        "name": "flag: Sri Lanka"
+      },
+      {
+        "id": "1692",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1F7"
+        ],
+        "emoji": "🇱🇷",
+        "name": "flag: Liberia"
+      },
+      {
+        "id": "1693",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1F8"
+        ],
+        "emoji": "🇱🇸",
+        "name": "flag: Lesotho"
+      },
+      {
+        "id": "1694",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1F9"
+        ],
+        "emoji": "🇱🇹",
+        "name": "flag: Lithuania"
+      },
+      {
+        "id": "1695",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1FA"
+        ],
+        "emoji": "🇱🇺",
+        "name": "flag: Luxembourg"
+      },
+      {
+        "id": "1696",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1FB"
+        ],
+        "emoji": "🇱🇻",
+        "name": "flag: Latvia"
+      },
+      {
+        "id": "1697",
+        "unicode": [
+          "U+1F1F1",
+          "U+1F1FE"
+        ],
+        "emoji": "🇱🇾",
+        "name": "flag: Libya"
+      },
+      {
+        "id": "1698",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1E6"
+        ],
+        "emoji": "🇲🇦",
+        "name": "flag: Morocco"
+      },
+      {
+        "id": "1699",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1E8"
+        ],
+        "emoji": "🇲🇨",
+        "name": "flag: Monaco"
+      },
+      {
+        "id": "1700",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1E9"
+        ],
+        "emoji": "🇲🇩",
+        "name": "flag: Moldova"
+      },
+      {
+        "id": "1701",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1EA"
+        ],
+        "emoji": "🇲🇪",
+        "name": "flag: Montenegro"
+      },
+      {
+        "id": "1702",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1EB"
+        ],
+        "emoji": "🇲🇫",
+        "name": "flag: St. Martin"
+      },
+      {
+        "id": "1703",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1EC"
+        ],
+        "emoji": "🇲🇬",
+        "name": "flag: Madagascar"
+      },
+      {
+        "id": "1704",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1ED"
+        ],
+        "emoji": "🇲🇭",
+        "name": "flag: Marshall Islands"
+      },
+      {
+        "id": "1705",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F0"
+        ],
+        "emoji": "🇲🇰",
+        "name": "flag: North Macedonia"
+      },
+      {
+        "id": "1706",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F1"
+        ],
+        "emoji": "🇲🇱",
+        "name": "flag: Mali"
+      },
+      {
+        "id": "1707",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F2"
+        ],
+        "emoji": "🇲🇲",
+        "name": "flag: Myanmar (Burma)"
+      },
+      {
+        "id": "1708",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F3"
+        ],
+        "emoji": "🇲🇳",
+        "name": "flag: Mongolia"
+      },
+      {
+        "id": "1709",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F4"
+        ],
+        "emoji": "🇲🇴",
+        "name": "flag: Macao SAR China"
+      },
+      {
+        "id": "1710",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F5"
+        ],
+        "emoji": "🇲🇵",
+        "name": "flag: Northern Mariana Islands"
+      },
+      {
+        "id": "1711",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F6"
+        ],
+        "emoji": "🇲🇶",
+        "name": "flag: Martinique"
+      },
+      {
+        "id": "1712",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F7"
+        ],
+        "emoji": "🇲🇷",
+        "name": "flag: Mauritania"
+      },
+      {
+        "id": "1713",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F8"
+        ],
+        "emoji": "🇲🇸",
+        "name": "flag: Montserrat"
+      },
+      {
+        "id": "1714",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1F9"
+        ],
+        "emoji": "🇲🇹",
+        "name": "flag: Malta"
+      },
+      {
+        "id": "1715",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FA"
+        ],
+        "emoji": "🇲🇺",
+        "name": "flag: Mauritius"
+      },
+      {
+        "id": "1716",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FB"
+        ],
+        "emoji": "🇲🇻",
+        "name": "flag: Maldives"
+      },
+      {
+        "id": "1717",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FC"
+        ],
+        "emoji": "🇲🇼",
+        "name": "flag: Malawi"
+      },
+      {
+        "id": "1718",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FD"
+        ],
+        "emoji": "🇲🇽",
+        "name": "flag: Mexico"
+      },
+      {
+        "id": "1719",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FE"
+        ],
+        "emoji": "🇲🇾",
+        "name": "flag: Malaysia"
+      },
+      {
+        "id": "1720",
+        "unicode": [
+          "U+1F1F2",
+          "U+1F1FF"
+        ],
+        "emoji": "🇲🇿",
+        "name": "flag: Mozambique"
+      },
+      {
+        "id": "1721",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1E6"
+        ],
+        "emoji": "🇳🇦",
+        "name": "flag: Namibia"
+      },
+      {
+        "id": "1722",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1E8"
+        ],
+        "emoji": "🇳🇨",
+        "name": "flag: New Caledonia"
+      },
+      {
+        "id": "1723",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1EA"
+        ],
+        "emoji": "🇳🇪",
+        "name": "flag: Niger"
+      },
+      {
+        "id": "1724",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1EB"
+        ],
+        "emoji": "🇳🇫",
+        "name": "flag: Norfolk Island"
+      },
+      {
+        "id": "1725",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1EC"
+        ],
+        "emoji": "🇳🇬",
+        "name": "flag: Nigeria"
+      },
+      {
+        "id": "1726",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1EE"
+        ],
+        "emoji": "🇳🇮",
+        "name": "flag: Nicaragua"
+      },
+      {
+        "id": "1727",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1F1"
+        ],
+        "emoji": "🇳🇱",
+        "name": "flag: Netherlands"
+      },
+      {
+        "id": "1728",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1F4"
+        ],
+        "emoji": "🇳🇴",
+        "name": "flag: Norway"
+      },
+      {
+        "id": "1729",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1F5"
+        ],
+        "emoji": "🇳🇵",
+        "name": "flag: Nepal"
+      },
+      {
+        "id": "1730",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1F7"
+        ],
+        "emoji": "🇳🇷",
+        "name": "flag: Nauru"
+      },
+      {
+        "id": "1731",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1FA"
+        ],
+        "emoji": "🇳🇺",
+        "name": "flag: Niue"
+      },
+      {
+        "id": "1732",
+        "unicode": [
+          "U+1F1F3",
+          "U+1F1FF"
+        ],
+        "emoji": "🇳🇿",
+        "name": "flag: New Zealand"
+      },
+      {
+        "id": "1733",
+        "unicode": [
+          "U+1F1F4",
+          "U+1F1F2"
+        ],
+        "emoji": "🇴🇲",
+        "name": "flag: Oman"
+      },
+      {
+        "id": "1734",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1E6"
+        ],
+        "emoji": "🇵🇦",
+        "name": "flag: Panama"
+      },
+      {
+        "id": "1735",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1EA"
+        ],
+        "emoji": "🇵🇪",
+        "name": "flag: Peru"
+      },
+      {
+        "id": "1736",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1EB"
+        ],
+        "emoji": "🇵🇫",
+        "name": "flag: French Polynesia"
+      },
+      {
+        "id": "1737",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1EC"
+        ],
+        "emoji": "🇵🇬",
+        "name": "flag: Papua New Guinea"
+      },
+      {
+        "id": "1738",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1ED"
+        ],
+        "emoji": "🇵🇭",
+        "name": "flag: Philippines"
+      },
+      {
+        "id": "1739",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F0"
+        ],
+        "emoji": "🇵🇰",
+        "name": "flag: Pakistan"
+      },
+      {
+        "id": "1740",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F1"
+        ],
+        "emoji": "🇵🇱",
+        "name": "flag: Poland"
+      },
+      {
+        "id": "1741",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F2"
+        ],
+        "emoji": "🇵🇲",
+        "name": "flag: St. Pierre & Miquelon"
+      },
+      {
+        "id": "1742",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F3"
+        ],
+        "emoji": "🇵🇳",
+        "name": "flag: Pitcairn Islands"
+      },
+      {
+        "id": "1743",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F7"
+        ],
+        "emoji": "🇵🇷",
+        "name": "flag: Puerto Rico"
+      },
+      {
+        "id": "1744",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F8"
+        ],
+        "emoji": "🇵🇸",
+        "name": "flag: Palestinian Territories"
+      },
+      {
+        "id": "1745",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1F9"
+        ],
+        "emoji": "🇵🇹",
+        "name": "flag: Portugal"
+      },
+      {
+        "id": "1746",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1FC"
+        ],
+        "emoji": "🇵🇼",
+        "name": "flag: Palau"
+      },
+      {
+        "id": "1747",
+        "unicode": [
+          "U+1F1F5",
+          "U+1F1FE"
+        ],
+        "emoji": "🇵🇾",
+        "name": "flag: Paraguay"
+      },
+      {
+        "id": "1748",
+        "unicode": [
+          "U+1F1F6",
+          "U+1F1E6"
+        ],
+        "emoji": "🇶🇦",
+        "name": "flag: Qatar"
+      },
+      {
+        "id": "1749",
+        "unicode": [
+          "U+1F1F7",
+          "U+1F1EA"
+        ],
+        "emoji": "🇷🇪",
+        "name": "flag: Réunion"
+      },
+      {
+        "id": "1750",
+        "unicode": [
+          "U+1F1F7",
+          "U+1F1F4"
+        ],
+        "emoji": "🇷🇴",
+        "name": "flag: Romania"
+      },
+      {
+        "id": "1751",
+        "unicode": [
+          "U+1F1F7",
+          "U+1F1F8"
+        ],
+        "emoji": "🇷🇸",
+        "name": "flag: Serbia"
+      },
+      {
+        "id": "1752",
+        "unicode": [
+          "U+1F1F7",
+          "U+1F1FA"
+        ],
+        "emoji": "🇷🇺",
+        "name": "flag: Russia"
+      },
+      {
+        "id": "1753",
+        "unicode": [
+          "U+1F1F7",
+          "U+1F1FC"
+        ],
+        "emoji": "🇷🇼",
+        "name": "flag: Rwanda"
+      },
+      {
+        "id": "1754",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1E6"
+        ],
+        "emoji": "🇸🇦",
+        "name": "flag: Saudi Arabia"
+      },
+      {
+        "id": "1755",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1E7"
+        ],
+        "emoji": "🇸🇧",
+        "name": "flag: Solomon Islands"
+      },
+      {
+        "id": "1756",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1E8"
+        ],
+        "emoji": "🇸🇨",
+        "name": "flag: Seychelles"
+      },
+      {
+        "id": "1757",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1E9"
+        ],
+        "emoji": "🇸🇩",
+        "name": "flag: Sudan"
+      },
+      {
+        "id": "1758",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1EA"
+        ],
+        "emoji": "🇸🇪",
+        "name": "flag: Sweden"
+      },
+      {
+        "id": "1759",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1EC"
+        ],
+        "emoji": "🇸🇬",
+        "name": "flag: Singapore"
+      },
+      {
+        "id": "1760",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1ED"
+        ],
+        "emoji": "🇸🇭",
+        "name": "flag: St. Helena"
+      },
+      {
+        "id": "1761",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1EE"
+        ],
+        "emoji": "🇸🇮",
+        "name": "flag: Slovenia"
+      },
+      {
+        "id": "1762",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1EF"
+        ],
+        "emoji": "🇸🇯",
+        "name": "flag: Svalbard & Jan Mayen"
+      },
+      {
+        "id": "1763",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F0"
+        ],
+        "emoji": "🇸🇰",
+        "name": "flag: Slovakia"
+      },
+      {
+        "id": "1764",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F1"
+        ],
+        "emoji": "🇸🇱",
+        "name": "flag: Sierra Leone"
+      },
+      {
+        "id": "1765",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F2"
+        ],
+        "emoji": "🇸🇲",
+        "name": "flag: San Marino"
+      },
+      {
+        "id": "1766",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F3"
+        ],
+        "emoji": "🇸🇳",
+        "name": "flag: Senegal"
+      },
+      {
+        "id": "1767",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F4"
+        ],
+        "emoji": "🇸🇴",
+        "name": "flag: Somalia"
+      },
+      {
+        "id": "1768",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F7"
+        ],
+        "emoji": "🇸🇷",
+        "name": "flag: Suriname"
+      },
+      {
+        "id": "1769",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F8"
+        ],
+        "emoji": "🇸🇸",
+        "name": "flag: South Sudan"
+      },
+      {
+        "id": "1770",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1F9"
+        ],
+        "emoji": "🇸🇹",
+        "name": "flag: São Tomé & Príncipe"
+      },
+      {
+        "id": "1771",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1FB"
+        ],
+        "emoji": "🇸🇻",
+        "name": "flag: El Salvador"
+      },
+      {
+        "id": "1772",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1FD"
+        ],
+        "emoji": "🇸🇽",
+        "name": "flag: Sint Maarten"
+      },
+      {
+        "id": "1773",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1FE"
+        ],
+        "emoji": "🇸🇾",
+        "name": "flag: Syria"
+      },
+      {
+        "id": "1774",
+        "unicode": [
+          "U+1F1F8",
+          "U+1F1FF"
+        ],
+        "emoji": "🇸🇿",
+        "name": "flag: Eswatini"
+      },
+      {
+        "id": "1775",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1E6"
+        ],
+        "emoji": "🇹🇦",
+        "name": "flag: Tristan da Cunha"
+      },
+      {
+        "id": "1776",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1E8"
+        ],
+        "emoji": "🇹🇨",
+        "name": "flag: Turks & Caicos Islands"
+      },
+      {
+        "id": "1777",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1E9"
+        ],
+        "emoji": "🇹🇩",
+        "name": "flag: Chad"
+      },
+      {
+        "id": "1778",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1EB"
+        ],
+        "emoji": "🇹🇫",
+        "name": "flag: French Southern Territories"
+      },
+      {
+        "id": "1779",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1EC"
+        ],
+        "emoji": "🇹🇬",
+        "name": "flag: Togo"
+      },
+      {
+        "id": "1780",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1ED"
+        ],
+        "emoji": "🇹🇭",
+        "name": "flag: Thailand"
+      },
+      {
+        "id": "1781",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1EF"
+        ],
+        "emoji": "🇹🇯",
+        "name": "flag: Tajikistan"
+      },
+      {
+        "id": "1782",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F0"
+        ],
+        "emoji": "🇹🇰",
+        "name": "flag: Tokelau"
+      },
+      {
+        "id": "1783",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F1"
+        ],
+        "emoji": "🇹🇱",
+        "name": "flag: Timor-Leste"
+      },
+      {
+        "id": "1784",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F2"
+        ],
+        "emoji": "🇹🇲",
+        "name": "flag: Turkmenistan"
+      },
+      {
+        "id": "1785",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F3"
+        ],
+        "emoji": "🇹🇳",
+        "name": "flag: Tunisia"
+      },
+      {
+        "id": "1786",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F4"
+        ],
+        "emoji": "🇹🇴",
+        "name": "flag: Tonga"
+      },
+      {
+        "id": "1787",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F7"
+        ],
+        "emoji": "🇹🇷",
+        "name": "flag: Turkey"
+      },
+      {
+        "id": "1788",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1F9"
+        ],
+        "emoji": "🇹🇹",
+        "name": "flag: Trinidad & Tobago"
+      },
+      {
+        "id": "1789",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1FB"
+        ],
+        "emoji": "🇹🇻",
+        "name": "flag: Tuvalu"
+      },
+      {
+        "id": "1790",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1FC"
+        ],
+        "emoji": "🇹🇼",
+        "name": "flag: Taiwan"
+      },
+      {
+        "id": "1791",
+        "unicode": [
+          "U+1F1F9",
+          "U+1F1FF"
+        ],
+        "emoji": "🇹🇿",
+        "name": "flag: Tanzania"
+      },
+      {
+        "id": "1792",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1E6"
+        ],
+        "emoji": "🇺🇦",
+        "name": "flag: Ukraine"
+      },
+      {
+        "id": "1793",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1EC"
+        ],
+        "emoji": "🇺🇬",
+        "name": "flag: Uganda"
+      },
+      {
+        "id": "1794",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1F2"
+        ],
+        "emoji": "🇺🇲",
+        "name": "flag: U.S. Outlying Islands"
+      },
+      {
+        "id": "1795",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1F3"
+        ],
+        "emoji": "🇺🇳",
+        "name": "flag: United Nations"
+      },
+      {
+        "id": "1796",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1F8"
+        ],
+        "emoji": "🇺🇸",
+        "name": "flag: United States"
+      },
+      {
+        "id": "1797",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1FE"
+        ],
+        "emoji": "🇺🇾",
+        "name": "flag: Uruguay"
+      },
+      {
+        "id": "1798",
+        "unicode": [
+          "U+1F1FA",
+          "U+1F1FF"
+        ],
+        "emoji": "🇺🇿",
+        "name": "flag: Uzbekistan"
+      },
+      {
+        "id": "1799",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1E6"
+        ],
+        "emoji": "🇻🇦",
+        "name": "flag: Vatican City"
+      },
+      {
+        "id": "1800",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1E8"
+        ],
+        "emoji": "🇻🇨",
+        "name": "flag: St. Vincent & Grenadines"
+      },
+      {
+        "id": "1801",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1EA"
+        ],
+        "emoji": "🇻🇪",
+        "name": "flag: Venezuela"
+      },
+      {
+        "id": "1802",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1EC"
+        ],
+        "emoji": "🇻🇬",
+        "name": "flag: British Virgin Islands"
+      },
+      {
+        "id": "1803",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1EE"
+        ],
+        "emoji": "🇻🇮",
+        "name": "flag: U.S. Virgin Islands"
+      },
+      {
+        "id": "1804",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1F3"
+        ],
+        "emoji": "🇻🇳",
+        "name": "flag: Vietnam"
+      },
+      {
+        "id": "1805",
+        "unicode": [
+          "U+1F1FB",
+          "U+1F1FA"
+        ],
+        "emoji": "🇻🇺",
+        "name": "flag: Vanuatu"
+      },
+      {
+        "id": "1806",
+        "unicode": [
+          "U+1F1FC",
+          "U+1F1EB"
+        ],
+        "emoji": "🇼🇫",
+        "name": "flag: Wallis & Futuna"
+      },
+      {
+        "id": "1807",
+        "unicode": [
+          "U+1F1FC",
+          "U+1F1F8"
+        ],
+        "emoji": "🇼🇸",
+        "name": "flag: Samoa"
+      },
+      {
+        "id": "1808",
+        "unicode": [
+          "U+1F1FD",
+          "U+1F1F0"
+        ],
+        "emoji": "🇽🇰",
+        "name": "flag: Kosovo"
+      },
+      {
+        "id": "1809",
+        "unicode": [
+          "U+1F1FE",
+          "U+1F1EA"
+        ],
+        "emoji": "🇾🇪",
+        "name": "flag: Yemen"
+      },
+      {
+        "id": "1810",
+        "unicode": [
+          "U+1F1FE",
+          "U+1F1F9"
+        ],
+        "emoji": "🇾🇹",
+        "name": "flag: Mayotte"
+      },
+      {
+        "id": "1811",
+        "unicode": [
+          "U+1F1FF",
+          "U+1F1E6"
+        ],
+        "emoji": "🇿🇦",
+        "name": "flag: South Africa"
+      },
+      {
+        "id": "1812",
+        "unicode": [
+          "U+1F1FF",
+          "U+1F1F2"
+        ],
+        "emoji": "🇿🇲",
+        "name": "flag: Zambia"
+      },
+      {
+        "id": "1813",
+        "unicode": [
+          "U+1F1FF",
+          "U+1F1FC"
+        ],
+        "emoji": "🇿🇼",
+        "name": "flag: Zimbabwe"
+      }
+    ],
+    "subdivision-flag": [
+      {
+        "id": "1814",
+        "unicode": [
+          "U+1F3F4",
+          "U+E0067",
+          "U+E0062",
+          "U+E0065",
+          "U+E006E",
+          "U+E0067",
+          "U+E007F"
+        ],
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "name": "flag: England"
+      },
+      {
+        "id": "1815",
+        "unicode": [
+          "U+1F3F4",
+          "U+E0067",
+          "U+E0062",
+          "U+E0073",
+          "U+E0063",
+          "U+E0074",
+          "U+E007F"
+        ],
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "name": "flag: Scotland"
+      },
+      {
+        "id": "1816",
+        "unicode": [
+          "U+1F3F4",
+          "U+E0067",
+          "U+E0062",
+          "U+E0077",
+          "U+E006C",
+          "U+E0073",
+          "U+E007F"
+        ],
+        "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "name": "flag: Wales"
+      }
+    ]
+  }
+}

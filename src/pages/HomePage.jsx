@@ -1,22 +1,16 @@
 import React from "react";
-import PropTypes from "prop-types";
 import EmojiBoxContainer from "../components/main/EmojiBoxContainer";
-import { emoji } from "../constants/emoji";
 
-const HomePage = (props) => {
+function HomePage() {
   return (
     <>
-      {Object.keys(emoji).map((bighead) => (
-        <EmojiBoxContainer
-          key={bighead}
-          title={bighead}
-          data={emoji[bighead]}
-        />
-      ))}
+      <EmojiBoxContainer url={"/emoji/data/smileys-emotion"} skeletonLine={3} />
+      <EmojiBoxContainer url={"/emoji/data/people-body"} skeletonLine={5} />
+      <EmojiBoxContainer url={"/emoji/data/food-drink"} skeletonLine={3} />
+      <EmojiBoxContainer url={"/emoji/data/component"} skeletonLine={1} />
+      <EmojiBoxContainer url={"/emoji/data/animals-nature"} skeletonLine={3} />
     </>
   );
-};
-
-HomePage.propTypes = {};
+}
 
 export default HomePage;

@@ -5,9 +5,11 @@ import { Skeleton } from "antd";
 const SkeletonText = ({ line }) => {
   return Array(line)
     .fill(0)
-    .map((_) => <Skeleton active />);
+    .map((_, idx) => <Skeleton key={idx} active />);
 };
 
-SkeletonText.propTypes = {};
+SkeletonText.propTypes = {
+  line: PropTypes.number.isRequired,
+};
 
 export default SkeletonText;

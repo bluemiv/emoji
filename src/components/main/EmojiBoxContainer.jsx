@@ -1,12 +1,24 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import PropTypes from "prop-types";
-import EmojiBox from "./EmojiBox";
 import { Divider } from "antd";
+import axios from "axios";
+import EmojiBox from "./EmojiBox";
+import SkeletonText from "../common/SkeletonText";
 
-const EmojiBoxContainer = ({ title, data }) => {
+const EmojiBoxContainer = ({ url, skeletonLine }) => {
+  const [emoji, setEmoji] = useState({});
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    axios.get(url).then((res) => {
+      setEmoji(res.data);
+      setLoading(false);
+    });
+  }, [url]);
+
   const genEmojiBox = () =>
-    Object.keys(data).map((mediumHead) => {
-      const subData = data[mediumHead];
+    Object.keys(emoji.data).map((mediumHead) => {
+      const subData = emoji.data[mediumHead];
 
       return (
         <div key={mediumHead} className="emojibox__medium">
@@ -22,12 +34,21 @@ const EmojiBoxContainer = ({ title, data }) => {
 
   return (
     <div className="main__contents-item emojibox__big">
-      <h2 className="emojibox__tit">{title}</h2>
-      {genEmojiBox()}
+      {loading ? (
+        <SkeletonText line={skeletonLine} />
+      ) : (
+        <>
+          <h2 className="emojibox__tit">{emoji.title}</h2>
+          {genEmojiBox()}
+        </>
+      )}
     </div>
   );
 };
 
-EmojiBoxContainer.propTypes = {};
+EmojiBoxContainer.propTypes = {
+  url: PropTypes.string.isRequired,
+  skeletonLine: PropTypes.number.isRequired,
+};
 
 export default EmojiBoxContainer;

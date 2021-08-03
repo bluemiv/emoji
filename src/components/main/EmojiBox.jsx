@@ -4,7 +4,7 @@ import { Button, Tooltip } from "antd";
 import { onClickOkNotification } from "../common/Notification";
 
 const EmojiBox = ({ emojiInfo }) => {
-  const { id, emoji, unicode, name } = emojiInfo;
+  const { emoji, unicode, name } = emojiInfo;
 
   const onClickHandler = () => {
     navigator.clipboard.writeText(emoji);
@@ -23,6 +23,8 @@ const EmojiBox = ({ emojiInfo }) => {
   );
 };
 
-EmojiBox.propTypes = {};
+EmojiBox.propTypes = {
+  emojiInfo: PropTypes.object.isRequired,
+};
 
 export default EmojiBox;

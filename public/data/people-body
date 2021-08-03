@@ -1,0 +1,3164 @@
+{
+  "title": "People & Body",
+  "data": {
+    "hand-fingers-open": [
+      {
+        "id": "157",
+        "unicode": "U+1F44B",
+        "emoji": "👋",
+        "name": "waving hand"
+      },
+      {
+        "id": "158",
+        "unicode": "U+1F91A",
+        "emoji": "🤚",
+        "name": "raised back of hand"
+      },
+      {
+        "id": "159",
+        "unicode": "U+1F590",
+        "emoji": "🖐",
+        "name": "hand with fingers splayed"
+      },
+      {
+        "id": "160",
+        "unicode": "U+270B",
+        "emoji": "✋",
+        "name": "raised hand"
+      },
+      {
+        "id": "161",
+        "unicode": "U+1F596",
+        "emoji": "🖖",
+        "name": "vulcan salute"
+      }
+    ],
+    "hand-fingers-partial": [
+      {
+        "id": "162",
+        "unicode": "U+1F44C",
+        "emoji": "👌",
+        "name": "OK hand"
+      },
+      {
+        "id": "163",
+        "unicode": "U+1F90C",
+        "emoji": "🤌",
+        "name": "pinched fingers"
+      },
+      {
+        "id": "164",
+        "unicode": "U+1F90F",
+        "emoji": "🤏",
+        "name": "pinching hand"
+      },
+      {
+        "id": "165",
+        "unicode": "U+270C",
+        "emoji": "✌",
+        "name": "victory hand"
+      },
+      {
+        "id": "166",
+        "unicode": "U+1F91E",
+        "emoji": "🤞",
+        "name": "crossed fingers"
+      },
+      {
+        "id": "167",
+        "unicode": "U+1F91F",
+        "emoji": "🤟",
+        "name": "love-you gesture"
+      },
+      {
+        "id": "168",
+        "unicode": "U+1F918",
+        "emoji": "🤘",
+        "name": "sign of the horns"
+      },
+      {
+        "id": "169",
+        "unicode": "U+1F919",
+        "emoji": "🤙",
+        "name": "call me hand"
+      }
+    ],
+    "hand-single-finger": [
+      {
+        "id": "170",
+        "unicode": "U+1F448",
+        "emoji": "👈",
+        "name": "backhand index pointing left"
+      },
+      {
+        "id": "171",
+        "unicode": "U+1F449",
+        "emoji": "👉",
+        "name": "backhand index pointing right"
+      },
+      {
+        "id": "172",
+        "unicode": "U+1F446",
+        "emoji": "👆",
+        "name": "backhand index pointing up"
+      },
+      {
+        "id": "173",
+        "unicode": "U+1F595",
+        "emoji": "🖕",
+        "name": "middle finger"
+      },
+      {
+        "id": "174",
+        "unicode": "U+1F447",
+        "emoji": "👇",
+        "name": "backhand index pointing down"
+      },
+      {
+        "id": "175",
+        "unicode": "U+261D",
+        "emoji": "☝",
+        "name": "index pointing up"
+      }
+    ],
+    "hand-fingers-closed": [
+      {
+        "id": "176",
+        "unicode": "U+1F44D",
+        "emoji": "👍",
+        "name": "thumbs up"
+      },
+      {
+        "id": "177",
+        "unicode": "U+1F44E",
+        "emoji": "👎",
+        "name": "thumbs down"
+      },
+      {
+        "id": "178",
+        "unicode": "U+270A",
+        "emoji": "✊",
+        "name": "raised fist"
+      },
+      {
+        "id": "179",
+        "unicode": "U+1F44A",
+        "emoji": "👊",
+        "name": "oncoming fist"
+      },
+      {
+        "id": "180",
+        "unicode": "U+1F91B",
+        "emoji": "🤛",
+        "name": "left-facing fist"
+      },
+      {
+        "id": "181",
+        "unicode": "U+1F91C",
+        "emoji": "🤜",
+        "name": "right-facing fist"
+      }
+    ],
+    "hands": [
+      {
+        "id": "182",
+        "unicode": "U+1F44F",
+        "emoji": "👏",
+        "name": "clapping hands"
+      },
+      {
+        "id": "183",
+        "unicode": "U+1F64C",
+        "emoji": "🙌",
+        "name": "raising hands"
+      },
+      {
+        "id": "184",
+        "unicode": "U+1F450",
+        "emoji": "👐",
+        "name": "open hands"
+      },
+      {
+        "id": "185",
+        "unicode": "U+1F932",
+        "emoji": "🤲",
+        "name": "palms up together"
+      },
+      {
+        "id": "186",
+        "unicode": "U+1F91D",
+        "emoji": "🤝",
+        "name": "handshake"
+      },
+      {
+        "id": "187",
+        "unicode": "U+1F64F",
+        "emoji": "🙏",
+        "name": "folded hands"
+      }
+    ],
+    "hand-prop": [
+      {
+        "id": "188",
+        "unicode": "U+270D",
+        "emoji": "✍",
+        "name": "writing hand"
+      },
+      {
+        "id": "189",
+        "unicode": "U+1F485",
+        "emoji": "💅",
+        "name": "nail polish"
+      },
+      {
+        "id": "190",
+        "unicode": "U+1F933",
+        "emoji": "🤳",
+        "name": "selfie"
+      }
+    ],
+    "body-parts": [
+      {
+        "id": "191",
+        "unicode": "U+1F4AA",
+        "emoji": "💪",
+        "name": "flexed biceps"
+      },
+      {
+        "id": "192",
+        "unicode": "U+1F9BE",
+        "emoji": "🦾",
+        "name": "mechanical arm"
+      },
+      {
+        "id": "193",
+        "unicode": "U+1F9BF",
+        "emoji": "🦿",
+        "name": "mechanical leg"
+      },
+      {
+        "id": "194",
+        "unicode": "U+1F9B5",
+        "emoji": "🦵",
+        "name": "leg"
+      },
+      {
+        "id": "195",
+        "unicode": "U+1F9B6",
+        "emoji": "🦶",
+        "name": "foot"
+      },
+      {
+        "id": "196",
+        "unicode": "U+1F442",
+        "emoji": "👂",
+        "name": "ear"
+      },
+      {
+        "id": "197",
+        "unicode": "U+1F9BB",
+        "emoji": "🦻",
+        "name": "ear with hearing aid"
+      },
+      {
+        "id": "198",
+        "unicode": "U+1F443",
+        "emoji": "👃",
+        "name": "nose"
+      },
+      {
+        "id": "199",
+        "unicode": "U+1F9E0",
+        "emoji": "🧠",
+        "name": "brain"
+      },
+      {
+        "id": "200",
+        "unicode": "U+1FAC0",
+        "emoji": "🫀",
+        "name": "anatomical heart"
+      },
+      {
+        "id": "201",
+        "unicode": "U+1FAC1",
+        "emoji": "🫁",
+        "name": "lungs"
+      },
+      {
+        "id": "202",
+        "unicode": "U+1F9B7",
+        "emoji": "🦷",
+        "name": "tooth"
+      },
+      {
+        "id": "203",
+        "unicode": "U+1F9B4",
+        "emoji": "🦴",
+        "name": "bone"
+      },
+      {
+        "id": "204",
+        "unicode": "U+1F440",
+        "emoji": "👀",
+        "name": "eyes"
+      },
+      {
+        "id": "205",
+        "unicode": "U+1F441",
+        "emoji": "👁",
+        "name": "eye"
+      },
+      {
+        "id": "206",
+        "unicode": "U+1F445",
+        "emoji": "👅",
+        "name": "tongue"
+      },
+      {
+        "id": "207",
+        "unicode": "U+1F444",
+        "emoji": "👄",
+        "name": "mouth"
+      }
+    ],
+    "person": [
+      {
+        "id": "208",
+        "unicode": "U+1F476",
+        "emoji": "👶",
+        "name": "baby"
+      },
+      {
+        "id": "209",
+        "unicode": "U+1F9D2",
+        "emoji": "🧒",
+        "name": "child"
+      },
+      {
+        "id": "210",
+        "unicode": "U+1F466",
+        "emoji": "👦",
+        "name": "boy"
+      },
+      {
+        "id": "211",
+        "unicode": "U+1F467",
+        "emoji": "👧",
+        "name": "girl"
+      },
+      {
+        "id": "212",
+        "unicode": "U+1F9D1",
+        "emoji": "🧑",
+        "name": "person"
+      },
+      {
+        "id": "213",
+        "unicode": "U+1F471",
+        "emoji": "👱",
+        "name": "person: blond hair"
+      },
+      {
+        "id": "214",
+        "unicode": "U+1F468",
+        "emoji": "👨",
+        "name": "man"
+      },
+      {
+        "id": "215",
+        "unicode": "U+1F9D4",
+        "emoji": "🧔",
+        "name": "person: beard"
+      },
+      {
+        "id": "216",
+        "unicode": [
+          "U+1F9D4",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧔‍♂️",
+        "name": "man: beard"
+      },
+      {
+        "id": "217",
+        "unicode": [
+          "U+1F9D4",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧔‍♀️",
+        "name": "woman: beard"
+      },
+      {
+        "id": "218",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9B0"
+        ],
+        "emoji": "👨‍🦰",
+        "name": "man: red hair"
+      },
+      {
+        "id": "219",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9B1"
+        ],
+        "emoji": "👨‍🦱",
+        "name": "man: curly hair"
+      },
+      {
+        "id": "220",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9B3"
+        ],
+        "emoji": "👨‍🦳",
+        "name": "man: white hair"
+      },
+      {
+        "id": "221",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9B2"
+        ],
+        "emoji": "👨‍🦲",
+        "name": "man: bald"
+      },
+      {
+        "id": "222",
+        "unicode": "U+1F469",
+        "emoji": "👩",
+        "name": "woman"
+      },
+      {
+        "id": "223",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9B0"
+        ],
+        "emoji": "👩‍🦰",
+        "name": "woman: red hair"
+      },
+      {
+        "id": "224",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9B0"
+        ],
+        "emoji": "🧑‍🦰",
+        "name": "person: red hair"
+      },
+      {
+        "id": "225",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9B1"
+        ],
+        "emoji": "👩‍🦱",
+        "name": "woman: curly hair"
+      },
+      {
+        "id": "226",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9B1"
+        ],
+        "emoji": "🧑‍🦱",
+        "name": "person: curly hair"
+      },
+      {
+        "id": "227",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9B3"
+        ],
+        "emoji": "👩‍🦳",
+        "name": "woman: white hair"
+      },
+      {
+        "id": "228",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9B3"
+        ],
+        "emoji": "🧑‍🦳",
+        "name": "person: white hair"
+      },
+      {
+        "id": "229",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9B2"
+        ],
+        "emoji": "👩‍🦲",
+        "name": "woman: bald"
+      },
+      {
+        "id": "230",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9B2"
+        ],
+        "emoji": "🧑‍🦲",
+        "name": "person: bald"
+      },
+      {
+        "id": "231",
+        "unicode": [
+          "U+1F471",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👱‍♀️",
+        "name": "woman: blond hair"
+      },
+      {
+        "id": "232",
+        "unicode": [
+          "U+1F471",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👱‍♂️",
+        "name": "man: blond hair"
+      },
+      {
+        "id": "233",
+        "unicode": "U+1F9D3",
+        "emoji": "🧓",
+        "name": "older person"
+      },
+      {
+        "id": "234",
+        "unicode": "U+1F474",
+        "emoji": "👴",
+        "name": "old man"
+      },
+      {
+        "id": "235",
+        "unicode": "U+1F475",
+        "emoji": "👵",
+        "name": "old woman"
+      }
+    ],
+    "person-gesture": [
+      {
+        "id": "236",
+        "unicode": "U+1F64D",
+        "emoji": "🙍",
+        "name": "person frowning"
+      },
+      {
+        "id": "237",
+        "unicode": [
+          "U+1F64D",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙍‍♂️",
+        "name": "man frowning"
+      },
+      {
+        "id": "238",
+        "unicode": [
+          "U+1F64D",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙍‍♀️",
+        "name": "woman frowning"
+      },
+      {
+        "id": "239",
+        "unicode": "U+1F64E",
+        "emoji": "🙎",
+        "name": "person pouting"
+      },
+      {
+        "id": "240",
+        "unicode": [
+          "U+1F64E",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙎‍♂️",
+        "name": "man pouting"
+      },
+      {
+        "id": "241",
+        "unicode": [
+          "U+1F64E",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙎‍♀️",
+        "name": "woman pouting"
+      },
+      {
+        "id": "242",
+        "unicode": "U+1F645",
+        "emoji": "🙅",
+        "name": "person gesturing NO"
+      },
+      {
+        "id": "243",
+        "unicode": [
+          "U+1F645",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙅‍♂️",
+        "name": "man gesturing NO"
+      },
+      {
+        "id": "244",
+        "unicode": [
+          "U+1F645",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙅‍♀️",
+        "name": "woman gesturing NO"
+      },
+      {
+        "id": "245",
+        "unicode": "U+1F646",
+        "emoji": "🙆",
+        "name": "person gesturing OK"
+      },
+      {
+        "id": "246",
+        "unicode": [
+          "U+1F646",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙆‍♂️",
+        "name": "man gesturing OK"
+      },
+      {
+        "id": "247",
+        "unicode": [
+          "U+1F646",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙆‍♀️",
+        "name": "woman gesturing OK"
+      },
+      {
+        "id": "248",
+        "unicode": "U+1F481",
+        "emoji": "💁",
+        "name": "person tipping hand"
+      },
+      {
+        "id": "249",
+        "unicode": [
+          "U+1F481",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "💁‍♂️",
+        "name": "man tipping hand"
+      },
+      {
+        "id": "250",
+        "unicode": [
+          "U+1F481",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "💁‍♀️",
+        "name": "woman tipping hand"
+      },
+      {
+        "id": "251",
+        "unicode": "U+1F64B",
+        "emoji": "🙋",
+        "name": "person raising hand"
+      },
+      {
+        "id": "252",
+        "unicode": [
+          "U+1F64B",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙋‍♂️",
+        "name": "man raising hand"
+      },
+      {
+        "id": "253",
+        "unicode": [
+          "U+1F64B",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙋‍♀️",
+        "name": "woman raising hand"
+      },
+      {
+        "id": "254",
+        "unicode": "U+1F9CF",
+        "emoji": "🧏",
+        "name": "deaf person"
+      },
+      {
+        "id": "255",
+        "unicode": [
+          "U+1F9CF",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧏‍♂️",
+        "name": "deaf man"
+      },
+      {
+        "id": "256",
+        "unicode": [
+          "U+1F9CF",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧏‍♀️",
+        "name": "deaf woman"
+      },
+      {
+        "id": "257",
+        "unicode": "U+1F647",
+        "emoji": "🙇",
+        "name": "person bowing"
+      },
+      {
+        "id": "258",
+        "unicode": [
+          "U+1F647",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🙇‍♂️",
+        "name": "man bowing"
+      },
+      {
+        "id": "259",
+        "unicode": [
+          "U+1F647",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🙇‍♀️",
+        "name": "woman bowing"
+      },
+      {
+        "id": "260",
+        "unicode": "U+1F926",
+        "emoji": "🤦",
+        "name": "person facepalming"
+      },
+      {
+        "id": "261",
+        "unicode": [
+          "U+1F926",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤦‍♂️",
+        "name": "man facepalming"
+      },
+      {
+        "id": "262",
+        "unicode": [
+          "U+1F926",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤦‍♀️",
+        "name": "woman facepalming"
+      },
+      {
+        "id": "263",
+        "unicode": "U+1F937",
+        "emoji": "🤷",
+        "name": "person shrugging"
+      },
+      {
+        "id": "264",
+        "unicode": [
+          "U+1F937",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤷‍♂️",
+        "name": "man shrugging"
+      },
+      {
+        "id": "265",
+        "unicode": [
+          "U+1F937",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤷‍♀️",
+        "name": "woman shrugging"
+      }
+    ],
+    "person-role": [
+      {
+        "id": "266",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+2695",
+          "U+FE0F"
+        ],
+        "emoji": "🧑‍⚕️",
+        "name": "health worker"
+      },
+      {
+        "id": "267",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+2695",
+          "U+FE0F"
+        ],
+        "emoji": "👨‍⚕️",
+        "name": "man health worker"
+      },
+      {
+        "id": "268",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2695",
+          "U+FE0F"
+        ],
+        "emoji": "👩‍⚕️",
+        "name": "woman health worker"
+      },
+      {
+        "id": "269",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F393"
+        ],
+        "emoji": "🧑‍🎓",
+        "name": "student"
+      },
+      {
+        "id": "270",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F393"
+        ],
+        "emoji": "👨‍🎓",
+        "name": "man student"
+      },
+      {
+        "id": "271",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F393"
+        ],
+        "emoji": "👩‍🎓",
+        "name": "woman student"
+      },
+      {
+        "id": "272",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F3EB"
+        ],
+        "emoji": "🧑‍🏫",
+        "name": "teacher"
+      },
+      {
+        "id": "273",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F3EB"
+        ],
+        "emoji": "👨‍🏫",
+        "name": "man teacher"
+      },
+      {
+        "id": "274",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F3EB"
+        ],
+        "emoji": "👩‍🏫",
+        "name": "woman teacher"
+      },
+      {
+        "id": "275",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+2696",
+          "U+FE0F"
+        ],
+        "emoji": "🧑‍⚖️",
+        "name": "judge"
+      },
+      {
+        "id": "276",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+2696",
+          "U+FE0F"
+        ],
+        "emoji": "👨‍⚖️",
+        "name": "man judge"
+      },
+      {
+        "id": "277",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2696",
+          "U+FE0F"
+        ],
+        "emoji": "👩‍⚖️",
+        "name": "woman judge"
+      },
+      {
+        "id": "278",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F33E"
+        ],
+        "emoji": "🧑‍🌾",
+        "name": "farmer"
+      },
+      {
+        "id": "279",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F33E"
+        ],
+        "emoji": "👨‍🌾",
+        "name": "man farmer"
+      },
+      {
+        "id": "280",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F33E"
+        ],
+        "emoji": "👩‍🌾",
+        "name": "woman farmer"
+      },
+      {
+        "id": "281",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F373"
+        ],
+        "emoji": "🧑‍🍳",
+        "name": "cook"
+      },
+      {
+        "id": "282",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F373"
+        ],
+        "emoji": "👨‍🍳",
+        "name": "man cook"
+      },
+      {
+        "id": "283",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F373"
+        ],
+        "emoji": "👩‍🍳",
+        "name": "woman cook"
+      },
+      {
+        "id": "284",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F527"
+        ],
+        "emoji": "🧑‍🔧",
+        "name": "mechanic"
+      },
+      {
+        "id": "285",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F527"
+        ],
+        "emoji": "👨‍🔧",
+        "name": "man mechanic"
+      },
+      {
+        "id": "286",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F527"
+        ],
+        "emoji": "👩‍🔧",
+        "name": "woman mechanic"
+      },
+      {
+        "id": "287",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F3ED"
+        ],
+        "emoji": "🧑‍🏭",
+        "name": "factory worker"
+      },
+      {
+        "id": "288",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F3ED"
+        ],
+        "emoji": "👨‍🏭",
+        "name": "man factory worker"
+      },
+      {
+        "id": "289",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F3ED"
+        ],
+        "emoji": "👩‍🏭",
+        "name": "woman factory worker"
+      },
+      {
+        "id": "290",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F4BC"
+        ],
+        "emoji": "🧑‍💼",
+        "name": "office worker"
+      },
+      {
+        "id": "291",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F4BC"
+        ],
+        "emoji": "👨‍💼",
+        "name": "man office worker"
+      },
+      {
+        "id": "292",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F4BC"
+        ],
+        "emoji": "👩‍💼",
+        "name": "woman office worker"
+      },
+      {
+        "id": "293",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F52C"
+        ],
+        "emoji": "🧑‍🔬",
+        "name": "scientist"
+      },
+      {
+        "id": "294",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F52C"
+        ],
+        "emoji": "👨‍🔬",
+        "name": "man scientist"
+      },
+      {
+        "id": "295",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F52C"
+        ],
+        "emoji": "👩‍🔬",
+        "name": "woman scientist"
+      },
+      {
+        "id": "296",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F4BB"
+        ],
+        "emoji": "🧑‍💻",
+        "name": "technologist"
+      },
+      {
+        "id": "297",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F4BB"
+        ],
+        "emoji": "👨‍💻",
+        "name": "man technologist"
+      },
+      {
+        "id": "298",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F4BB"
+        ],
+        "emoji": "👩‍💻",
+        "name": "woman technologist"
+      },
+      {
+        "id": "299",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F3A4"
+        ],
+        "emoji": "🧑‍🎤",
+        "name": "singer"
+      },
+      {
+        "id": "300",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F3A4"
+        ],
+        "emoji": "👨‍🎤",
+        "name": "man singer"
+      },
+      {
+        "id": "301",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F3A4"
+        ],
+        "emoji": "👩‍🎤",
+        "name": "woman singer"
+      },
+      {
+        "id": "302",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F3A8"
+        ],
+        "emoji": "🧑‍🎨",
+        "name": "artist"
+      },
+      {
+        "id": "303",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F3A8"
+        ],
+        "emoji": "👨‍🎨",
+        "name": "man artist"
+      },
+      {
+        "id": "304",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F3A8"
+        ],
+        "emoji": "👩‍🎨",
+        "name": "woman artist"
+      },
+      {
+        "id": "305",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+2708",
+          "U+FE0F"
+        ],
+        "emoji": "🧑‍✈️",
+        "name": "pilot"
+      },
+      {
+        "id": "306",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+2708",
+          "U+FE0F"
+        ],
+        "emoji": "👨‍✈️",
+        "name": "man pilot"
+      },
+      {
+        "id": "307",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2708",
+          "U+FE0F"
+        ],
+        "emoji": "👩‍✈️",
+        "name": "woman pilot"
+      },
+      {
+        "id": "308",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F680"
+        ],
+        "emoji": "🧑‍🚀",
+        "name": "astronaut"
+      },
+      {
+        "id": "309",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F680"
+        ],
+        "emoji": "👨‍🚀",
+        "name": "man astronaut"
+      },
+      {
+        "id": "310",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F680"
+        ],
+        "emoji": "👩‍🚀",
+        "name": "woman astronaut"
+      },
+      {
+        "id": "311",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F692"
+        ],
+        "emoji": "🧑‍🚒",
+        "name": "firefighter"
+      },
+      {
+        "id": "312",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F692"
+        ],
+        "emoji": "👨‍🚒",
+        "name": "man firefighter"
+      },
+      {
+        "id": "313",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F692"
+        ],
+        "emoji": "👩‍🚒",
+        "name": "woman firefighter"
+      },
+      {
+        "id": "314",
+        "unicode": "U+1F46E",
+        "emoji": "👮",
+        "name": "police officer"
+      },
+      {
+        "id": "315",
+        "unicode": [
+          "U+1F46E",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👮‍♂️",
+        "name": "man police officer"
+      },
+      {
+        "id": "316",
+        "unicode": [
+          "U+1F46E",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👮‍♀️",
+        "name": "woman police officer"
+      },
+      {
+        "id": "317",
+        "unicode": "U+1F575",
+        "emoji": "🕵",
+        "name": "detective"
+      },
+      {
+        "id": "318",
+        "unicode": [
+          "U+1F575",
+          "U+FE0F",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🕵️‍♂️",
+        "name": "man detective"
+      },
+      {
+        "id": "319",
+        "unicode": [
+          "U+1F575",
+          "U+FE0F",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🕵️‍♀️",
+        "name": "woman detective"
+      },
+      {
+        "id": "320",
+        "unicode": "U+1F482",
+        "emoji": "💂",
+        "name": "guard"
+      },
+      {
+        "id": "321",
+        "unicode": [
+          "U+1F482",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "💂‍♂️",
+        "name": "man guard"
+      },
+      {
+        "id": "322",
+        "unicode": [
+          "U+1F482",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "💂‍♀️",
+        "name": "woman guard"
+      },
+      {
+        "id": "323",
+        "unicode": "U+1F977",
+        "emoji": "🥷",
+        "name": "ninja"
+      },
+      {
+        "id": "324",
+        "unicode": "U+1F477",
+        "emoji": "👷",
+        "name": "construction worker"
+      },
+      {
+        "id": "325",
+        "unicode": [
+          "U+1F477",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👷‍♂️",
+        "name": "man construction worker"
+      },
+      {
+        "id": "326",
+        "unicode": [
+          "U+1F477",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👷‍♀️",
+        "name": "woman construction worker"
+      },
+      {
+        "id": "327",
+        "unicode": "U+1F934",
+        "emoji": "🤴",
+        "name": "prince"
+      },
+      {
+        "id": "328",
+        "unicode": "U+1F478",
+        "emoji": "👸",
+        "name": "princess"
+      },
+      {
+        "id": "329",
+        "unicode": "U+1F473",
+        "emoji": "👳",
+        "name": "person wearing turban"
+      },
+      {
+        "id": "330",
+        "unicode": [
+          "U+1F473",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👳‍♂️",
+        "name": "man wearing turban"
+      },
+      {
+        "id": "331",
+        "unicode": [
+          "U+1F473",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👳‍♀️",
+        "name": "woman wearing turban"
+      },
+      {
+        "id": "332",
+        "unicode": "U+1F472",
+        "emoji": "👲",
+        "name": "person with skullcap"
+      },
+      {
+        "id": "333",
+        "unicode": "U+1F9D5",
+        "emoji": "🧕",
+        "name": "woman with headscarf"
+      },
+      {
+        "id": "334",
+        "unicode": "U+1F935",
+        "emoji": "🤵",
+        "name": "person in tuxedo"
+      },
+      {
+        "id": "335",
+        "unicode": [
+          "U+1F935",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤵‍♂️",
+        "name": "man in tuxedo"
+      },
+      {
+        "id": "336",
+        "unicode": [
+          "U+1F935",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤵‍♀️",
+        "name": "woman in tuxedo"
+      },
+      {
+        "id": "337",
+        "unicode": "U+1F470",
+        "emoji": "👰",
+        "name": "person with veil"
+      },
+      {
+        "id": "338",
+        "unicode": [
+          "U+1F470",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👰‍♂️",
+        "name": "man with veil"
+      },
+      {
+        "id": "339",
+        "unicode": [
+          "U+1F470",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👰‍♀️",
+        "name": "woman with veil"
+      },
+      {
+        "id": "340",
+        "unicode": "U+1F930",
+        "emoji": "🤰",
+        "name": "pregnant woman"
+      },
+      {
+        "id": "341",
+        "unicode": "U+1F931",
+        "emoji": "🤱",
+        "name": "breast-feeding"
+      },
+      {
+        "id": "342",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F37C"
+        ],
+        "emoji": "👩‍🍼",
+        "name": "woman feeding baby"
+      },
+      {
+        "id": "343",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F37C"
+        ],
+        "emoji": "👨‍🍼",
+        "name": "man feeding baby"
+      },
+      {
+        "id": "344",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F37C"
+        ],
+        "emoji": "🧑‍🍼",
+        "name": "person feeding baby"
+      }
+    ],
+    "person-fantasy": [
+      {
+        "id": "345",
+        "unicode": "U+1F47C",
+        "emoji": "👼",
+        "name": "baby angel"
+      },
+      {
+        "id": "346",
+        "unicode": "U+1F385",
+        "emoji": "🎅",
+        "name": "Santa Claus"
+      },
+      {
+        "id": "347",
+        "unicode": "U+1F936",
+        "emoji": "🤶",
+        "name": "Mrs. Claus"
+      },
+      {
+        "id": "348",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F384"
+        ],
+        "emoji": "🧑‍🎄",
+        "name": "mx claus"
+      },
+      {
+        "id": "349",
+        "unicode": "U+1F9B8",
+        "emoji": "🦸",
+        "name": "superhero"
+      },
+      {
+        "id": "350",
+        "unicode": [
+          "U+1F9B8",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🦸‍♂️",
+        "name": "man superhero"
+      },
+      {
+        "id": "351",
+        "unicode": [
+          "U+1F9B8",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🦸‍♀️",
+        "name": "woman superhero"
+      },
+      {
+        "id": "352",
+        "unicode": "U+1F9B9",
+        "emoji": "🦹",
+        "name": "supervillain"
+      },
+      {
+        "id": "353",
+        "unicode": [
+          "U+1F9B9",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🦹‍♂️",
+        "name": "man supervillain"
+      },
+      {
+        "id": "354",
+        "unicode": [
+          "U+1F9B9",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🦹‍♀️",
+        "name": "woman supervillain"
+      },
+      {
+        "id": "355",
+        "unicode": "U+1F9D9",
+        "emoji": "🧙",
+        "name": "mage"
+      },
+      {
+        "id": "356",
+        "unicode": [
+          "U+1F9D9",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧙‍♂️",
+        "name": "man mage"
+      },
+      {
+        "id": "357",
+        "unicode": [
+          "U+1F9D9",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧙‍♀️",
+        "name": "woman mage"
+      },
+      {
+        "id": "358",
+        "unicode": "U+1F9DA",
+        "emoji": "🧚",
+        "name": "fairy"
+      },
+      {
+        "id": "359",
+        "unicode": [
+          "U+1F9DA",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧚‍♂️",
+        "name": "man fairy"
+      },
+      {
+        "id": "360",
+        "unicode": [
+          "U+1F9DA",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧚‍♀️",
+        "name": "woman fairy"
+      },
+      {
+        "id": "361",
+        "unicode": "U+1F9DB",
+        "emoji": "🧛",
+        "name": "vampire"
+      },
+      {
+        "id": "362",
+        "unicode": [
+          "U+1F9DB",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧛‍♂️",
+        "name": "man vampire"
+      },
+      {
+        "id": "363",
+        "unicode": [
+          "U+1F9DB",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧛‍♀️",
+        "name": "woman vampire"
+      },
+      {
+        "id": "364",
+        "unicode": "U+1F9DC",
+        "emoji": "🧜",
+        "name": "merperson"
+      },
+      {
+        "id": "365",
+        "unicode": [
+          "U+1F9DC",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧜‍♂️",
+        "name": "merman"
+      },
+      {
+        "id": "366",
+        "unicode": [
+          "U+1F9DC",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧜‍♀️",
+        "name": "mermaid"
+      },
+      {
+        "id": "367",
+        "unicode": "U+1F9DD",
+        "emoji": "🧝",
+        "name": "elf"
+      },
+      {
+        "id": "368",
+        "unicode": [
+          "U+1F9DD",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧝‍♂️",
+        "name": "man elf"
+      },
+      {
+        "id": "369",
+        "unicode": [
+          "U+1F9DD",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧝‍♀️",
+        "name": "woman elf"
+      },
+      {
+        "id": "370",
+        "unicode": "U+1F9DE",
+        "emoji": "🧞",
+        "name": "genie"
+      },
+      {
+        "id": "371",
+        "unicode": [
+          "U+1F9DE",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧞‍♂️",
+        "name": "man genie"
+      },
+      {
+        "id": "372",
+        "unicode": [
+          "U+1F9DE",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧞‍♀️",
+        "name": "woman genie"
+      },
+      {
+        "id": "373",
+        "unicode": "U+1F9DF",
+        "emoji": "🧟",
+        "name": "zombie"
+      },
+      {
+        "id": "374",
+        "unicode": [
+          "U+1F9DF",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧟‍♂️",
+        "name": "man zombie"
+      },
+      {
+        "id": "375",
+        "unicode": [
+          "U+1F9DF",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧟‍♀️",
+        "name": "woman zombie"
+      }
+    ],
+    "person-activity": [
+      {
+        "id": "376",
+        "unicode": "U+1F486",
+        "emoji": "💆",
+        "name": "person getting massage"
+      },
+      {
+        "id": "377",
+        "unicode": [
+          "U+1F486",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "💆‍♂️",
+        "name": "man getting massage"
+      },
+      {
+        "id": "378",
+        "unicode": [
+          "U+1F486",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "💆‍♀️",
+        "name": "woman getting massage"
+      },
+      {
+        "id": "379",
+        "unicode": "U+1F487",
+        "emoji": "💇",
+        "name": "person getting haircut"
+      },
+      {
+        "id": "380",
+        "unicode": [
+          "U+1F487",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "💇‍♂️",
+        "name": "man getting haircut"
+      },
+      {
+        "id": "381",
+        "unicode": [
+          "U+1F487",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "💇‍♀️",
+        "name": "woman getting haircut"
+      },
+      {
+        "id": "382",
+        "unicode": "U+1F6B6",
+        "emoji": "🚶",
+        "name": "person walking"
+      },
+      {
+        "id": "383",
+        "unicode": [
+          "U+1F6B6",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🚶‍♂️",
+        "name": "man walking"
+      },
+      {
+        "id": "384",
+        "unicode": [
+          "U+1F6B6",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🚶‍♀️",
+        "name": "woman walking"
+      },
+      {
+        "id": "385",
+        "unicode": "U+1F9CD",
+        "emoji": "🧍",
+        "name": "person standing"
+      },
+      {
+        "id": "386",
+        "unicode": [
+          "U+1F9CD",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧍‍♂️",
+        "name": "man standing"
+      },
+      {
+        "id": "387",
+        "unicode": [
+          "U+1F9CD",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧍‍♀️",
+        "name": "woman standing"
+      },
+      {
+        "id": "388",
+        "unicode": "U+1F9CE",
+        "emoji": "🧎",
+        "name": "person kneeling"
+      },
+      {
+        "id": "389",
+        "unicode": [
+          "U+1F9CE",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧎‍♂️",
+        "name": "man kneeling"
+      },
+      {
+        "id": "390",
+        "unicode": [
+          "U+1F9CE",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧎‍♀️",
+        "name": "woman kneeling"
+      },
+      {
+        "id": "391",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9AF"
+        ],
+        "emoji": "🧑‍🦯",
+        "name": "person with white cane"
+      },
+      {
+        "id": "392",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9AF"
+        ],
+        "emoji": "👨‍🦯",
+        "name": "man with white cane"
+      },
+      {
+        "id": "393",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9AF"
+        ],
+        "emoji": "👩‍🦯",
+        "name": "woman with white cane"
+      },
+      {
+        "id": "394",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9BC"
+        ],
+        "emoji": "🧑‍🦼",
+        "name": "person in motorized wheelchair"
+      },
+      {
+        "id": "395",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9BC"
+        ],
+        "emoji": "👨‍🦼",
+        "name": "man in motorized wheelchair"
+      },
+      {
+        "id": "396",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9BC"
+        ],
+        "emoji": "👩‍🦼",
+        "name": "woman in motorized wheelchair"
+      },
+      {
+        "id": "397",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F9BD"
+        ],
+        "emoji": "🧑‍🦽",
+        "name": "person in manual wheelchair"
+      },
+      {
+        "id": "398",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F9BD"
+        ],
+        "emoji": "👨‍🦽",
+        "name": "man in manual wheelchair"
+      },
+      {
+        "id": "399",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F9BD"
+        ],
+        "emoji": "👩‍🦽",
+        "name": "woman in manual wheelchair"
+      },
+      {
+        "id": "400",
+        "unicode": "U+1F3C3",
+        "emoji": "🏃",
+        "name": "person running"
+      },
+      {
+        "id": "401",
+        "unicode": [
+          "U+1F3C3",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🏃‍♂️",
+        "name": "man running"
+      },
+      {
+        "id": "402",
+        "unicode": [
+          "U+1F3C3",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🏃‍♀️",
+        "name": "woman running"
+      },
+      {
+        "id": "403",
+        "unicode": "U+1F483",
+        "emoji": "💃",
+        "name": "woman dancing"
+      },
+      {
+        "id": "404",
+        "unicode": "U+1F57A",
+        "emoji": "🕺",
+        "name": "man dancing"
+      },
+      {
+        "id": "405",
+        "unicode": "U+1F574",
+        "emoji": "🕴",
+        "name": "person in suit levitating"
+      },
+      {
+        "id": "406",
+        "unicode": "U+1F46F",
+        "emoji": "👯",
+        "name": "people with bunny ears"
+      },
+      {
+        "id": "407",
+        "unicode": [
+          "U+1F46F",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "👯‍♂️",
+        "name": "men with bunny ears"
+      },
+      {
+        "id": "408",
+        "unicode": [
+          "U+1F46F",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "👯‍♀️",
+        "name": "women with bunny ears"
+      },
+      {
+        "id": "409",
+        "unicode": "U+1F9D6",
+        "emoji": "🧖",
+        "name": "person in steamy room"
+      },
+      {
+        "id": "410",
+        "unicode": [
+          "U+1F9D6",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧖‍♂️",
+        "name": "man in steamy room"
+      },
+      {
+        "id": "411",
+        "unicode": [
+          "U+1F9D6",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧖‍♀️",
+        "name": "woman in steamy room"
+      },
+      {
+        "id": "412",
+        "unicode": "U+1F9D7",
+        "emoji": "🧗",
+        "name": "person climbing"
+      },
+      {
+        "id": "413",
+        "unicode": [
+          "U+1F9D7",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧗‍♂️",
+        "name": "man climbing"
+      },
+      {
+        "id": "414",
+        "unicode": [
+          "U+1F9D7",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧗‍♀️",
+        "name": "woman climbing"
+      }
+    ],
+    "person-sport": [
+      {
+        "id": "415",
+        "unicode": "U+1F93A",
+        "emoji": "🤺",
+        "name": "person fencing"
+      },
+      {
+        "id": "416",
+        "unicode": "U+1F3C7",
+        "emoji": "🏇",
+        "name": "horse racing"
+      },
+      {
+        "id": "417",
+        "unicode": "U+26F7",
+        "emoji": "⛷",
+        "name": "skier"
+      },
+      {
+        "id": "418",
+        "unicode": "U+1F3C2",
+        "emoji": "🏂",
+        "name": "snowboarder"
+      },
+      {
+        "id": "419",
+        "unicode": "U+1F3CC",
+        "emoji": "🏌",
+        "name": "person golfing"
+      },
+      {
+        "id": "420",
+        "unicode": [
+          "U+1F3CC",
+          "U+FE0F",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🏌️‍♂️",
+        "name": "man golfing"
+      },
+      {
+        "id": "421",
+        "unicode": [
+          "U+1F3CC",
+          "U+FE0F",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🏌️‍♀️",
+        "name": "woman golfing"
+      },
+      {
+        "id": "422",
+        "unicode": "U+1F3C4",
+        "emoji": "🏄",
+        "name": "person surfing"
+      },
+      {
+        "id": "423",
+        "unicode": [
+          "U+1F3C4",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🏄‍♂️",
+        "name": "man surfing"
+      },
+      {
+        "id": "424",
+        "unicode": [
+          "U+1F3C4",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🏄‍♀️",
+        "name": "woman surfing"
+      },
+      {
+        "id": "425",
+        "unicode": "U+1F6A3",
+        "emoji": "🚣",
+        "name": "person rowing boat"
+      },
+      {
+        "id": "426",
+        "unicode": [
+          "U+1F6A3",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🚣‍♂️",
+        "name": "man rowing boat"
+      },
+      {
+        "id": "427",
+        "unicode": [
+          "U+1F6A3",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🚣‍♀️",
+        "name": "woman rowing boat"
+      },
+      {
+        "id": "428",
+        "unicode": "U+1F3CA",
+        "emoji": "🏊",
+        "name": "person swimming"
+      },
+      {
+        "id": "429",
+        "unicode": [
+          "U+1F3CA",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🏊‍♂️",
+        "name": "man swimming"
+      },
+      {
+        "id": "430",
+        "unicode": [
+          "U+1F3CA",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🏊‍♀️",
+        "name": "woman swimming"
+      },
+      {
+        "id": "431",
+        "unicode": "U+26F9",
+        "emoji": "⛹",
+        "name": "person bouncing ball"
+      },
+      {
+        "id": "432",
+        "unicode": [
+          "U+26F9",
+          "U+FE0F",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "⛹️‍♂️",
+        "name": "man bouncing ball"
+      },
+      {
+        "id": "433",
+        "unicode": [
+          "U+26F9",
+          "U+FE0F",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "⛹️‍♀️",
+        "name": "woman bouncing ball"
+      },
+      {
+        "id": "434",
+        "unicode": "U+1F3CB",
+        "emoji": "🏋",
+        "name": "person lifting weights"
+      },
+      {
+        "id": "435",
+        "unicode": [
+          "U+1F3CB",
+          "U+FE0F",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🏋️‍♂️",
+        "name": "man lifting weights"
+      },
+      {
+        "id": "436",
+        "unicode": [
+          "U+1F3CB",
+          "U+FE0F",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🏋️‍♀️",
+        "name": "woman lifting weights"
+      },
+      {
+        "id": "437",
+        "unicode": "U+1F6B4",
+        "emoji": "🚴",
+        "name": "person biking"
+      },
+      {
+        "id": "438",
+        "unicode": [
+          "U+1F6B4",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🚴‍♂️",
+        "name": "man biking"
+      },
+      {
+        "id": "439",
+        "unicode": [
+          "U+1F6B4",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🚴‍♀️",
+        "name": "woman biking"
+      },
+      {
+        "id": "440",
+        "unicode": "U+1F6B5",
+        "emoji": "🚵",
+        "name": "person mountain biking"
+      },
+      {
+        "id": "441",
+        "unicode": [
+          "U+1F6B5",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🚵‍♂️",
+        "name": "man mountain biking"
+      },
+      {
+        "id": "442",
+        "unicode": [
+          "U+1F6B5",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🚵‍♀️",
+        "name": "woman mountain biking"
+      },
+      {
+        "id": "443",
+        "unicode": "U+1F938",
+        "emoji": "🤸",
+        "name": "person cartwheeling"
+      },
+      {
+        "id": "444",
+        "unicode": [
+          "U+1F938",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤸‍♂️",
+        "name": "man cartwheeling"
+      },
+      {
+        "id": "445",
+        "unicode": [
+          "U+1F938",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤸‍♀️",
+        "name": "woman cartwheeling"
+      },
+      {
+        "id": "446",
+        "unicode": "U+1F93C",
+        "emoji": "🤼",
+        "name": "people wrestling"
+      },
+      {
+        "id": "447",
+        "unicode": [
+          "U+1F93C",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤼‍♂️",
+        "name": "men wrestling"
+      },
+      {
+        "id": "448",
+        "unicode": [
+          "U+1F93C",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤼‍♀️",
+        "name": "women wrestling"
+      },
+      {
+        "id": "449",
+        "unicode": "U+1F93D",
+        "emoji": "🤽",
+        "name": "person playing water polo"
+      },
+      {
+        "id": "450",
+        "unicode": [
+          "U+1F93D",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤽‍♂️",
+        "name": "man playing water polo"
+      },
+      {
+        "id": "451",
+        "unicode": [
+          "U+1F93D",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤽‍♀️",
+        "name": "woman playing water polo"
+      },
+      {
+        "id": "452",
+        "unicode": "U+1F93E",
+        "emoji": "🤾",
+        "name": "person playing handball"
+      },
+      {
+        "id": "453",
+        "unicode": [
+          "U+1F93E",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤾‍♂️",
+        "name": "man playing handball"
+      },
+      {
+        "id": "454",
+        "unicode": [
+          "U+1F93E",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤾‍♀️",
+        "name": "woman playing handball"
+      },
+      {
+        "id": "455",
+        "unicode": "U+1F939",
+        "emoji": "🤹",
+        "name": "person juggling"
+      },
+      {
+        "id": "456",
+        "unicode": [
+          "U+1F939",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🤹‍♂️",
+        "name": "man juggling"
+      },
+      {
+        "id": "457",
+        "unicode": [
+          "U+1F939",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🤹‍♀️",
+        "name": "woman juggling"
+      }
+    ],
+    "person-resting": [
+      {
+        "id": "458",
+        "unicode": "U+1F9D8",
+        "emoji": "🧘",
+        "name": "person in lotus position"
+      },
+      {
+        "id": "459",
+        "unicode": [
+          "U+1F9D8",
+          "U+200D",
+          "U+2642",
+          "U+FE0F"
+        ],
+        "emoji": "🧘‍♂️",
+        "name": "man in lotus position"
+      },
+      {
+        "id": "460",
+        "unicode": [
+          "U+1F9D8",
+          "U+200D",
+          "U+2640",
+          "U+FE0F"
+        ],
+        "emoji": "🧘‍♀️",
+        "name": "woman in lotus position"
+      },
+      {
+        "id": "461",
+        "unicode": "U+1F6C0",
+        "emoji": "🛀",
+        "name": "person taking bath"
+      },
+      {
+        "id": "462",
+        "unicode": "U+1F6CC",
+        "emoji": "🛌",
+        "name": "person in bed"
+      }
+    ],
+    "family": [
+      {
+        "id": "463",
+        "unicode": [
+          "U+1F9D1",
+          "U+200D",
+          "U+1F91D",
+          "U+200D",
+          "U+1F9D1"
+        ],
+        "emoji": "🧑‍🤝‍🧑",
+        "name": "people holding hands"
+      },
+      {
+        "id": "464",
+        "unicode": "U+1F46D",
+        "emoji": "👭",
+        "name": "women holding hands"
+      },
+      {
+        "id": "465",
+        "unicode": "U+1F46B",
+        "emoji": "👫",
+        "name": "woman and man holding hands"
+      },
+      {
+        "id": "466",
+        "unicode": "U+1F46C",
+        "emoji": "👬",
+        "name": "men holding hands"
+      },
+      {
+        "id": "467",
+        "unicode": "U+1F48F",
+        "emoji": "💏",
+        "name": "kiss"
+      },
+      {
+        "id": "468",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F48B",
+          "U+200D",
+          "U+1F468"
+        ],
+        "emoji": "👩‍❤️‍💋‍👨",
+        "name": "kiss: woman, man"
+      },
+      {
+        "id": "469",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F48B",
+          "U+200D",
+          "U+1F468"
+        ],
+        "emoji": "👨‍❤️‍💋‍👨",
+        "name": "kiss: man, man"
+      },
+      {
+        "id": "470",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F48B",
+          "U+200D",
+          "U+1F469"
+        ],
+        "emoji": "👩‍❤️‍💋‍👩",
+        "name": "kiss: woman, woman"
+      },
+      {
+        "id": "471",
+        "unicode": "U+1F491",
+        "emoji": "💑",
+        "name": "couple with heart"
+      },
+      {
+        "id": "472",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F468"
+        ],
+        "emoji": "👩‍❤️‍👨",
+        "name": "couple with heart: woman, man"
+      },
+      {
+        "id": "473",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F468"
+        ],
+        "emoji": "👨‍❤️‍👨",
+        "name": "couple with heart: man, man"
+      },
+      {
+        "id": "474",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+2764",
+          "U+FE0F",
+          "U+200D",
+          "U+1F469"
+        ],
+        "emoji": "👩‍❤️‍👩",
+        "name": "couple with heart: woman, woman"
+      },
+      {
+        "id": "475",
+        "unicode": "U+1F46A",
+        "emoji": "👪",
+        "name": "family"
+      },
+      {
+        "id": "476",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👩‍👦",
+        "name": "family: man, woman, boy"
+      },
+      {
+        "id": "477",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👩‍👧",
+        "name": "family: man, woman, girl"
+      },
+      {
+        "id": "478",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👩‍👧‍👦",
+        "name": "family: man, woman, girl, boy"
+      },
+      {
+        "id": "479",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F466",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👩‍👦‍👦",
+        "name": "family: man, woman, boy, boy"
+      },
+      {
+        "id": "480",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👩‍👧‍👧",
+        "name": "family: man, woman, girl, girl"
+      },
+      {
+        "id": "481",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F468",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👨‍👦",
+        "name": "family: man, man, boy"
+      },
+      {
+        "id": "482",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F468",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👨‍👧",
+        "name": "family: man, man, girl"
+      },
+      {
+        "id": "483",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F468",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👨‍👧‍👦",
+        "name": "family: man, man, girl, boy"
+      },
+      {
+        "id": "484",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F468",
+          "U+200D",
+          "U+1F466",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👨‍👦‍👦",
+        "name": "family: man, man, boy, boy"
+      },
+      {
+        "id": "485",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F468",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👨‍👧‍👧",
+        "name": "family: man, man, girl, girl"
+      },
+      {
+        "id": "486",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👩‍👦",
+        "name": "family: woman, woman, boy"
+      },
+      {
+        "id": "487",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👩‍👩‍👧",
+        "name": "family: woman, woman, girl"
+      },
+      {
+        "id": "488",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👩‍👧‍👦",
+        "name": "family: woman, woman, girl, boy"
+      },
+      {
+        "id": "489",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F466",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👩‍👦‍👦",
+        "name": "family: woman, woman, boy, boy"
+      },
+      {
+        "id": "490",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👩‍👩‍👧‍👧",
+        "name": "family: woman, woman, girl, girl"
+      },
+      {
+        "id": "491",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👦",
+        "name": "family: man, boy"
+      },
+      {
+        "id": "492",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F466",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👦‍👦",
+        "name": "family: man, boy, boy"
+      },
+      {
+        "id": "493",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👧",
+        "name": "family: man, girl"
+      },
+      {
+        "id": "494",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👨‍👧‍👦",
+        "name": "family: man, girl, boy"
+      },
+      {
+        "id": "495",
+        "unicode": [
+          "U+1F468",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👨‍👧‍👧",
+        "name": "family: man, girl, girl"
+      },
+      {
+        "id": "496",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👦",
+        "name": "family: woman, boy"
+      },
+      {
+        "id": "497",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F466",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👦‍👦",
+        "name": "family: woman, boy, boy"
+      },
+      {
+        "id": "498",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👩‍👧",
+        "name": "family: woman, girl"
+      },
+      {
+        "id": "499",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F466"
+        ],
+        "emoji": "👩‍👧‍👦",
+        "name": "family: woman, girl, boy"
+      },
+      {
+        "id": "500",
+        "unicode": [
+          "U+1F469",
+          "U+200D",
+          "U+1F467",
+          "U+200D",
+          "U+1F467"
+        ],
+        "emoji": "👩‍👧‍👧",
+        "name": "family: woman, girl, girl"
+      }
+    ],
+    "person-symbol": [
+      {
+        "id": "501",
+        "unicode": "U+1F5E3",
+        "emoji": "🗣",
+        "name": "speaking head"
+      },
+      {
+        "id": "502",
+        "unicode": "U+1F464",
+        "emoji": "👤",
+        "name": "bust in silhouette"
+      },
+      {
+        "id": "503",
+        "unicode": "U+1F465",
+        "emoji": "👥",
+        "name": "busts in silhouette"
+      },
+      {
+        "id": "504",
+        "unicode": "U+1FAC2",
+        "emoji": "🫂",
+        "name": "people hugging"
+      },
+      {
+        "id": "505",
+        "unicode": "U+1F463",
+        "emoji": "👣",
+        "name": "footprints"
+      }
+    ]
+  }
+}
