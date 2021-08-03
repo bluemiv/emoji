@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bluemiv.github.io/emoji/sitemap.xml
+Sitemap: https://bluemiv.github.io/emoji/sitemap/sitemap-index.xml
 Host: https://bluemiv.github.io
