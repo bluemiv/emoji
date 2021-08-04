@@ -36,10 +36,20 @@ function Seo({ description, lang, meta, title }) {
       title={title}
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
+        // Google Search Console
+        {
+          name: "google-site-verification",
+          content: "4gt--MEEcnP2lX9x2cuQbivs1yzLLXrOx0RbUtiRqzs",
+        },
+        // Encoding
+        {
+          charSet: "utf-8",
+        },
         {
           name: `description`,
           content: metaDescription,
         },
+        // OG Tags
         {
           property: `og:title`,
           content: title,
@@ -53,8 +63,25 @@ function Seo({ description, lang, meta, title }) {
           content: `website`,
         },
         {
+          property: "og:url",
+          content: "https://bluemiv.github.io/emoji",
+        },
+        {
+          property: "og:image",
+          content: "https://bluemiv.github.io/emoji/logo512.png",
+        },
+        {
+          property: "og:image:width",
+          content: "512",
+        },
+        {
+          property: "og:image:height",
+          content: "512",
+        },
+        // Twitter
+        {
           name: `twitter:card`,
-          content: `summary`,
+          content: metaDescription,
         },
         {
           name: `twitter:creator`,

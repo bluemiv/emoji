@@ -1,6 +1,8 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
+import { Helmet } from "react-helmet"
+import Seo from "./seo"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -9,6 +11,10 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <Seo
+      title="Emoji Set 이모지 모음"
+      description="Easily copy and paste emojis."
+    />
     <div
       style={{
         margin: `0 auto`,

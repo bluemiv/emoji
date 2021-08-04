@@ -6,14 +6,13 @@ module.exports = {
     siteUrl: `https://bluemiv.github.io/emoji/`,
   },
   plugins: [
+    // sitemap
     {
       resolve: "gatsby-plugin-sitemap",
-      // options: {
-      //   output: "/",
-      // },
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
+    // robots.txt
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
