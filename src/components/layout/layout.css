@@ -25,14 +25,18 @@ code {
   overflow: auto;
   position: fixed;
   left: 0;
+  top: 0;
+  box-sizing: border-box;
 }
 /* 메인 */
 .container .site-layout {
+  display: flex;
+  flex-direction: column;
   flex: 1;
+  box-sizing: border-box;
 }
 /* 헤더 */
 .container .site-layout .header {
-  width: 100%;
 }
 
 @media only screen and (max-width: 1024px) {
