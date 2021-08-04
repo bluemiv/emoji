@@ -1,8 +1,8 @@
-import * as React from "react"
+import React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import { Layout, Menu } from "antd"
-import Seo from "./seo"
+import Seo from "./Seo"
 
 const { Header } = Layout
 
@@ -11,7 +11,7 @@ const HeaderContainer = ({ siteTitle }) => {
     {
       key: 1,
       url: "/",
-      title: "Emoji Set",
+      title: "ALL",
     },
     {
       key: 2,
@@ -41,21 +41,24 @@ const HeaderContainer = ({ siteTitle }) => {
   ]
 
   return (
-    <Header>
+    <>
       {/* SEO 설정 */}
       <Seo
         title="Emoji Set 이모지 모음"
         description="Easily copy and paste emojis."
       />
-      <div className="logo" />
-      <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
-        {menuItems.map(menuItem => (
-          <Menu.Item key={menuItem.key}>
-            <Link to={menuItem.url}>{menuItem.title}</Link>
-          </Menu.Item>
-        ))}
-      </Menu>
-    </Header>
+      {/* 헤더 */}
+      <Header className="header" style={{ padding: 0 }}>
+        <div className="logo" />
+        <Menu mode="horizontal" defaultSelectedKeys={["1"]}>
+          {menuItems.map(menuItem => (
+            <Menu.Item key={menuItem.key}>
+              <Link to={menuItem.url}>{menuItem.title}</Link>
+            </Menu.Item>
+          ))}
+        </Menu>
+      </Header>
+    </>
   )
 }
 

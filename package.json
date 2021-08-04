@@ -6,6 +6,7 @@
   "description": "Easily copy and paste emojis.",
   "author": "Taehong Kim <public.devhong@gmail.com>",
   "dependencies": {
+    "@ant-design/icons": "^4.6.2",
     "antd": "^4.16.10",
     "axios": "^0.21.1",
     "gatsby": "^3.10.2",

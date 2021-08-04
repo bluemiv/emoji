@@ -14,6 +14,27 @@ code {
     monospace;
 }
 
+/* 전체 컨테이너 */
+.container {
+  display: flex;
+}
+/* 사이드바 */
+.container .site-layout-sidebar {
+  width: 200px;
+  height: 100vh;
+  overflow: auto;
+  position: fixed;
+  left: 0;
+}
+/* 메인 */
+.container .site-layout {
+  flex: 1;
+}
+/* 헤더 */
+.container .site-layout .header {
+  width: 100%;
+}
+
 @media only screen and (max-width: 1024px) {
 }
 
