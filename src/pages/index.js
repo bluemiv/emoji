@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import BasicLayout from "../components/layout/BasicLayout"
 
 function IndexPage() {
-  return <BasicLayout></BasicLayout>
+  return <BasicLayout>내용</BasicLayout>
 }
 
 export default IndexPage
