@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemoji=self.webpackChunkemoji||[]).push([[883],{9616:function(e,n,u){u.r(n);var t=u(7294),c=u(9525);n.default=function(){return t.createElement(c.Z,null)}}}]);
+//# sourceMappingURL=component---src-pages-404-js-995b1165d3acb401c54f.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkemoji=self.webpackChunkemoji||[]).push([[678],{7704:function(e,n,u){u.r(n);var t=u(7294),c=(u(5444),u(7593));n.default=function(){return t.createElement(c.Z,null,"내용")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-d09e80eee3f770418d82.js.map
