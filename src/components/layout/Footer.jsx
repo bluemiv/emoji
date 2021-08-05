@@ -1,16 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { Link } from "gatsby"
-import { Layout } from "antd"
 
-const { Footer } = Layout
-
-function FooterWrapper() {
-  return (
-    <Footer style={{ textAlign: "center" }}>
-      Emoji Set © {new Date().getFullYear()} Created by bluemiv
-    </Footer>
-  )
+function Footer(props) {
+  return <div>Emoji Set © {new Date().getFullYear()} Created by bluemiv</div>
 }
 
-export default FooterWrapper
+Footer.propTypes = {}
+
+export default Footer
