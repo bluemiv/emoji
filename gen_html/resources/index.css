@@ -183,13 +183,45 @@ select {
   align-items: center;
   height: 80px;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 0 20px;
   margin: 0;
   color: #ffffff;
   background-color: [##_primary_color_##];
 }
 .header-tit {
   font-size: 1.25em;
+  margin-right: 10px;
+}
+
+/* Navigation */
+.nav {
+  list-style: none;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  color: #ffffff;
+  height: 80px;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 80px;
+}
+.nav li a {
+  text-decoration: none;
+  color: #ffffff;
+  line-height: 80px;
+  padding: 0 10px;
+  margin: 0;
+  display: block;
+}
+.nav li a:hover {
+  transition: all 0.1s ease-in-out;
+  background-color: #ffffff;
+  color: [##_primary_color_##];
 }
 
 /* Main */

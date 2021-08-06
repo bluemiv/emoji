@@ -1,0 +1,49 @@
+{
+  "use": true,
+  "items": [
+    {
+      "url": "[##_homepage_##]",
+      "text": "HOME"
+    },
+    {
+      "url": "[##_homepage_smileys_##]",
+      "text": "😀💗"
+    },
+    {
+      "url": "[##_homepage_people_##]",
+      "text": "🤚🙆"
+    },
+    {
+      "url": "[##_homepage_component_##]",
+      "text": "🦱"
+    },
+    {
+      "url": "[##_homepage_animals_##]",
+      "text": "🐵🌳"
+    },
+    {
+      "url": "[##_homepage_food_##]",
+      "text": "🍓🍺"
+    },
+    {
+      "url": "[##_homepage_travel_##]",
+      "text": "🚌⛅"
+    },
+    {
+      "url": "[##_homepage_activities_##]",
+      "text": "⚽"
+    },
+    {
+      "url": "[##_homepage_objects_##]",
+      "text": "👗"
+    },
+    {
+      "url": "[##_homepage_symbols_##]",
+      "text": "🚻"
+    },
+    {
+      "url": "[##_homepage_flags_##]",
+      "text": "🏴‍☠️"
+    }
+  ]
+}

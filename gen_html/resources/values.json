@@ -62,5 +62,45 @@
   "light_gray_color": {
     "html": "[##_light_gray_color_##]",
     "python": "#e9ecef"
+  },
+  "homepage_smileys": {
+    "html": "[##_homepage_smileys_##]",
+    "python": "https://bluemiv.github.io/emoji/smileys.html"
+  },
+  "homepage_people": {
+    "html": "[##_homepage_people_##]",
+    "python": "https://bluemiv.github.io/emoji/people.html"
+  },
+  "homepage_component": {
+    "html": "[##_homepage_component_##]",
+    "python": "https://bluemiv.github.io/emoji/component.html"
+  },
+  "homepage_animals": {
+    "html": "[##_homepage_animals_##]",
+    "python": "https://bluemiv.github.io/emoji/animals.html"
+  },
+  "homepage_food": {
+    "html": "[##_homepage_food_##]",
+    "python": "https://bluemiv.github.io/emoji/food.html"
+  },
+  "homepage_travel": {
+    "html": "[##_homepage_travel_##]",
+    "python": "https://bluemiv.github.io/emoji/travel.html"
+  },
+  "homepage_activities": {
+    "html": "[##_homepage_activities_##]",
+    "python": "https://bluemiv.github.io/emoji/activities.html"
+  },
+  "homepage_objects": {
+    "html": "[##_homepage_objects_##]",
+    "python": "https://bluemiv.github.io/emoji/objects.html"
+  },
+  "homepage_symbols": {
+    "html": "[##_homepage_symbols_##]",
+    "python": "https://bluemiv.github.io/emoji/symbols.html"
+  },
+  "homepage_flags": {
+    "html": "[##_homepage_flags_##]",
+    "python": "https://bluemiv.github.io/emoji/flags.html"
   }
 }

@@ -33,6 +33,15 @@ def get_file(layout_name, json_value=False):
         return f.read()
 
 
+def gen_nav():
+    nav = get_file("nav.json", json_value=True)
+    if nav["use"]:
+        html = ''
+        for item in nav["items"]:
+            html += '<li><a href="{url}">{text}</a></li>\n'.format(**item)
+        return html
+
+
 def gen_breadcrumb():
     breadcrumb = get_file("breadcrumb.json", json_value=True)
     if breadcrumb["use"]:
@@ -99,6 +108,7 @@ if __name__ == "__main__":
         sitemap = get_file("sitemap.xml")
         robots = get_file("robots.txt")
 
+    html = html.replace("[##_nav_##]", gen_nav())
     html = html.replace("[##_breadcrumb_##]", gen_breadcrumb())
     html = html.replace("[##_emoji_container_list_##]", gen_emoji_container(HTML_NAME))
 
