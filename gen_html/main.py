@@ -5,7 +5,7 @@ import json
 
 BASE_DIR_PATH = os.path.dirname(__file__)
 RESOURCES_DIR_PATH = os.path.join(BASE_DIR_PATH, "resources")
-RESULT_DIR_PATH = os.path.join(BASE_DIR_PATH, "result")
+RESULT_DIR_PATH = os.path.join(BASE_DIR_PATH, "../")
 
 
 def get_file(layout_name, json_value=False):
@@ -51,14 +51,13 @@ if __name__ == "__main__":
     print("check variable")
     assert os.path.exists(BASE_DIR_PATH), "Unexpected error. {}".format(BASE_DIR_PATH)
     assert os.path.exists(RESOURCES_DIR_PATH), "Resource is required. {}".format(RESOURCES_DIR_PATH)
-    
-    if not os.path.exists(RESULT_DIR_PATH):
-        print("make result directories")
-        os.makedirs(RESULT_DIR_PATH)
+
+    print(RESULT_DIR_PATH)
 
     value = get_file("values.json", json_value=True)
     html = get_file("index.html")
     css = get_file("index.css")
+    sitemap = get_file("sitemap.xml")
 
     html = html.replace("[##_breadcrumb_##]", gen_breadcrumb())
     html = html.replace("[##_emoji_container_list_##]", gen_emoji_container())
@@ -67,9 +66,13 @@ if __name__ == "__main__":
         print("replace '{}'".format(k))
         html = html.replace(v["html"], v["python"])
         css = css.replace(v["html"], v["python"])
+        sitemap = sitemap.replace(v["html"], v["python"])
 
     with open(os.path.join(RESULT_DIR_PATH, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
 
     with open(os.path.join(RESULT_DIR_PATH, "index.css"), "w", encoding="utf-8") as f:
         f.write(css)
+
+    with open(os.path.join(RESULT_DIR_PATH, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap)
