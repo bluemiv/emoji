@@ -24,12 +24,28 @@ def gen_breadcrumb():
         return html
 
 def gen_emoji_container():
-    breadcrumb = get_file("emoji_container.json", json_value=True)
-    if breadcrumb["use"]:
-        html = ''
-        for item in breadcrumb["items"]:
-            html += '<li><a href="{url}">{text}</a></li>\n'.format(**item)
-        return html
+    emoji_container = get_file("emoji_container.json", json_value=True)
+    if not emoji_container["use"]:
+        return
+
+    html = ''
+    for k, v in emoji_container["items"].items():
+        html += '<div class="emoji-container">\n'
+        html += '<h3 class="emoji-container-tit">{}</h3>\n'.format(k)
+        html += '<ul class="emoji-items">\n'
+        for k2, v2 in v.items():
+            for emoji in v2:
+                html += '<li class="emoji-item" id="emoji-item-{id}" name="{name}" data-unicode="{unicode}" onclick="{onclick}">{emoji}</li>\n'.format(**{
+                    "id": emoji["id"],
+                    "name": emoji["name"],
+                    "emoji": emoji["emoji"],
+                    "unicode": emoji["unicode"] if type(emoji["unicode"]) == "<class 'str'>" else emoji["unicode"][0],
+                    "onclick": 'navigator.clipboard.writeText(document.querySelector(\'#emoji-item-{}\').innerText);'.format(emoji["id"])
+                })
+        html += '</ul>\n'
+        html += '</div>\n'
+
+    return html
 
 if __name__ == "__main__":
     print("check variable")
@@ -45,6 +61,7 @@ if __name__ == "__main__":
     css = get_file("index.css")
 
     html = html.replace("[##_breadcrumb_##]", gen_breadcrumb())
+    html = html.replace("[##_emoji_container_list_##]", gen_emoji_container())
 
     for k, v in value.items():
         print("replace '{}'".format(k))
