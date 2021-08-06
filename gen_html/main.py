@@ -70,7 +70,7 @@ def gen_emoji_container(html_name=None):
                         "name": emoji["name"],
                         "emoji": emoji["emoji"],
                         "unicode": emoji["unicode"] if type(emoji["unicode"]) == "<class 'str'>" else emoji["unicode"][0],
-                        "onclick": 'navigator.clipboard.writeText(document.querySelector(\'#emoji-item-{}\').innerText);'.format(emoji["id"])
+                        "onclick": 'copyToClipboard(\'#emoji-item-{}\');'.format(emoji["id"])
                     })
             html += '</ul>\n'
             html += '</div>\n'

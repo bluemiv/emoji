@@ -66,5 +66,30 @@
         <p>&copy; [##_logo_title_##]. Created by [##_author_##]</p>
       </footer>
     </div>
+
+    <div class="alert">
+      <p class="alert-tit">복사 완료</p>
+      <p><span class="alert-emoji"></span> 를 붙여서 사용하세요!</p>
+    </div>
+
+    <script type="text/javascript">
+      // document loaded
+      document.addEventListener("DOMContentLoaded", () => {});
+
+      function copyToClipboard(id) {
+        const emoji = document.querySelector(id).innerText;
+        navigator.clipboard.writeText(emoji);
+
+        const alert = document.querySelector(".alert");
+        alert.style.display = "flex";
+
+        const alertEmoji = document.querySelector(".alert-emoji");
+        alertEmoji.innerText = emoji;
+
+        setTimeout(() => {
+          alert.style.display = "none";
+        }, [2000]);
+      }
+    </script>
   </body>
 </html>
