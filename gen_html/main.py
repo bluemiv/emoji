@@ -58,6 +58,7 @@ if __name__ == "__main__":
     html = get_file("index.html")
     css = get_file("index.css")
     sitemap = get_file("sitemap.xml")
+    robots = get_file("robots.txt")
 
     html = html.replace("[##_breadcrumb_##]", gen_breadcrumb())
     html = html.replace("[##_emoji_container_list_##]", gen_emoji_container())
@@ -67,6 +68,7 @@ if __name__ == "__main__":
         html = html.replace(v["html"], v["python"])
         css = css.replace(v["html"], v["python"])
         sitemap = sitemap.replace(v["html"], v["python"])
+        robots = robots.replace(v["html"], v["python"])
 
     with open(os.path.join(RESULT_DIR_PATH, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
@@ -76,3 +78,6 @@ if __name__ == "__main__":
 
     with open(os.path.join(RESULT_DIR_PATH, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
+
+    with open(os.path.join(RESULT_DIR_PATH, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(robots)

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: [##_homepage_##]/sitemap.xml
+Host: [##_homepage_##]
