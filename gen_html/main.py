@@ -49,6 +49,8 @@ def gen_breadcrumb():
         for item in breadcrumb["items"]:
             html += '<li><a href="{url}">{text}</a></li>\n'.format(**item)
         return html
+    else:
+        return ""
 
 def gen_emoji_container(html_name=None):
     emoji_container = get_file("emoji_container.json", json_value=True)
