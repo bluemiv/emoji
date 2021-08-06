@@ -309,4 +309,5 @@ ul.emoji-items li:hover {
   align-items: center;
   font-size: 0.9em;
   height: 60px;
+  background-color: [##_main_background_color_##];
 }
