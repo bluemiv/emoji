@@ -37,7 +37,7 @@
   },
   "og_img_url": {
     "html": "[##_og_img_url_##]",
-    "python": "https://bluemiv.github.io/emoji/logo512.png"
+    "python": "https://bluemiv.github.io/emoji/favicon-512x512.png"
   },
   "og_img_width": {
     "html": "[##_og_img_width_##]",
